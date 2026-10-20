@@ -1,0 +1,5 @@
+segment,doctors,avg_potential,avg_visits,revenue,sim_revenue
+Maintain (Low-touch),488,14.5,8.2,12750200,12750200.0
+Over-served (Reduce),300,16.7,18.0,10236960,9743240.0
+Protect & Grow (Core),360,47.7,26.6,36509850,36509850.0
+Under-served (Increase),52,42.0,8.2,3907440,4955557.5

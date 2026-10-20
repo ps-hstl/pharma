@@ -1,0 +1,7 @@
+product_id,product_name,therapy_area,unit_price
+P1,CardioSafe,Cardiology,180
+P2,GlucoBalance,Diabetes,150
+P3,RespiClear,Respiratory,120
+P4,NeuroCalm,Neurology,220
+P5,GastroEase,Gastro,90
+P6,VitaPlus,General Health,60

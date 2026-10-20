@@ -1,0 +1,11 @@
+doctor_id,specialty,potential,assigned_tier,h1,h2,change_pct
+D1074,Cardiologist,54,A,94020,75590,-19.6
+D1000,Neurologist,61,C,70740,61360,-13.3
+D0398,Neurologist,33,B,40020,32910,-17.8
+D0577,General Physician,40,A,44190,37830,-14.4
+D0279,Cardiologist,39,B,52780,46680,-11.6
+D0682,Cardiologist,37,A,53710,47750,-11.1
+D1109,Cardiologist,30,B,40990,36280,-11.5
+D0910,Cardiologist,28,B,36650,32100,-12.4
+D0446,General Physician,28,B,30340,26100,-14.0
+D0781,Pulmonologist,30,C,17280,15390,-10.9

@@ -1,0 +1,9 @@
+territory_name,region,doctors,visits,revenue,revenue_per_visit,revenue_per_doctor,revenue_rank
+Delhi,North,189,3014,10243120,3399.0,54196.0,1
+Bengaluru,South,164,2738,10188250,3721.0,62123.0,2
+Mumbai,West,207,3211,9804800,3054.0,47366.0,3
+Kolkata,East,152,2410,8293930,3441.0,54565.0,4
+Chennai,South,142,2436,7828380,3214.0,55129.0,5
+Pune,West,132,2141,6523610,3047.0,49421.0,6
+Ahmedabad,West,116,1921,5926410,3085.0,51090.0,7
+Jaipur,North,98,1564,4595950,2939.0,46897.0,8

@@ -1,0 +1,55 @@
+{
+  "doctors": 1200,
+  "visits": 19435,
+  "revenue": 63404450,
+  "top20pct_doctor_share": 48.2,
+  "tierC_high_potential": 60,
+  "tierA_not_high_potential": 26,
+  "segment_counts": {
+    "Maintain (Low-touch)": 488,
+    "Protect & Grow (Core)": 360,
+    "Over-served (Reduce)": 300,
+    "Under-served (Increase)": 52
+  },
+  "segment_visit_share": {
+    "Maintain (Low-touch)": 20.7,
+    "Over-served (Reduce)": 27.8,
+    "Protect & Grow (Core)": 49.3,
+    "Under-served (Increase)": 2.2
+  },
+  "segment_revenue_share": {
+    "Maintain (Low-touch)": 20.1,
+    "Over-served (Reduce)": 16.1,
+    "Protect & Grow (Core)": 57.6,
+    "Under-served (Increase)": 6.2
+  },
+  "segment_avg_visits": {
+    "Maintain (Low-touch)": 8.2,
+    "Over-served (Reduce)": 18.0,
+    "Protect & Grow (Core)": 26.6,
+    "Under-served (Increase)": 8.2
+  },
+  "segment_avg_potential": {
+    "Maintain (Low-touch)": 14.5,
+    "Over-served (Reduce)": 16.7,
+    "Protect & Grow (Core)": 47.7,
+    "Under-served (Increase)": 42.0
+  },
+  "silhouette": {
+    "2": 0.334,
+    "3": 0.372,
+    "4": 0.301,
+    "5": 0.313,
+    "6": 0.273,
+    "7": 0.259
+  },
+  "simulation": {
+    "visits_moved": 1620,
+    "baseline_revenue": 63404450,
+    "simulated_revenue": 63958847,
+    "uplift": 554397,
+    "uplift_pct": 0.87,
+    "elasticity": 0.139
+  },
+  "high_pot_declining": 10
+}

@@ -1,0 +1,1201 @@
+doctor_id,specialty,territory_id,hospital_type,experience_years,rep_id,est_monthly_potential,assigned_tier,visits_12m,revenue_12m,units_12m,products_prescribed,growth_pct,revenue_per_visit,visits_per_month,segment,potential_group,cluster,sim_revenue
+D0001,Gastroenterologist,T05,Private Hospital,19,R013,19,C,4,21020,201,6,6.69,5255.0,0.33,Maintain (Low-touch),Low/Mid,0,21020.0
+D0002,Pulmonologist,T07,Private Hospital,22,R020,25,C,11,38420,332,6,4.14,3492.73,0.92,Maintain (Low-touch),Low/Mid,0,38420.0
+D0003,Diabetologist,T04,Private Hospital,2,R010,35,B,21,75340,552,6,14.22,3587.62,1.75,Protect & Grow (Core),High,1,75340.0
+D0004,Gastroenterologist,T02,Private Clinic,31,R004,23,C,11,23090,227,6,-12.58,2099.09,0.92,Maintain (Low-touch),Low/Mid,0,23090.0
+D0005,Pulmonologist,T05,Private Clinic,32,R014,45,A,34,82970,735,6,15.17,2440.29,2.83,Protect & Grow (Core),High,1,82970.0
+D0006,Gastroenterologist,T01,Private Hospital,21,R002,21,C,10,29150,292,6,22.86,2915.0,0.83,Maintain (Low-touch),Low/Mid,0,29150.0
+D0007,General Physician,T07,Private Clinic,20,R019,35,B,18,73480,639,6,23.62,4082.22,1.5,Protect & Grow (Core),High,1,73480.0
+D0008,Cardiologist,T05,Multispecialty,24,R013,14,C,8,28270,184,6,-2.03,3533.75,0.67,Maintain (Low-touch),Low/Mid,0,28270.0
+D0009,Cardiologist,T06,Private Clinic,16,R016,6,C,11,12800,82,6,34.43,1163.64,0.92,Maintain (Low-touch),Low/Mid,0,12800.0
+D0010,Diabetologist,T03,Private Clinic,14,R009,25,C,12,49840,362,6,17.17,4153.33,1.0,Over-served (Reduce),Low/Mid,0,47436.26
+D0011,General Physician,T08,Government Hospital,13,R023,40,B,15,67470,608,6,3.59,4498.0,1.25,Protect & Grow (Core),High,1,67470.0
+D0012,General Physician,T07,Private Clinic,7,R019,29,C,12,57440,516,6,3.76,4786.67,1.0,Protect & Grow (Core),High,1,57440.0
+D0013,Diabetologist,T06,Multispecialty,29,R016,27,B,20,56900,411,6,-3.79,2845.0,1.67,Over-served (Reduce),Low/Mid,1,54155.76
+D0014,General Physician,T02,Government Hospital,12,R006,14,C,13,27490,251,6,-1.8,2114.62,1.08,Over-served (Reduce),Low/Mid,0,26164.18
+D0015,Neurologist,T04,Private Clinic,11,R010,12,C,13,33310,176,6,1.51,2562.31,1.08,Over-served (Reduce),Low/Mid,0,31703.49
+D0016,Neurologist,T01,Government Hospital,33,R003,34,C,10,73480,396,6,27.28,7348.0,0.83,Under-served (Increase),High,1,87483.05
+D0017,General Physician,T01,Private Hospital,18,R002,32,B,27,48660,459,6,18.89,1802.22,2.25,Protect & Grow (Core),High,1,48660.0
+D0018,Cardiologist,T06,Government Hospital,22,R016,14,B,23,33900,215,6,18.29,1473.91,1.92,Over-served (Reduce),Low/Mid,0,32265.03
+D0019,Diabetologist,T06,Multispecialty,10,R016,47,A,30,110050,799,6,31.73,3668.33,2.5,Protect & Grow (Core),High,1,110050.0
+D0020,Gastroenterologist,T08,Government Hospital,11,R022,11,C,9,14500,144,5,55.28,1611.11,0.75,Maintain (Low-touch),Low/Mid,2,14500.0
+D0021,Diabetologist,T03,Private Hospital,26,R009,14,C,5,22860,169,6,36.4,4572.0,0.42,Maintain (Low-touch),Low/Mid,0,22860.0
+D0022,General Physician,T03,Private Clinic,16,R008,66,A,29,138200,1225,6,5.93,4765.52,2.42,Protect & Grow (Core),High,1,138200.0
+D0023,Diabetologist,T04,Government Hospital,6,R011,37,B,13,64510,489,6,22.91,4962.31,1.08,Protect & Grow (Core),High,1,64510.0
+D0024,Cardiologist,T02,Multispecialty,29,R004,16,C,8,31640,205,6,26.97,3955.0,0.67,Maintain (Low-touch),Low/Mid,0,31640.0
+D0025,Diabetologist,T01,Private Hospital,15,R003,26,C,14,47010,344,6,-10.52,3357.86,1.17,Over-served (Reduce),Low/Mid,0,44742.75
+D0026,Neurologist,T04,Government Hospital,24,R010,22,A,37,69560,374,6,41.19,1880.0,3.08,Over-served (Reduce),Low/Mid,1,66205.18
+D0027,Diabetologist,T02,Private Hospital,13,R005,5,C,15,5260,37,5,0.76,350.67,1.25,Over-served (Reduce),Low/Mid,2,5006.31
+D0028,Cardiologist,T06,Government Hospital,20,R018,13,C,6,21660,147,6,10.29,3610.0,0.5,Maintain (Low-touch),Low/Mid,0,21660.0
+D0029,General Physician,T03,Multispecialty,27,R009,26,C,10,37260,334,6,22.32,3726.0,0.83,Maintain (Low-touch),Low/Mid,0,37260.0
+D0030,Pulmonologist,T07,Private Clinic,31,R020,13,C,7,17580,164,6,1.61,2511.43,0.58,Maintain (Low-touch),Low/Mid,0,17580.0
+D0031,Pulmonologist,T06,Private Clinic,8,R018,20,C,6,29460,267,6,-3.6,4910.0,0.5,Maintain (Low-touch),Low/Mid,0,29460.0
+D0032,Cardiologist,T03,Private Hospital,24,R007,39,A,42,139020,886,6,19.69,3310.0,3.5,Protect & Grow (Core),High,1,139020.0
+D0033,Pulmonologist,T07,Private Hospital,32,R021,16,C,9,20740,184,6,-4.52,2304.44,0.75,Maintain (Low-touch),Low/Mid,0,20740.0
+D0034,Diabetologist,T07,Private Hospital,23,R020,11,C,11,17730,139,6,61.5,1611.82,0.92,Maintain (Low-touch),Low/Mid,0,17730.0
+D0035,Gastroenterologist,T03,Private Clinic,6,R008,27,C,9,35290,357,6,4.94,3921.11,0.75,Maintain (Low-touch),Low/Mid,0,35290.0
+D0036,Diabetologist,T03,Private Hospital,8,R007,16,C,4,27270,201,6,-5.49,6817.5,0.33,Maintain (Low-touch),Low/Mid,0,27270.0
+D0037,General Physician,T06,Private Hospital,8,R018,19,A,42,38290,341,6,-9.6,911.67,3.5,Over-served (Reduce),Low/Mid,1,36443.31
+D0038,General Physician,T01,Private Hospital,5,R003,15,C,8,32170,277,6,-0.31,4021.25,0.67,Maintain (Low-touch),Low/Mid,0,32170.0
+D0039,Cardiologist,T02,Government Hospital,26,R006,94,A,34,268240,1735,6,10.19,7889.41,2.83,Protect & Grow (Core),High,1,268240.0
+D0040,Cardiologist,T01,Government Hospital,33,R001,5,C,10,8470,52,4,49.12,847.0,0.83,Maintain (Low-touch),Low/Mid,2,8470.0
+D0041,Cardiologist,T07,Private Hospital,19,R020,12,C,6,28030,188,6,8.09,4671.67,0.5,Maintain (Low-touch),Low/Mid,0,28030.0
+D0042,Gastroenterologist,T06,Government Hospital,21,R018,17,C,10,26380,267,6,25.47,2638.0,0.83,Maintain (Low-touch),Low/Mid,0,26380.0
+D0043,Cardiologist,T06,Private Hospital,27,R017,10,C,7,23020,146,6,-14.8,3288.57,0.58,Maintain (Low-touch),Low/Mid,0,23020.0
+D0044,General Physician,T07,Private Hospital,15,R021,41,C,7,72460,635,6,14.57,10351.43,0.58,Under-served (Increase),High,1,91401.23
+D0045,General Physician,T04,Private Hospital,17,R012,37,B,12,69870,613,6,26.41,5822.5,1.0,Protect & Grow (Core),High,1,69870.0
+D0046,General Physician,T05,Private Clinic,21,R013,21,C,10,32170,289,6,25.28,3217.0,0.83,Maintain (Low-touch),Low/Mid,0,32170.0
+D0047,Gastroenterologist,T01,Private Clinic,12,R002,13,C,11,21770,219,6,-16.44,1979.09,0.92,Maintain (Low-touch),Low/Mid,0,21770.0
+D0048,General Physician,T01,Private Hospital,4,R001,15,C,9,34020,300,6,31.43,3780.0,0.75,Maintain (Low-touch),Low/Mid,0,34020.0
+D0049,Cardiologist,T06,Multispecialty,20,R017,20,B,15,47540,303,6,16.78,3169.33,1.25,Over-served (Reduce),Low/Mid,0,45247.19
+D0050,Neurologist,T04,Government Hospital,29,R011,13,C,9,41370,231,6,6.33,4596.67,0.75,Maintain (Low-touch),Low/Mid,0,41370.0
+D0051,Pulmonologist,T05,Private Clinic,4,R015,20,C,7,23500,211,6,26.4,3357.14,0.58,Maintain (Low-touch),Low/Mid,0,23500.0
+D0052,General Physician,T06,Private Hospital,9,R018,19,C,10,41170,383,6,-0.15,4117.0,0.83,Maintain (Low-touch),Low/Mid,0,41170.0
+D0053,Gastroenterologist,T05,Private Clinic,10,R014,37,B,19,45430,464,6,21.83,2391.05,1.58,Protect & Grow (Core),High,1,45430.0
+D0054,General Physician,T05,Government Hospital,28,R014,8,C,9,16860,150,6,22.13,1873.33,0.75,Maintain (Low-touch),Low/Mid,0,16860.0
+D0055,Diabetologist,T05,Multispecialty,18,R014,11,C,13,21750,156,6,14.92,1673.08,1.08,Over-served (Reduce),Low/Mid,0,20701.02
+D0056,General Physician,T03,Private Hospital,19,R008,8,C,9,9730,89,6,83.67,1081.11,0.75,Maintain (Low-touch),Low/Mid,0,9730.0
+D0057,Neurologist,T01,Private Hospital,23,R002,27,B,31,110450,601,6,11.51,3562.9,2.58,Over-served (Reduce),Low/Mid,1,105123.09
+D0058,Neurologist,T03,Private Clinic,11,R009,26,C,13,52110,290,6,49.93,4008.46,1.08,Over-served (Reduce),Low/Mid,0,49596.78
+D0059,General Physician,T02,Private Hospital,25,R006,22,B,24,61890,559,6,3.12,2578.75,2.0,Over-served (Reduce),Low/Mid,1,58905.1
+D0060,Pulmonologist,T03,Multispecialty,2,R009,8,C,9,11910,111,5,18.13,1323.33,0.75,Maintain (Low-touch),Low/Mid,2,11910.0
+D0061,Pulmonologist,T07,Government Hospital,5,R019,68,A,28,123750,1086,6,4.44,4419.64,2.33,Protect & Grow (Core),High,1,123750.0
+D0062,Gastroenterologist,T02,Private Hospital,28,R005,13,C,13,18730,184,6,23.78,1440.77,1.08,Over-served (Reduce),Low/Mid,0,17826.67
+D0063,Cardiologist,T01,Private Clinic,23,R002,20,C,12,47450,304,6,9.86,3954.17,1.0,Over-served (Reduce),Low/Mid,0,45161.53
+D0064,Pulmonologist,T03,Private Clinic,7,R008,40,B,17,56910,505,6,9.61,3347.65,1.42,Protect & Grow (Core),High,1,56910.0
+D0065,Diabetologist,T03,Private Clinic,16,R008,8,C,10,18390,140,6,17.38,1839.0,0.83,Maintain (Low-touch),Low/Mid,0,18390.0
+D0066,Cardiologist,T06,Private Clinic,3,R018,16,C,14,28190,181,6,-1.48,2013.57,1.17,Over-served (Reduce),Low/Mid,0,26830.42
+D0067,General Physician,T05,Private Clinic,24,R014,22,C,6,41030,367,6,16.52,6838.33,0.5,Maintain (Low-touch),Low/Mid,0,41030.0
+D0068,Gastroenterologist,T07,Multispecialty,26,R019,123,A,43,241940,2503,6,20.59,5626.51,3.58,Protect & Grow (Core),High,1,241940.0
+D0069,Pulmonologist,T06,Private Hospital,11,R017,30,C,9,34930,303,6,-5.51,3881.11,0.75,Under-served (Increase),High,0,41505.19
+D0070,Neurologist,T03,Private Clinic,13,R009,61,A,34,172250,911,6,1.93,5066.18,2.83,Protect & Grow (Core),High,1,172250.0
+D0071,Neurologist,T07,Private Clinic,9,R019,57,A,43,133170,708,6,11.05,3096.98,3.58,Protect & Grow (Core),High,1,133170.0
+D0072,General Physician,T02,Private Clinic,14,R004,30,A,44,56340,525,6,6.07,1280.45,3.67,Protect & Grow (Core),High,1,56340.0
+D0073,General Physician,T01,Multispecialty,10,R003,9,C,11,19700,174,6,75.52,1790.91,0.92,Maintain (Low-touch),Low/Mid,0,19700.0
+D0074,General Physician,T01,Private Clinic,10,R001,42,A,36,88690,838,6,4.97,2463.61,3.0,Protect & Grow (Core),High,1,88690.0
+D0075,Pulmonologist,T06,Government Hospital,16,R017,7,C,11,10290,87,6,16.18,935.45,0.92,Maintain (Low-touch),Low/Mid,0,10290.0
+D0076,Pulmonologist,T04,Multispecialty,30,R012,73,A,42,121680,1067,6,10.77,2897.14,3.5,Protect & Grow (Core),High,1,121680.0
+D0077,Neurologist,T02,Private Clinic,27,R004,24,C,7,50620,275,6,12.42,7231.43,0.58,Maintain (Low-touch),Low/Mid,0,50620.0
+D0078,Gastroenterologist,T04,Private Hospital,11,R011,5,B,19,4380,43,4,-18.26,230.53,1.58,Over-served (Reduce),Low/Mid,2,4168.76
+D0079,Neurologist,T01,Multispecialty,33,R001,15,B,12,33590,186,6,35.06,2799.17,1.0,Over-served (Reduce),Low/Mid,0,31969.98
+D0080,General Physician,T06,Private Hospital,8,R016,32,B,22,63850,580,6,17.7,2902.27,1.83,Protect & Grow (Core),High,1,63850.0
+D0081,Gastroenterologist,T04,Private Clinic,32,R010,20,C,9,20440,207,6,27.36,2271.11,0.75,Maintain (Low-touch),Low/Mid,0,20440.0
+D0082,Pulmonologist,T03,Multispecialty,12,R007,33,B,24,55090,471,6,30.99,2295.42,2.0,Protect & Grow (Core),High,1,55090.0
+D0083,Pulmonologist,T03,Multispecialty,19,R008,11,C,8,14840,127,6,42.09,1855.0,0.67,Maintain (Low-touch),Low/Mid,0,14840.0
+D0084,Pulmonologist,T05,Private Hospital,8,R014,8,C,14,12080,106,6,13.43,862.86,1.17,Over-served (Reduce),Low/Mid,0,11497.39
+D0085,Cardiologist,T03,Private Hospital,27,R007,18,C,10,39400,261,6,22.47,3940.0,0.83,Maintain (Low-touch),Low/Mid,0,39400.0
+D0086,Diabetologist,T01,Private Clinic,12,R003,17,B,12,39630,289,6,30.14,3302.5,1.0,Over-served (Reduce),Low/Mid,0,37718.68
+D0087,General Physician,T01,Multispecialty,30,R003,14,C,10,29150,267,6,21.17,2915.0,0.83,Maintain (Low-touch),Low/Mid,0,29150.0
+D0088,Pulmonologist,T08,Private Hospital,4,R022,56,A,35,74280,659,6,23.13,2122.29,2.92,Protect & Grow (Core),High,1,74280.0
+D0089,Diabetologist,T08,Private Clinic,18,R024,11,C,8,19790,151,6,-14.53,2473.75,0.67,Maintain (Low-touch),Low/Mid,0,19790.0
+D0090,Gastroenterologist,T06,Government Hospital,7,R016,27,B,20,36920,373,6,-15.77,1846.0,1.67,Over-served (Reduce),Low/Mid,1,35139.38
+D0091,General Physician,T02,Multispecialty,31,R005,15,C,11,37590,335,6,4.85,3417.27,0.92,Maintain (Low-touch),Low/Mid,0,37590.0
+D0092,Diabetologist,T08,Multispecialty,15,R023,7,C,13,13280,97,6,72.69,1021.54,1.08,Over-served (Reduce),Low/Mid,0,12639.52
+D0093,General Physician,T06,Private Clinic,24,R017,8,C,7,14310,121,6,-3.16,2044.29,0.58,Maintain (Low-touch),Low/Mid,0,14310.0
+D0094,General Physician,T06,Private Clinic,31,R018,19,C,8,35500,314,6,-0.34,4437.5,0.67,Maintain (Low-touch),Low/Mid,0,35500.0
+D0095,Gastroenterologist,T04,Multispecialty,19,R012,82,A,35,129100,1313,6,12.3,3688.57,2.92,Protect & Grow (Core),High,1,129100.0
+D0096,General Physician,T02,Multispecialty,3,R004,28,B,20,58220,528,6,12.02,2911.0,1.67,Protect & Grow (Core),High,1,58220.0
+D0097,Cardiologist,T01,Private Hospital,9,R002,5,C,9,13400,87,5,33.45,1488.89,0.75,Maintain (Low-touch),Low/Mid,2,13400.0
+D0098,General Physician,T08,Private Hospital,9,R024,5,C,9,3130,30,6,21.99,347.78,0.75,Maintain (Low-touch),Low/Mid,0,3130.0
+D0099,Pulmonologist,T04,Private Hospital,32,R012,35,B,23,50510,455,6,10.02,2196.09,1.92,Protect & Grow (Core),High,1,50510.0
+D0100,General Physician,T02,Private Hospital,31,R006,18,C,11,32890,286,6,11.24,2990.0,0.92,Maintain (Low-touch),Low/Mid,0,32890.0
+D0101,Gastroenterologist,T03,Private Clinic,17,R008,39,A,30,68600,710,6,17.71,2286.67,2.5,Protect & Grow (Core),High,1,68600.0
+D0102,Cardiologist,T05,Private Clinic,31,R013,9,C,10,24910,154,6,23.41,2491.0,0.83,Maintain (Low-touch),Low/Mid,0,24910.0
+D0103,Cardiologist,T02,Private Clinic,10,R005,26,B,16,58710,388,6,15.85,3669.38,1.33,Over-served (Reduce),Low/Mid,1,55878.47
+D0104,General Physician,T07,Multispecialty,24,R021,43,C,7,67270,589,6,-1.68,9610.0,0.58,Under-served (Increase),High,1,85313.05
+D0105,Gastroenterologist,T06,Private Clinic,14,R018,15,C,16,21070,221,6,29.77,1316.88,1.33,Over-served (Reduce),Low/Mid,0,20053.81
+D0106,Cardiologist,T06,Private Clinic,9,R018,12,C,17,35690,222,6,7.62,2099.41,1.42,Over-served (Reduce),Low/Mid,0,33968.7
+D0107,General Physician,T03,Private Hospital,10,R009,21,C,2,32890,297,6,-0.3,16445.0,0.17,Maintain (Low-touch),Low/Mid,0,32890.0
+D0108,General Physician,T05,Private Clinic,15,R014,29,B,24,61320,551,6,4.67,2555.0,2.0,Protect & Grow (Core),High,1,61320.0
+D0109,Neurologist,T05,Private Clinic,13,R013,22,C,7,38910,216,6,10.44,5558.57,0.58,Maintain (Low-touch),Low/Mid,0,38910.0
+D0110,Neurologist,T05,Private Hospital,8,R014,43,B,21,109910,588,6,45.77,5233.81,1.75,Protect & Grow (Core),High,1,109910.0
+D0111,Cardiologist,T01,Private Clinic,13,R002,9,C,9,26010,168,6,11.29,2890.0,0.75,Maintain (Low-touch),Low/Mid,0,26010.0
+D0112,General Physician,T03,Private Hospital,6,R009,8,C,13,15920,132,6,8.38,1224.62,1.08,Over-served (Reduce),Low/Mid,0,15152.19
+D0113,Pulmonologist,T01,Multispecialty,33,R002,70,B,23,127410,1119,6,16.43,5539.57,1.92,Protect & Grow (Core),High,1,127410.0
+D0114,General Physician,T04,Private Clinic,14,R012,11,C,12,25070,221,6,34.96,2089.17,1.0,Over-served (Reduce),Low/Mid,0,23860.9
+D0115,Pulmonologist,T03,Multispecialty,5,R007,13,C,10,22120,196,6,7.12,2212.0,0.83,Maintain (Low-touch),Low/Mid,0,22120.0
+D0116,Gastroenterologist,T01,Multispecialty,21,R003,20,C,8,23100,235,6,18.13,2887.5,0.67,Maintain (Low-touch),Low/Mid,0,23100.0
+D0117,Diabetologist,T01,Multispecialty,31,R002,17,C,9,39930,300,6,-0.15,4436.67,0.75,Maintain (Low-touch),Low/Mid,0,39930.0
+D0118,Diabetologist,T05,Private Hospital,13,R015,17,B,28,30050,223,6,1.68,1073.21,2.33,Over-served (Reduce),Low/Mid,0,28600.71
+D0119,General Physician,T02,Private Hospital,29,R005,22,C,9,35810,312,6,25.36,3978.89,0.75,Maintain (Low-touch),Low/Mid,0,35810.0
+D0120,Neurologist,T08,Private Hospital,22,R023,20,C,16,50020,278,6,30.19,3126.25,1.33,Over-served (Reduce),Low/Mid,0,47607.58
+D0121,Gastroenterologist,T05,Government Hospital,26,R013,20,A,27,33980,351,6,7.07,1258.52,2.25,Over-served (Reduce),Low/Mid,1,32341.17
+D0122,General Physician,T03,Private Clinic,11,R009,5,C,5,7380,64,6,46.0,1476.0,0.42,Maintain (Low-touch),Low/Mid,0,7380.0
+D0123,General Physician,T05,Multispecialty,3,R015,84,A,44,167090,1557,6,26.84,3797.5,3.67,Protect & Grow (Core),High,1,167090.0
+D0124,General Physician,T01,Private Hospital,13,R003,15,C,8,32900,296,6,13.78,4112.5,0.67,Maintain (Low-touch),Low/Mid,0,32900.0
+D0125,Diabetologist,T08,Government Hospital,32,R022,34,B,12,60970,436,6,38.91,5080.83,1.0,Protect & Grow (Core),High,1,60970.0
+D0126,Gastroenterologist,T04,Private Clinic,28,R010,8,C,13,7720,80,6,1.04,593.85,1.08,Over-served (Reduce),Low/Mid,0,7347.67
+D0127,General Physician,T07,Private Clinic,27,R021,14,C,14,22920,217,6,23.83,1637.14,1.17,Over-served (Reduce),Low/Mid,0,21814.59
+D0128,Pulmonologist,T01,Private Hospital,30,R001,10,C,7,15560,131,6,48.56,2222.86,0.58,Maintain (Low-touch),Low/Mid,0,15560.0
+D0129,Cardiologist,T04,Private Hospital,14,R011,55,A,43,153010,992,6,3.93,3558.37,3.58,Protect & Grow (Core),High,1,153010.0
+D0130,General Physician,T04,Private Hospital,12,R011,14,C,11,25830,234,6,25.59,2348.18,0.92,Maintain (Low-touch),Low/Mid,0,25830.0
+D0131,Neurologist,T08,Private Clinic,32,R024,29,B,26,97540,519,6,19.78,3751.54,2.17,Protect & Grow (Core),High,1,97540.0
+D0132,Gastroenterologist,T05,Private Clinic,20,R015,14,C,15,20400,202,6,13.84,1360.0,1.25,Over-served (Reduce),Low/Mid,0,19416.13
+D0133,General Physician,T04,Private Hospital,11,R012,15,C,9,25980,231,6,22.62,2886.67,0.75,Maintain (Low-touch),Low/Mid,0,25980.0
+D0134,Gastroenterologist,T02,Private Clinic,11,R004,16,C,11,23690,240,6,-9.72,2153.64,0.92,Maintain (Low-touch),Low/Mid,0,23690.0
+D0135,Neurologist,T03,Multispecialty,30,R008,54,A,41,158600,838,6,30.26,3868.29,3.42,Protect & Grow (Core),High,1,158600.0
+D0136,Pulmonologist,T05,Private Clinic,3,R015,5,C,13,8860,75,6,19.85,681.54,1.08,Over-served (Reduce),Low/Mid,0,8432.69
+D0137,Neurologist,T03,Private Clinic,4,R009,8,C,8,17040,97,5,38.99,2130.0,0.67,Maintain (Low-touch),Low/Mid,2,17040.0
+D0138,Cardiologist,T01,Private Clinic,26,R001,6,C,10,10320,65,5,32.43,1032.0,0.83,Maintain (Low-touch),Low/Mid,2,10320.0
+D0139,General Physician,T07,Private Hospital,2,R021,11,C,10,18180,163,6,32.78,1818.0,0.83,Maintain (Low-touch),Low/Mid,0,18180.0
+D0140,General Physician,T07,Private Hospital,7,R020,12,C,12,19280,180,6,17.36,1606.67,1.0,Over-served (Reduce),Low/Mid,0,18350.14
+D0141,Pulmonologist,T01,Private Hospital,34,R001,6,B,26,12320,108,4,4.65,473.85,2.17,Over-served (Reduce),Low/Mid,2,11725.82
+D0142,Pulmonologist,T05,Multispecialty,16,R014,11,C,8,14870,132,6,-9.36,1858.75,0.67,Maintain (Low-touch),Low/Mid,0,14870.0
+D0143,General Physician,T01,Private Clinic,26,R003,5,C,9,9200,81,6,9.57,1022.22,0.75,Maintain (Low-touch),Low/Mid,0,9200.0
+D0144,Cardiologist,T06,Government Hospital,18,R016,10,C,10,22720,141,6,3.58,2272.0,0.83,Maintain (Low-touch),Low/Mid,0,22720.0
+D0145,Gastroenterologist,T03,Private Clinic,4,R007,42,C,11,66100,663,6,37.94,6009.09,0.92,Under-served (Increase),High,1,79622.5
+D0146,Neurologist,T05,Private Clinic,8,R015,29,B,20,65810,353,6,20.25,3290.5,1.67,Protect & Grow (Core),High,1,65810.0
+D0147,General Physician,T06,Private Hospital,27,R018,29,C,7,43430,380,6,21.69,6204.29,0.58,Under-served (Increase),High,0,52758.46
+D0148,Diabetologist,T06,Private Clinic,5,R016,10,B,14,20860,157,6,19.81,1490.0,1.17,Over-served (Reduce),Low/Mid,0,19853.94
+D0149,General Physician,T01,Private Hospital,21,R003,6,A,23,11410,101,6,44.85,496.09,1.92,Over-served (Reduce),Low/Mid,0,10859.71
+D0150,Pulmonologist,T08,Government Hospital,13,R024,8,B,28,15000,131,6,11.86,535.71,2.33,Over-served (Reduce),Low/Mid,0,14276.56
+D0151,Gastroenterologist,T02,Government Hospital,14,R006,21,C,5,24450,233,6,25.76,4890.0,0.42,Maintain (Low-touch),Low/Mid,0,24450.0
+D0152,Cardiologist,T01,Private Hospital,33,R001,37,B,29,92160,601,6,19.43,3177.93,2.42,Protect & Grow (Core),High,1,92160.0
+D0153,Neurologist,T05,Private Hospital,21,R014,42,B,21,99650,524,6,19.88,4745.24,1.75,Protect & Grow (Core),High,1,99650.0
+D0154,Gastroenterologist,T03,Private Clinic,22,R009,29,C,17,49870,503,6,10.87,2933.53,1.42,Protect & Grow (Core),High,1,49870.0
+D0155,Diabetologist,T07,Private Clinic,13,R021,13,C,11,26020,188,6,26.66,2365.45,0.92,Maintain (Low-touch),Low/Mid,0,26020.0
+D0156,Cardiologist,T07,Private Clinic,14,R020,20,A,43,57840,369,6,21.44,1345.12,3.58,Over-served (Reduce),Low/Mid,1,55050.43
+D0157,Diabetologist,T03,Government Hospital,24,R007,15,C,11,25600,191,6,2.69,2327.27,0.92,Maintain (Low-touch),Low/Mid,0,25600.0
+D0158,Pulmonologist,T08,Multispecialty,3,R022,17,C,10,26530,232,6,18.89,2653.0,0.83,Maintain (Low-touch),Low/Mid,0,26530.0
+D0159,Cardiologist,T03,Private Clinic,9,R007,72,A,34,221660,1422,6,37.88,6519.41,2.83,Protect & Grow (Core),High,1,221660.0
+D0160,General Physician,T04,Private Hospital,21,R010,7,C,7,10020,82,6,26.7,1431.43,0.58,Maintain (Low-touch),Low/Mid,0,10020.0
+D0161,Neurologist,T02,Government Hospital,22,R004,17,C,10,42360,230,6,24.13,4236.0,0.83,Maintain (Low-touch),Low/Mid,0,42360.0
+D0162,General Physician,T08,Multispecialty,5,R022,51,B,20,96430,847,6,0.77,4821.5,1.67,Protect & Grow (Core),High,1,96430.0
+D0163,General Physician,T02,Private Hospital,27,R006,7,C,7,15400,130,6,27.14,2200.0,0.58,Maintain (Low-touch),Low/Mid,0,15400.0
+D0164,Cardiologist,T01,Private Hospital,19,R002,11,C,16,33060,213,6,19.96,2066.25,1.33,Over-served (Reduce),Low/Mid,0,31465.54
+D0165,General Physician,T03,Government Hospital,9,R008,13,C,7,26970,250,6,-14.13,3852.86,0.58,Maintain (Low-touch),Low/Mid,0,26970.0
+D0166,General Physician,T08,Multispecialty,26,R024,19,C,9,32740,273,6,5.52,3637.78,0.75,Maintain (Low-touch),Low/Mid,0,32740.0
+D0167,General Physician,T07,Private Clinic,34,R020,6,C,11,14970,127,6,6.48,1360.91,0.92,Maintain (Low-touch),Low/Mid,0,14970.0
+D0168,Neurologist,T06,Multispecialty,15,R017,27,B,21,89520,470,6,-1.73,4262.86,1.75,Over-served (Reduce),Low/Mid,1,85202.53
+D0169,Neurologist,T07,Private Clinic,11,R019,33,B,14,74840,409,6,10.28,5345.71,1.17,Protect & Grow (Core),High,1,74840.0
+D0170,Cardiologist,T07,Multispecialty,11,R020,30,B,17,67100,421,6,14.17,3947.06,1.42,Protect & Grow (Core),High,1,67100.0
+D0171,Gastroenterologist,T04,Private Clinic,21,R010,13,C,8,12990,130,6,46.49,1623.75,0.67,Maintain (Low-touch),Low/Mid,0,12990.0
+D0172,General Physician,T03,Private Clinic,3,R008,22,C,16,46280,421,6,9.22,2892.5,1.33,Over-served (Reduce),Low/Mid,0,44047.95
+D0173,General Physician,T06,Private Clinic,17,R018,12,C,7,20040,176,6,-3.14,2862.86,0.58,Maintain (Low-touch),Low/Mid,0,20040.0
+D0174,Cardiologist,T06,Private Hospital,2,R017,17,C,7,30210,200,6,-3.06,4315.71,0.58,Maintain (Low-touch),Low/Mid,0,30210.0
+D0175,General Physician,T03,Private Clinic,3,R007,78,A,35,196040,1743,6,23.38,5601.14,2.92,Protect & Grow (Core),High,1,196040.0
+D0176,Pulmonologist,T01,Private Clinic,16,R003,19,C,16,34410,298,6,-22.26,2150.62,1.33,Over-served (Reduce),Low/Mid,0,32750.43
+D0177,General Physician,T06,Private Hospital,26,R018,8,C,7,15220,147,6,2.93,2174.29,0.58,Maintain (Low-touch),Low/Mid,0,15220.0
+D0178,Cardiologist,T02,Private Hospital,31,R005,19,C,16,52000,339,6,-21.43,3250.0,1.33,Over-served (Reduce),Low/Mid,0,49492.08
+D0179,General Physician,T08,Government Hospital,4,R022,9,C,13,13600,123,6,3.59,1046.15,1.08,Over-served (Reduce),Low/Mid,0,12944.08
+D0180,General Physician,T02,Multispecialty,10,R006,9,C,14,17600,163,6,5.37,1257.14,1.17,Over-served (Reduce),Low/Mid,0,16751.17
+D0181,Cardiologist,T01,Government Hospital,15,R001,10,C,7,20170,140,6,-14.44,2881.43,0.58,Maintain (Low-touch),Low/Mid,0,20170.0
+D0182,Cardiologist,T07,Private Clinic,20,R021,10,C,12,33770,212,6,9.49,2814.17,1.0,Over-served (Reduce),Low/Mid,0,32141.3
+D0183,General Physician,T01,Private Clinic,34,R001,48,B,11,73080,669,6,37.2,6643.64,0.92,Under-served (Increase),High,1,89263.33
+D0184,Diabetologist,T02,Multispecialty,24,R005,27,B,20,61780,453,6,19.16,3089.0,1.67,Over-served (Reduce),Low/Mid,1,58800.4
+D0185,Gastroenterologist,T05,Private Clinic,19,R015,36,B,22,45490,457,6,8.57,2067.73,1.83,Protect & Grow (Core),High,1,45490.0
+D0186,General Physician,T07,Private Hospital,4,R019,8,C,10,21270,172,6,7.51,2127.0,0.83,Maintain (Low-touch),Low/Mid,0,21270.0
+D0187,Gastroenterologist,T02,Multispecialty,4,R004,12,C,11,20760,217,6,30.16,1887.27,0.92,Maintain (Low-touch),Low/Mid,0,20760.0
+D0188,Pulmonologist,T03,Multispecialty,7,R007,18,C,12,38390,324,6,32.53,3199.17,1.0,Over-served (Reduce),Low/Mid,0,36538.48
+D0189,Neurologist,T06,Private Hospital,23,R017,14,C,6,31020,169,6,10.02,5170.0,0.5,Maintain (Low-touch),Low/Mid,0,31020.0
+D0190,Cardiologist,T08,Government Hospital,12,R023,14,C,15,35810,235,6,31.63,2387.33,1.25,Over-served (Reduce),Low/Mid,0,34082.91
+D0191,General Physician,T04,Private Hospital,9,R010,24,A,36,58450,535,6,18.34,1623.61,3.0,Over-served (Reduce),Low/Mid,1,55631.01
+D0192,Pulmonologist,T01,Government Hospital,24,R002,13,C,9,19320,168,6,39.7,2146.67,0.75,Maintain (Low-touch),Low/Mid,0,19320.0
+D0193,Diabetologist,T01,Private Clinic,28,R003,26,C,5,42430,306,6,40.53,8486.0,0.42,Maintain (Low-touch),Low/Mid,0,42430.0
+D0194,Pulmonologist,T02,Private Clinic,16,R006,66,B,19,98820,857,6,10.34,5201.05,1.58,Protect & Grow (Core),High,1,98820.0
+D0195,General Physician,T01,Private Hospital,31,R001,22,C,15,36170,312,6,17.5,2411.33,1.25,Over-served (Reduce),Low/Mid,0,34425.55
+D0196,Cardiologist,T06,Private Clinic,26,R017,42,B,17,102980,686,6,33.83,6057.65,1.42,Protect & Grow (Core),High,1,102980.0
+D0197,General Physician,T01,Government Hospital,25,R001,30,B,19,60450,550,6,18.47,3181.58,1.58,Protect & Grow (Core),High,1,60450.0
+D0198,General Physician,T04,Private Clinic,30,R011,6,C,10,14920,133,6,35.33,1492.0,0.83,Maintain (Low-touch),Low/Mid,0,14920.0
+D0199,General Physician,T06,Multispecialty,8,R018,9,C,9,16300,145,6,24.52,1811.11,0.75,Maintain (Low-touch),Low/Mid,0,16300.0
+D0200,General Physician,T05,Multispecialty,27,R015,11,C,4,18200,163,6,-7.81,4550.0,0.33,Maintain (Low-touch),Low/Mid,0,18200.0
+D0201,General Physician,T02,Private Hospital,33,R004,12,C,15,21340,194,6,50.18,1422.67,1.25,Over-served (Reduce),Low/Mid,0,20310.79
+D0202,General Physician,T07,Government Hospital,34,R019,21,C,8,39620,336,6,7.87,4952.5,0.67,Maintain (Low-touch),Low/Mid,0,39620.0
+D0203,Cardiologist,T06,Private Clinic,21,R018,35,B,20,68600,443,6,-0.58,3430.0,1.67,Protect & Grow (Core),High,1,68600.0
+D0204,General Physician,T06,Private Hospital,26,R018,43,A,41,108320,1002,6,21.79,2641.95,3.42,Protect & Grow (Core),High,1,108320.0
+D0205,Gastroenterologist,T01,Private Clinic,31,R001,28,B,32,40470,415,6,11.77,1264.69,2.67,Protect & Grow (Core),High,1,40470.0
+D0206,Gastroenterologist,T01,Multispecialty,30,R001,15,C,5,16880,170,6,-15.12,3376.0,0.42,Maintain (Low-touch),Low/Mid,0,16880.0
+D0207,General Physician,T08,Multispecialty,31,R023,5,C,12,8110,73,6,16.84,675.83,1.0,Over-served (Reduce),Low/Mid,0,7718.86
+D0208,General Physician,T03,Multispecialty,29,R008,19,C,11,36930,346,6,10.67,3357.27,0.92,Maintain (Low-touch),Low/Mid,0,36930.0
+D0209,General Physician,T03,Multispecialty,14,R008,19,C,6,38760,332,6,19.98,6460.0,0.5,Maintain (Low-touch),Low/Mid,0,38760.0
+D0210,Neurologist,T04,Multispecialty,26,R012,28,C,9,51340,280,6,10.76,5704.44,0.75,Under-served (Increase),High,0,60594.48
+D0211,Neurologist,T06,Private Clinic,15,R018,91,A,34,257750,1367,6,14.04,7580.88,2.83,Protect & Grow (Core),High,1,257750.0
+D0212,Pulmonologist,T08,Multispecialty,28,R024,49,A,40,87670,776,6,11.97,2191.75,3.33,Protect & Grow (Core),High,1,87670.0
+D0213,Pulmonologist,T03,Private Hospital,28,R007,34,B,26,61960,545,6,15.51,2383.08,2.17,Protect & Grow (Core),High,1,61960.0
+D0214,Pulmonologist,T08,Private Hospital,32,R024,13,C,6,13170,121,5,-6.61,2195.0,0.5,Maintain (Low-touch),Low/Mid,2,13170.0
+D0215,Cardiologist,T01,Private Hospital,21,R003,16,C,15,37390,236,6,-1.43,2492.67,1.25,Over-served (Reduce),Low/Mid,0,35586.71
+D0216,Cardiologist,T05,Private Clinic,17,R014,17,C,8,43110,274,6,-19.92,5388.75,0.67,Maintain (Low-touch),Low/Mid,0,43110.0
+D0217,General Physician,T05,Private Clinic,7,R014,11,C,6,19500,159,6,54.9,3250.0,0.5,Maintain (Low-touch),Low/Mid,0,19500.0
+D0218,Neurologist,T01,Private Clinic,23,R003,28,B,23,79260,423,6,46.0,3446.09,1.92,Protect & Grow (Core),High,1,79260.0
+D0219,General Physician,T01,Private Clinic,20,R003,26,B,21,53870,452,6,24.65,2565.24,1.75,Over-served (Reduce),Low/Mid,1,51271.9
+D0220,Gastroenterologist,T03,Private Hospital,18,R008,9,C,14,12050,130,6,-5.33,860.71,1.17,Over-served (Reduce),Low/Mid,0,11468.84
+D0221,Cardiologist,T08,Multispecialty,24,R022,49,A,29,118750,777,6,3.2,4094.83,2.42,Protect & Grow (Core),High,1,118750.0
+D0222,Diabetologist,T05,Private Hospital,30,R014,25,C,10,42970,319,6,18.68,4297.0,0.83,Maintain (Low-touch),Low/Mid,0,42970.0
+D0223,Diabetologist,T08,Private Hospital,6,R024,5,C,7,11580,92,5,-5.05,1654.29,0.58,Maintain (Low-touch),Low/Mid,2,11580.0
+D0224,General Physician,T07,Private Hospital,16,R019,17,C,10,37670,330,6,15.01,3767.0,0.83,Maintain (Low-touch),Low/Mid,0,37670.0
+D0225,Diabetologist,T04,Private Hospital,25,R012,23,C,13,51100,381,6,76.96,3930.77,1.08,Over-served (Reduce),Low/Mid,0,48635.49
+D0226,Gastroenterologist,T07,Private Clinic,29,R019,38,B,21,61300,627,6,34.06,2919.05,1.75,Protect & Grow (Core),High,1,61300.0
+D0227,General Physician,T01,Multispecialty,27,R003,20,C,16,30820,292,6,18.58,1926.25,1.33,Over-served (Reduce),Low/Mid,0,29333.58
+D0228,General Physician,T01,Private Clinic,28,R002,40,C,5,61260,547,6,8.79,12252.0,0.42,Under-served (Increase),High,0,80112.45
+D0229,Diabetologist,T07,Government Hospital,30,R019,25,C,12,50940,375,6,4.83,4245.0,1.0,Over-served (Reduce),Low/Mid,0,48483.21
+D0230,Cardiologist,T07,Government Hospital,33,R019,8,C,9,20420,131,6,6.89,2268.89,0.75,Maintain (Low-touch),Low/Mid,0,20420.0
+D0231,Diabetologist,T02,Private Hospital,22,R004,7,C,11,13740,102,5,71.01,1249.09,0.92,Maintain (Low-touch),Low/Mid,2,13740.0
+D0232,Cardiologist,T05,Multispecialty,10,R015,36,A,28,114540,728,6,28.53,4090.71,2.33,Protect & Grow (Core),High,1,114540.0
+D0233,Diabetologist,T05,Private Clinic,20,R014,51,A,42,115730,836,6,6.7,2755.48,3.5,Protect & Grow (Core),High,1,115730.0
+D0234,Gastroenterologist,T07,Multispecialty,25,R021,27,B,21,38190,401,6,6.66,1818.57,1.75,Over-served (Reduce),Low/Mid,1,36348.13
+D0235,General Physician,T05,Government Hospital,5,R013,66,A,31,116330,1104,6,2.67,3752.58,2.58,Protect & Grow (Core),High,1,116330.0
+D0236,Gastroenterologist,T03,Government Hospital,26,R009,41,B,23,57680,604,6,14.03,2507.83,1.92,Protect & Grow (Core),High,1,57680.0
+D0237,General Physician,T03,Government Hospital,19,R009,32,B,29,66430,619,6,9.56,2290.69,2.42,Protect & Grow (Core),High,1,66430.0
+D0238,Diabetologist,T03,Multispecialty,32,R007,11,C,14,21630,157,6,31.34,1545.0,1.17,Over-served (Reduce),Low/Mid,0,20586.8
+D0239,General Physician,T05,Multispecialty,8,R014,75,A,38,133350,1261,6,21.51,3509.21,3.17,Protect & Grow (Core),High,1,133350.0
+D0240,Gastroenterologist,T07,Private Hospital,31,R021,24,B,26,40010,414,6,30.87,1538.85,2.17,Over-served (Reduce),Low/Mid,1,38080.35
+D0241,General Physician,T04,Multispecialty,16,R010,17,B,13,26530,236,6,-1.42,2040.77,1.08,Over-served (Reduce),Low/Mid,0,25250.48
+D0242,General Physician,T02,Government Hospital,20,R004,13,C,5,20620,188,6,34.05,4124.0,0.42,Maintain (Low-touch),Low/Mid,0,20620.0
+D0243,Pulmonologist,T02,Private Hospital,23,R006,21,C,12,39720,345,6,0.91,3310.0,1.0,Over-served (Reduce),Low/Mid,0,37804.34
+D0244,Cardiologist,T06,Multispecialty,21,R017,5,C,12,15960,100,6,31.98,1330.0,1.0,Over-served (Reduce),Low/Mid,0,15190.26
+D0245,Diabetologist,T07,Private Clinic,31,R019,32,B,19,66450,489,6,-1.23,3497.37,1.58,Protect & Grow (Core),High,1,66450.0
+D0246,Neurologist,T01,Private Hospital,7,R003,12,C,10,19300,105,6,52.29,1930.0,0.83,Maintain (Low-touch),Low/Mid,0,19300.0
+D0247,General Physician,T01,Private Clinic,26,R003,31,B,24,50440,466,6,-1.34,2101.67,2.0,Protect & Grow (Core),High,1,50440.0
+D0248,Pulmonologist,T05,Private Clinic,34,R013,15,C,11,16210,148,6,30.91,1473.64,0.92,Maintain (Low-touch),Low/Mid,0,16210.0
+D0249,General Physician,T01,Multispecialty,9,R001,21,B,20,36450,306,6,25.84,1822.5,1.67,Over-served (Reduce),Low/Mid,0,34692.05
+D0250,Gastroenterologist,T07,Private Clinic,10,R019,12,C,12,15650,164,6,-17.6,1304.17,1.0,Over-served (Reduce),Low/Mid,0,14895.21
+D0251,Diabetologist,T03,Private Clinic,17,R009,20,C,10,36050,259,6,7.54,3605.0,0.83,Maintain (Low-touch),Low/Mid,0,36050.0
+D0252,Pulmonologist,T01,Private Clinic,25,R001,71,B,13,107880,939,6,4.86,8298.46,1.08,Protect & Grow (Core),High,1,107880.0
+D0253,General Physician,T08,Private Hospital,33,R024,50,C,17,98560,897,6,7.19,5797.65,1.42,Protect & Grow (Core),High,1,98560.0
+D0254,General Physician,T02,Multispecialty,28,R005,24,A,28,54180,478,6,20.24,1935.0,2.33,Over-served (Reduce),Low/Mid,1,51566.94
+D0255,Neurologist,T03,Multispecialty,28,R008,15,C,7,41250,245,6,13.18,5892.86,0.58,Maintain (Low-touch),Low/Mid,0,41250.0
+D0256,Diabetologist,T01,Private Clinic,16,R003,42,B,15,78290,565,6,-3.24,5219.33,1.25,Protect & Grow (Core),High,1,78290.0
+D0257,General Physician,T01,Private Hospital,23,R003,41,A,38,100770,864,6,13.81,2651.84,3.17,Protect & Grow (Core),High,1,100770.0
+D0258,Diabetologist,T01,Private Hospital,8,R001,10,C,15,22750,165,6,24.36,1516.67,1.25,Over-served (Reduce),Low/Mid,0,21652.79
+D0259,General Physician,T01,Private Hospital,17,R001,16,C,10,35500,318,6,22.99,3550.0,0.83,Maintain (Low-touch),Low/Mid,0,35500.0
+D0260,Diabetologist,T02,Private Hospital,8,R004,5,C,12,9820,78,6,32.15,818.33,1.0,Over-served (Reduce),Low/Mid,0,9346.39
+D0261,Cardiologist,T01,Private Clinic,2,R003,53,A,29,129680,816,6,12.17,4471.72,2.42,Protect & Grow (Core),High,1,129680.0
+D0262,Neurologist,T05,Private Hospital,30,R014,107,C,4,174200,968,6,25.85,43550.0,0.33,Under-served (Increase),High,1,265342.38
+D0263,Gastroenterologist,T06,Private Hospital,28,R016,17,C,11,30330,307,6,19.62,2757.27,0.92,Maintain (Low-touch),Low/Mid,0,30330.0
+D0264,Gastroenterologist,T03,Private Hospital,18,R007,5,C,10,7430,81,6,38.91,743.0,0.83,Maintain (Low-touch),Low/Mid,0,7430.0
+D0265,Neurologist,T03,Private Hospital,2,R008,27,B,20,75790,426,6,-12.86,3789.5,1.67,Over-served (Reduce),Low/Mid,1,72134.71
+D0266,General Physician,T04,Multispecialty,4,R012,12,C,8,18060,155,6,14.74,2257.5,0.67,Maintain (Low-touch),Low/Mid,0,18060.0
+D0267,Neurologist,T07,Government Hospital,5,R020,13,B,17,29590,165,6,86.72,1740.59,1.42,Over-served (Reduce),Low/Mid,0,28162.9
+D0268,Neurologist,T07,Private Clinic,25,R021,29,B,14,76270,407,6,21.91,5447.86,1.17,Protect & Grow (Core),High,1,76270.0
+D0269,Neurologist,T01,Multispecialty,8,R003,24,C,9,57220,314,6,27.97,6357.78,0.75,Maintain (Low-touch),Low/Mid,0,57220.0
+D0270,Cardiologist,T02,Multispecialty,10,R006,13,C,11,22820,142,6,2.13,2074.55,0.92,Maintain (Low-touch),Low/Mid,0,22820.0
+D0271,Gastroenterologist,T02,Private Clinic,30,R005,15,C,13,19080,200,6,28.78,1467.69,1.08,Over-served (Reduce),Low/Mid,0,18159.79
+D0272,Diabetologist,T02,Private Hospital,30,R006,23,C,9,40180,301,6,37.47,4464.44,0.75,Maintain (Low-touch),Low/Mid,0,40180.0
+D0273,General Physician,T05,Private Clinic,27,R015,16,C,6,28330,244,6,2.79,4721.67,0.5,Maintain (Low-touch),Low/Mid,0,28330.0
+D0274,Cardiologist,T03,Government Hospital,12,R008,6,C,13,19200,122,5,23.78,1476.92,1.08,Over-served (Reduce),Low/Mid,2,18274.0
+D0275,General Physician,T01,Private Clinic,21,R002,16,C,12,26530,241,6,24.64,2210.83,1.0,Over-served (Reduce),Low/Mid,0,25250.48
+D0276,Neurologist,T03,Government Hospital,8,R009,32,A,38,78360,425,6,9.35,2062.11,3.17,Protect & Grow (Core),High,1,78360.0
+D0277,General Physician,T05,Private Clinic,30,R014,21,B,22,38020,347,6,6.41,1728.18,1.83,Over-served (Reduce),Low/Mid,0,36186.33
+D0278,Neurologist,T01,Private Hospital,4,R001,6,C,15,19610,106,5,37.12,1307.33,1.25,Over-served (Reduce),Low/Mid,2,18664.23
+D0279,Cardiologist,T07,Multispecialty,26,R021,39,B,16,99460,637,6,-11.56,6216.25,1.33,Protect & Grow (Core),High,1,99460.0
+D0280,General Physician,T01,Private Clinic,18,R001,5,C,11,5030,45,6,-8.02,457.27,0.92,Maintain (Low-touch),Low/Mid,0,5030.0
+D0281,General Physician,T08,Multispecialty,26,R024,18,C,12,28200,268,6,22.22,2350.0,1.0,Over-served (Reduce),Low/Mid,0,26839.94
+D0282,General Physician,T01,Multispecialty,16,R002,13,B,15,23540,213,6,17.76,1569.33,1.25,Over-served (Reduce),Low/Mid,0,22404.69
+D0283,Neurologist,T07,Multispecialty,7,R020,20,C,11,58830,315,6,-1.92,5348.18,0.92,Maintain (Low-touch),Low/Mid,0,58830.0
+D0284,General Physician,T08,Private Clinic,26,R022,30,B,23,59630,534,6,14.42,2592.61,1.92,Protect & Grow (Core),High,1,59630.0
+D0285,General Physician,T08,Multispecialty,22,R023,30,A,42,91450,834,6,5.51,2177.38,3.5,Protect & Grow (Core),High,1,91450.0
+D0286,General Physician,T07,Private Clinic,17,R021,11,C,12,22680,201,6,-9.41,1890.0,1.0,Over-served (Reduce),Low/Mid,0,21586.16
+D0287,Pulmonologist,T06,Private Clinic,14,R016,30,B,25,47310,419,6,31.8,1892.4,2.08,Protect & Grow (Core),High,1,47310.0
+D0288,General Physician,T05,Multispecialty,13,R015,25,C,7,39200,358,6,25.55,5600.0,0.58,Maintain (Low-touch),Low/Mid,0,39200.0
+D0289,General Physician,T06,Government Hospital,17,R018,5,C,8,11720,103,6,2.07,1465.0,0.67,Maintain (Low-touch),Low/Mid,0,11720.0
+D0290,General Physician,T01,Private Hospital,10,R003,72,A,33,159850,1455,6,40.99,4843.94,2.75,Protect & Grow (Core),High,1,159850.0
+D0291,Pulmonologist,T05,Private Clinic,11,R014,8,C,6,10820,96,6,-16.3,1803.33,0.5,Maintain (Low-touch),Low/Mid,0,10820.0
+D0292,Neurologist,T04,Multispecialty,11,R010,22,B,10,64830,352,6,23.55,6483.0,0.83,Maintain (Low-touch),Low/Mid,0,64830.0
+D0293,General Physician,T07,Government Hospital,2,R021,27,B,18,51590,448,6,43.23,2866.11,1.5,Over-served (Reduce),Low/Mid,1,49101.86
+D0294,Gastroenterologist,T04,Private Hospital,32,R011,25,C,7,27180,280,6,35.94,3882.86,0.58,Maintain (Low-touch),Low/Mid,0,27180.0
+D0295,General Physician,T03,Multispecialty,9,R008,17,B,24,30950,265,6,1.37,1289.58,2.0,Over-served (Reduce),Low/Mid,0,29457.31
+D0296,Neurologist,T05,Private Clinic,7,R015,35,B,24,102570,550,6,44.86,4273.75,2.0,Protect & Grow (Core),High,1,102570.0
+D0297,Diabetologist,T02,Private Clinic,6,R006,7,C,14,12510,91,5,17.57,893.57,1.17,Over-served (Reduce),Low/Mid,2,11906.65
+D0298,General Physician,T01,Private Hospital,34,R001,21,C,6,36410,308,6,32.06,6068.33,0.5,Maintain (Low-touch),Low/Mid,0,36410.0
+D0299,Cardiologist,T04,Multispecialty,17,R012,11,C,4,24360,168,6,20.25,6090.0,0.33,Maintain (Low-touch),Low/Mid,0,24360.0
+D0300,Diabetologist,T03,Private Clinic,12,R008,12,C,12,24880,178,6,54.66,2073.33,1.0,Over-served (Reduce),Low/Mid,0,23680.06
+D0301,General Physician,T02,Private Clinic,15,R006,26,B,20,52200,473,6,18.14,2610.0,1.67,Over-served (Reduce),Low/Mid,1,49682.44
+D0302,General Physician,T03,Private Clinic,4,R008,42,A,25,90930,786,6,29.22,3637.2,2.08,Protect & Grow (Core),High,1,90930.0
+D0303,General Physician,T03,Multispecialty,12,R009,17,B,24,30720,279,6,61.67,1280.0,2.0,Over-served (Reduce),Low/Mid,0,29238.4
+D0304,Diabetologist,T03,Private Clinic,10,R009,37,B,14,73930,529,6,13.12,5280.71,1.17,Protect & Grow (Core),High,1,73930.0
+D0305,Cardiologist,T03,Private Hospital,28,R009,19,C,9,45650,291,6,44.12,5072.22,0.75,Maintain (Low-touch),Low/Mid,0,45650.0
+D0306,General Physician,T06,Multispecialty,3,R018,11,B,21,20940,185,6,5.9,997.14,1.75,Over-served (Reduce),Low/Mid,0,19930.08
+D0307,Diabetologist,T03,Private Clinic,16,R008,20,A,33,40550,297,6,36.58,1228.79,2.75,Over-served (Reduce),Low/Mid,1,38594.31
+D0308,Diabetologist,T08,Private Hospital,28,R022,15,C,10,29880,219,6,3.4,2988.0,0.83,Maintain (Low-touch),Low/Mid,0,29880.0
+D0309,Pulmonologist,T08,Private Hospital,29,R023,13,C,9,19130,163,6,28.83,2125.56,0.75,Maintain (Low-touch),Low/Mid,0,19130.0
+D0310,Gastroenterologist,T04,Multispecialty,18,R011,26,B,26,42490,442,6,34.36,1634.23,2.17,Over-served (Reduce),Low/Mid,1,40440.74
+D0311,General Physician,T03,Private Clinic,9,R009,23,A,27,48990,442,6,12.17,1814.44,2.25,Over-served (Reduce),Low/Mid,1,46627.25
+D0312,General Physician,T05,Private Hospital,13,R014,5,C,9,10830,94,6,-13.92,1203.33,0.75,Maintain (Low-touch),Low/Mid,0,10830.0
+D0313,General Physician,T07,Private Clinic,9,R020,7,C,14,11770,101,6,-1.52,840.71,1.17,Over-served (Reduce),Low/Mid,0,11202.34
+D0314,Diabetologist,T05,Government Hospital,23,R013,25,B,21,54560,399,6,10.66,2598.1,1.75,Over-served (Reduce),Low/Mid,1,51928.62
+D0315,Pulmonologist,T07,Government Hospital,11,R021,13,B,23,17860,155,6,34.69,776.52,1.92,Over-served (Reduce),Low/Mid,0,16998.63
+D0316,Neurologist,T05,Private Clinic,22,R014,23,C,13,65370,354,6,9.25,5028.46,1.08,Over-served (Reduce),Low/Mid,0,62217.26
+D0317,Diabetologist,T05,Private Clinic,23,R013,32,B,24,80450,582,6,-4.83,3352.08,2.0,Protect & Grow (Core),High,1,80450.0
+D0318,Diabetologist,T03,Multispecialty,33,R007,9,C,6,13270,99,6,35.7,2211.67,0.5,Maintain (Low-touch),Low/Mid,0,13270.0
+D0319,Pulmonologist,T06,Private Clinic,14,R018,8,C,6,11910,100,6,74.42,1985.0,0.5,Maintain (Low-touch),Low/Mid,0,11910.0
+D0320,Cardiologist,T02,Private Clinic,33,R004,66,A,29,168890,1085,6,50.84,5823.79,2.42,Protect & Grow (Core),High,1,168890.0
+D0321,Gastroenterologist,T06,Private Hospital,15,R017,28,B,29,38560,398,6,9.34,1329.66,2.42,Protect & Grow (Core),High,1,38560.0
+D0322,General Physician,T07,Private Clinic,24,R020,14,C,11,30830,249,6,10.3,2802.73,0.92,Maintain (Low-touch),Low/Mid,0,30830.0
+D0323,Cardiologist,T01,Private Clinic,23,R001,10,C,11,19650,128,5,35.61,1786.36,0.92,Maintain (Low-touch),Low/Mid,2,19650.0
+D0324,Neurologist,T05,Private Hospital,28,R013,13,C,7,33330,174,6,49.48,4761.43,0.58,Maintain (Low-touch),Low/Mid,0,33330.0
+D0325,General Physician,T01,Private Clinic,17,R003,10,C,7,18900,162,6,19.0,2700.0,0.58,Maintain (Low-touch),Low/Mid,0,18900.0
+D0326,General Physician,T06,Private Hospital,28,R017,34,B,26,75860,676,6,-2.86,2917.69,2.17,Protect & Grow (Core),High,1,75860.0
+D0327,General Physician,T01,Government Hospital,13,R001,14,C,11,23860,223,6,-8.05,2169.09,0.92,Maintain (Low-touch),Low/Mid,0,23860.0
+D0328,Neurologist,T08,Private Hospital,18,R022,42,A,42,136930,709,6,2.38,3260.24,3.5,Protect & Grow (Core),High,1,136930.0
+D0329,General Physician,T01,Private Clinic,18,R002,15,C,4,25960,239,6,20.37,6490.0,0.33,Maintain (Low-touch),Low/Mid,0,25960.0
+D0330,Diabetologist,T08,Multispecialty,25,R024,11,C,10,19480,144,5,23.39,1948.0,0.83,Maintain (Low-touch),Low/Mid,2,19480.0
+D0331,Pulmonologist,T07,Private Clinic,22,R021,15,C,11,22570,202,6,0.27,2051.82,0.92,Maintain (Low-touch),Low/Mid,0,22570.0
+D0332,Diabetologist,T05,Government Hospital,4,R013,5,C,7,4080,31,5,72.0,582.86,0.58,Maintain (Low-touch),Low/Mid,2,4080.0
+D0333,Neurologist,T07,Private Clinic,28,R021,18,C,7,40080,221,6,-11.3,5725.71,0.58,Maintain (Low-touch),Low/Mid,0,40080.0
+D0334,Pulmonologist,T07,Government Hospital,27,R021,20,C,10,23910,218,6,-0.08,2391.0,0.83,Maintain (Low-touch),Low/Mid,0,23910.0
+D0335,Diabetologist,T08,Private Clinic,5,R022,33,B,23,79670,573,6,21.0,3463.91,1.92,Protect & Grow (Core),High,1,79670.0
+D0336,General Physician,T02,Private Clinic,33,R004,5,B,31,8840,86,6,13.53,285.16,2.58,Over-served (Reduce),Low/Mid,0,8413.65
+D0337,Pulmonologist,T05,Private Hospital,23,R015,45,A,32,84040,734,6,11.53,2626.25,2.67,Protect & Grow (Core),High,1,84040.0
+D0338,Diabetologist,T01,Private Clinic,4,R002,39,B,21,80310,588,6,18.83,3824.29,1.75,Protect & Grow (Core),High,1,80310.0
+D0339,Cardiologist,T05,Private Clinic,18,R015,48,A,37,137720,879,6,-2.86,3722.16,3.08,Protect & Grow (Core),High,1,137720.0
+D0340,Neurologist,T02,Government Hospital,29,R004,24,C,14,43600,241,6,33.28,3114.29,1.17,Over-served (Reduce),Low/Mid,0,41497.21
+D0341,Pulmonologist,T05,Multispecialty,11,R013,40,B,20,67860,602,6,-1.46,3393.0,1.67,Protect & Grow (Core),High,1,67860.0
+D0342,Pulmonologist,T05,Private Clinic,32,R013,7,C,14,10120,88,6,-21.2,722.86,1.17,Over-served (Reduce),Low/Mid,0,9631.92
+D0343,Diabetologist,T04,Multispecialty,15,R010,32,B,20,64510,476,6,46.88,3225.5,1.67,Protect & Grow (Core),High,1,64510.0
+D0344,General Physician,T05,Government Hospital,9,R014,10,C,7,18270,170,6,37.27,2610.0,0.58,Maintain (Low-touch),Low/Mid,0,18270.0
+D0345,General Physician,T06,Multispecialty,13,R016,6,C,8,12880,116,6,122.0,1610.0,0.67,Maintain (Low-touch),Low/Mid,0,12880.0
+D0346,Neurologist,T07,Government Hospital,19,R021,9,C,12,20940,118,6,-15.67,1745.0,1.0,Over-served (Reduce),Low/Mid,0,19930.08
+D0347,General Physician,T04,Government Hospital,24,R011,23,C,12,36950,330,6,9.94,3079.17,1.0,Over-served (Reduce),Low/Mid,0,35167.93
+D0348,General Physician,T05,Private Hospital,32,R015,11,C,10,19840,177,6,37.04,1984.0,0.83,Maintain (Low-touch),Low/Mid,0,19840.0
+D0349,General Physician,T08,Government Hospital,8,R023,25,B,18,51140,430,6,-18.27,2841.11,1.5,Over-served (Reduce),Low/Mid,1,48673.56
+D0350,Gastroenterologist,T01,Multispecialty,33,R001,6,C,10,7400,76,5,-15.46,740.0,0.83,Maintain (Low-touch),Low/Mid,2,7400.0
+D0351,General Physician,T01,Private Clinic,19,R002,5,B,31,7430,66,6,69.2,239.68,2.58,Over-served (Reduce),Low/Mid,0,7071.66
+D0352,General Physician,T01,Private Clinic,6,R001,60,B,18,100170,915,6,20.11,5565.0,1.5,Protect & Grow (Core),High,1,100170.0
+D0353,General Physician,T05,Private Clinic,32,R015,34,B,18,76390,682,6,15.0,4243.89,1.5,Protect & Grow (Core),High,1,76390.0
+D0354,Neurologist,T03,Multispecialty,13,R009,9,A,41,28870,156,6,30.59,704.15,3.42,Over-served (Reduce),Low/Mid,1,27477.62
+D0355,Cardiologist,T06,Private Hospital,22,R016,24,C,16,45680,297,6,-0.87,2855.0,1.33,Over-served (Reduce),Low/Mid,0,43476.89
+D0356,Cardiologist,T06,Government Hospital,25,R017,42,B,22,105810,686,6,-4.67,4809.55,1.83,Protect & Grow (Core),High,1,105810.0
+D0357,Neurologist,T03,Multispecialty,2,R008,26,C,6,65260,352,6,-9.24,10876.67,0.5,Maintain (Low-touch),Low/Mid,0,65260.0
+D0358,Neurologist,T07,Multispecialty,9,R019,24,C,11,54130,300,6,6.52,4920.91,0.92,Maintain (Low-touch),Low/Mid,0,54130.0
+D0359,Neurologist,T06,Private Clinic,24,R016,48,A,42,142380,740,6,4.8,3390.0,3.5,Protect & Grow (Core),High,1,142380.0
+D0360,Gastroenterologist,T02,Government Hospital,12,R006,11,C,7,14460,159,6,-38.44,2065.71,0.58,Maintain (Low-touch),Low/Mid,0,14460.0
+D0361,Gastroenterologist,T03,Multispecialty,2,R007,21,C,7,25860,260,6,31.93,3694.29,0.58,Maintain (Low-touch),Low/Mid,0,25860.0
+D0362,General Physician,T03,Private Clinic,2,R008,22,C,14,42880,383,6,11.86,3062.86,1.17,Over-served (Reduce),Low/Mid,0,40811.93
+D0363,Cardiologist,T01,Government Hospital,29,R001,14,C,13,35530,236,6,39.74,2733.08,1.08,Over-served (Reduce),Low/Mid,0,33816.42
+D0364,Diabetologist,T01,Private Clinic,7,R002,15,C,9,30360,222,6,-0.92,3373.33,0.75,Maintain (Low-touch),Low/Mid,0,30360.0
+D0365,General Physician,T08,Private Hospital,5,R022,18,C,9,38490,331,6,3.87,4276.67,0.75,Maintain (Low-touch),Low/Mid,0,38490.0
+D0366,General Physician,T03,Private Hospital,20,R008,18,C,9,43410,377,6,5.64,4823.33,0.75,Maintain (Low-touch),Low/Mid,0,43410.0
+D0367,General Physician,T03,Private Clinic,5,R008,9,C,10,18470,160,6,0.54,1847.0,0.83,Maintain (Low-touch),Low/Mid,0,18470.0
+D0368,General Physician,T06,Private Clinic,23,R017,37,B,26,63890,592,6,18.73,2457.31,2.17,Protect & Grow (Core),High,1,63890.0
+D0369,General Physician,T05,Private Clinic,19,R014,10,C,9,17130,161,6,22.47,1903.33,0.75,Maintain (Low-touch),Low/Mid,0,17130.0
+D0370,Pulmonologist,T08,Private Clinic,23,R022,16,C,8,20990,183,6,15.72,2623.75,0.67,Maintain (Low-touch),Low/Mid,0,20990.0
+D0371,Neurologist,T07,Private Hospital,18,R020,16,C,8,36920,202,6,-10.57,4615.0,0.67,Maintain (Low-touch),Low/Mid,0,36920.0
+D0372,Diabetologist,T04,Private Clinic,27,R012,22,B,21,57220,429,6,14.55,2724.76,1.75,Over-served (Reduce),Low/Mid,1,54460.33
+D0373,Gastroenterologist,T03,Private Clinic,23,R008,5,C,12,4960,52,5,29.63,413.33,1.0,Over-served (Reduce),Low/Mid,2,4720.78
+D0374,General Physician,T08,Government Hospital,15,R022,43,B,20,80050,699,6,14.96,4002.5,1.67,Protect & Grow (Core),High,1,80050.0
+D0375,Pulmonologist,T06,Government Hospital,2,R018,12,B,16,18450,161,6,20.17,1153.12,1.33,Over-served (Reduce),Low/Mid,0,17560.17
+D0376,Gastroenterologist,T08,Private Hospital,11,R024,46,A,29,81000,812,6,23.14,2793.1,2.42,Protect & Grow (Core),High,1,81000.0
+D0377,Pulmonologist,T01,Multispecialty,6,R003,15,C,9,16720,153,6,-12.35,1857.78,0.75,Maintain (Low-touch),Low/Mid,0,16720.0
+D0378,Diabetologist,T07,Private Clinic,2,R021,15,C,13,32750,243,6,-5.87,2519.23,1.08,Over-served (Reduce),Low/Mid,0,31170.5
+D0379,Diabetologist,T05,Multispecialty,11,R015,82,A,45,169730,1239,6,10.01,3771.78,3.75,Protect & Grow (Core),High,1,169730.0
+D0380,Cardiologist,T01,Private Clinic,8,R003,23,C,6,38250,245,6,9.7,6375.0,0.5,Maintain (Low-touch),Low/Mid,0,38250.0
+D0381,General Physician,T05,Government Hospital,4,R014,47,A,31,100380,925,6,23.02,3238.06,2.58,Protect & Grow (Core),High,1,100380.0
+D0382,Neurologist,T06,Multispecialty,12,R016,20,C,10,45650,248,6,28.14,4565.0,0.83,Maintain (Low-touch),Low/Mid,0,45650.0
+D0383,General Physician,T01,Multispecialty,18,R002,29,C,13,51630,463,6,13.44,3971.54,1.08,Protect & Grow (Core),High,0,51630.0
+D0384,General Physician,T04,Private Hospital,7,R010,25,C,12,41670,362,6,20.48,3472.5,1.0,Over-served (Reduce),Low/Mid,0,39660.29
+D0385,Diabetologist,T07,Private Hospital,11,R021,41,B,15,71140,527,6,24.42,4742.67,1.25,Protect & Grow (Core),High,1,71140.0
+D0386,Diabetologist,T03,Private Clinic,2,R008,9,C,11,27460,197,6,45.4,2496.36,0.92,Maintain (Low-touch),Low/Mid,0,27460.0
+D0387,General Physician,T04,Government Hospital,3,R012,11,C,15,22820,190,6,7.08,1521.33,1.25,Over-served (Reduce),Low/Mid,0,21719.41
+D0388,Diabetologist,T04,Government Hospital,7,R011,17,C,11,21800,157,6,17.35,1981.82,0.92,Maintain (Low-touch),Low/Mid,0,21800.0
+D0389,General Physician,T03,Multispecialty,16,R008,23,C,8,39300,344,6,10.16,4912.5,0.67,Maintain (Low-touch),Low/Mid,0,39300.0
+D0390,Diabetologist,T08,Private Hospital,23,R024,15,C,8,30920,230,6,-13.06,3865.0,0.67,Maintain (Low-touch),Low/Mid,0,30920.0
+D0391,General Physician,T07,Private Clinic,28,R020,34,B,18,63770,584,6,22.12,3542.78,1.5,Protect & Grow (Core),High,1,63770.0
+D0392,General Physician,T01,Private Hospital,22,R002,42,A,44,105050,960,6,9.43,2387.5,3.67,Protect & Grow (Core),High,1,105050.0
+D0393,Diabetologist,T08,Private Clinic,22,R023,12,C,12,19370,142,6,-6.3,1614.17,1.0,Over-served (Reduce),Low/Mid,0,18435.8
+D0394,Diabetologist,T07,Private Clinic,32,R021,11,C,10,21390,161,6,42.24,2139.0,0.83,Maintain (Low-touch),Low/Mid,0,21390.0
+D0395,General Physician,T03,Private Clinic,10,R009,7,C,8,14530,122,6,47.11,1816.25,0.67,Maintain (Low-touch),Low/Mid,0,14530.0
+D0396,Diabetologist,T07,Government Hospital,28,R019,75,A,38,207800,1495,6,8.38,5468.42,3.17,Protect & Grow (Core),High,1,207800.0
+D0397,Neurologist,T01,Private Clinic,32,R002,23,B,14,55040,309,6,6.84,3931.43,1.17,Over-served (Reduce),Low/Mid,0,52385.47
+D0398,Neurologist,T08,Private Clinic,20,R023,33,B,20,72930,391,6,-17.77,3646.5,1.67,Protect & Grow (Core),High,1,72930.0
+D0399,Diabetologist,T06,Private Clinic,29,R017,8,C,11,13990,99,6,38.74,1271.82,0.92,Maintain (Low-touch),Low/Mid,0,13990.0
+D0400,General Physician,T05,Multispecialty,6,R013,19,A,27,42880,379,6,23.1,1588.15,2.25,Over-served (Reduce),Low/Mid,1,40811.93
+D0401,General Physician,T01,Government Hospital,30,R003,25,B,20,55490,496,6,27.51,2774.5,1.67,Over-served (Reduce),Low/Mid,1,52813.76
+D0402,Pulmonologist,T07,Private Clinic,20,R021,13,C,10,22560,198,6,10.06,2256.0,0.83,Maintain (Low-touch),Low/Mid,0,22560.0
+D0403,General Physician,T01,Private Clinic,9,R001,36,A,37,92610,844,6,18.42,2502.97,3.08,Protect & Grow (Core),High,1,92610.0
+D0404,Diabetologist,T02,Private Hospital,4,R004,103,A,33,248150,1788,6,14.4,7519.7,2.75,Protect & Grow (Core),High,1,248150.0
+D0405,Cardiologist,T01,Private Clinic,25,R002,12,C,10,23360,148,6,29.7,2336.0,0.83,Maintain (Low-touch),Low/Mid,0,23360.0
+D0406,Gastroenterologist,T06,Private Hospital,16,R016,9,C,10,12610,130,6,26.39,1261.0,0.83,Maintain (Low-touch),Low/Mid,0,12610.0
+D0407,General Physician,T02,Private Hospital,12,R006,13,C,13,21200,186,6,-15.01,1630.77,1.08,Over-served (Reduce),Low/Mid,0,20177.54
+D0408,Cardiologist,T08,Multispecialty,14,R024,57,A,27,146790,937,6,37.95,5436.67,2.25,Protect & Grow (Core),High,1,146790.0
+D0409,Diabetologist,T05,Private Clinic,34,R015,40,B,22,90130,655,6,23.32,4096.82,1.83,Protect & Grow (Core),High,1,90130.0
+D0410,Gastroenterologist,T01,Government Hospital,16,R002,16,C,8,21730,222,6,13.04,2716.25,0.67,Maintain (Low-touch),Low/Mid,0,21730.0
+D0411,General Physician,T01,Private Clinic,4,R003,23,C,7,36340,324,6,0.11,5191.43,0.58,Maintain (Low-touch),Low/Mid,0,36340.0
+D0412,Cardiologist,T01,Multispecialty,11,R001,14,C,15,24170,163,6,5.0,1611.33,1.25,Over-served (Reduce),Low/Mid,0,23004.3
+D0413,Pulmonologist,T05,Multispecialty,6,R013,30,C,8,57610,504,6,15.2,7201.25,0.67,Under-served (Increase),High,0,69268.01
+D0414,General Physician,T07,Government Hospital,24,R019,15,C,12,32220,279,6,6.54,2685.0,1.0,Over-served (Reduce),Low/Mid,0,30666.06
+D0415,Pulmonologist,T02,Private Hospital,28,R006,19,C,9,23070,206,6,-9.65,2563.33,0.75,Maintain (Low-touch),Low/Mid,0,23070.0
+D0416,Diabetologist,T07,Private Clinic,29,R020,25,B,25,71570,516,6,36.6,2862.8,2.08,Over-served (Reduce),Low/Mid,1,68118.24
+D0417,Diabetologist,T01,Multispecialty,22,R001,19,C,11,33960,247,6,7.58,3087.27,0.92,Maintain (Low-touch),Low/Mid,0,33960.0
+D0418,Neurologist,T07,Government Hospital,27,R019,20,C,6,41600,231,6,-15.85,6933.33,0.5,Maintain (Low-touch),Low/Mid,0,41600.0
+D0419,Neurologist,T08,Private Clinic,15,R023,20,B,19,59170,318,6,32.4,3114.21,1.58,Over-served (Reduce),Low/Mid,1,56316.28
+D0420,General Physician,T06,Private Hospital,22,R016,37,B,25,70030,626,6,-6.33,2801.2,2.08,Protect & Grow (Core),High,1,70030.0
+D0421,General Physician,T06,Private Hospital,5,R017,77,A,40,143200,1327,6,18.83,3580.0,3.33,Protect & Grow (Core),High,1,143200.0
+D0422,General Physician,T07,Multispecialty,19,R020,37,C,7,59720,524,6,5.93,8531.43,0.58,Under-served (Increase),High,0,74473.33
+D0423,General Physician,T01,Government Hospital,20,R001,35,C,9,62760,582,6,39.91,6973.33,0.75,Under-served (Increase),High,1,75741.75
+D0424,Neurologist,T02,Private Hospital,3,R004,16,C,7,35980,197,6,15.97,5140.0,0.58,Maintain (Low-touch),Low/Mid,0,35980.0
+D0425,Neurologist,T01,Private Hospital,20,R002,11,C,9,29380,156,6,15.08,3264.44,0.75,Maintain (Low-touch),Low/Mid,0,29380.0
+D0426,General Physician,T04,Private Clinic,25,R011,35,B,16,57400,537,6,11.42,3587.5,1.33,Protect & Grow (Core),High,1,57400.0
+D0427,Diabetologist,T06,Private Clinic,14,R016,19,C,12,41250,301,6,-9.91,3437.5,1.0,Over-served (Reduce),Low/Mid,0,39260.55
+D0428,General Physician,T05,Private Clinic,19,R014,7,C,7,15700,136,6,23.01,2242.86,0.58,Maintain (Low-touch),Low/Mid,0,15700.0
+D0429,General Physician,T07,Government Hospital,11,R020,16,C,11,33510,291,6,8.92,3046.36,0.92,Maintain (Low-touch),Low/Mid,0,33510.0
+D0430,Cardiologist,T01,Private Hospital,10,R001,18,C,12,41510,275,6,26.71,3459.17,1.0,Over-served (Reduce),Low/Mid,0,39508.01
+D0431,Neurologist,T06,Private Hospital,6,R017,15,C,12,29520,159,6,30.27,2460.0,1.0,Over-served (Reduce),Low/Mid,0,28096.28
+D0432,Diabetologist,T02,Private Clinic,12,R004,74,A,38,138800,1017,6,0.23,3652.63,3.17,Protect & Grow (Core),High,1,138800.0
+D0433,Diabetologist,T02,Private Clinic,28,R004,28,B,25,62170,463,6,32.85,2486.8,2.08,Protect & Grow (Core),High,1,62170.0
+D0434,Neurologist,T06,Private Hospital,32,R016,50,A,36,164460,876,6,11.09,4568.33,3.0,Protect & Grow (Core),High,1,164460.0
+D0435,Pulmonologist,T08,Private Clinic,22,R022,27,C,8,29540,269,6,18.98,3692.5,0.67,Maintain (Low-touch),Low/Mid,0,29540.0
+D0436,General Physician,T05,Private Clinic,22,R013,22,C,5,36080,318,6,-8.19,7216.0,0.42,Maintain (Low-touch),Low/Mid,0,36080.0
+D0437,General Physician,T01,Government Hospital,22,R003,12,C,5,17320,155,6,5.7,3464.0,0.42,Maintain (Low-touch),Low/Mid,0,17320.0
+D0438,General Physician,T05,Private Clinic,17,R013,21,C,11,37670,338,6,9.28,3424.55,0.92,Maintain (Low-touch),Low/Mid,0,37670.0
+D0439,Diabetologist,T01,Private Clinic,15,R003,20,C,14,42480,309,6,37.32,3034.29,1.17,Over-served (Reduce),Low/Mid,0,40431.23
+D0440,Diabetologist,T07,Private Hospital,22,R021,6,C,6,18200,132,6,14.88,3033.33,0.5,Maintain (Low-touch),Low/Mid,0,18200.0
+D0441,Diabetologist,T06,Multispecialty,27,R018,11,C,8,26830,193,6,3.26,3353.75,0.67,Maintain (Low-touch),Low/Mid,0,26830.0
+D0442,Cardiologist,T02,Private Clinic,15,R006,12,C,11,33520,234,6,15.7,3047.27,0.92,Maintain (Low-touch),Low/Mid,0,33520.0
+D0443,General Physician,T01,Government Hospital,20,R001,28,B,19,48510,424,6,8.73,2553.16,1.58,Protect & Grow (Core),High,1,48510.0
+D0444,Neurologist,T02,Multispecialty,17,R005,23,C,14,68400,362,6,22.73,4885.71,1.17,Over-served (Reduce),Low/Mid,1,65101.13
+D0445,Diabetologist,T08,Government Hospital,11,R024,15,C,15,24420,184,6,-33.08,1628.0,1.25,Over-served (Reduce),Low/Mid,0,23242.24
+D0446,General Physician,T04,Private Hospital,11,R011,28,B,18,56440,515,6,-13.97,3135.56,1.5,Protect & Grow (Core),High,1,56440.0
+D0447,Pulmonologist,T07,Government Hospital,4,R019,17,C,7,23720,209,6,7.16,3388.57,0.58,Maintain (Low-touch),Low/Mid,0,23720.0
+D0448,Cardiologist,T05,Private Hospital,16,R014,5,C,12,5470,37,4,6.42,455.83,1.0,Over-served (Reduce),Low/Mid,2,5206.19
+D0449,Diabetologist,T05,Private Hospital,25,R015,15,C,8,27360,202,6,18.53,3420.0,0.67,Maintain (Low-touch),Low/Mid,0,27360.0
+D0450,General Physician,T01,Private Hospital,24,R003,39,A,22,85290,770,6,6.91,3876.82,1.83,Protect & Grow (Core),High,1,85290.0
+D0451,General Physician,T08,Private Clinic,34,R023,5,C,8,12870,112,6,-20.75,1608.75,0.67,Maintain (Low-touch),Low/Mid,0,12870.0
+D0452,Diabetologist,T03,Private Clinic,3,R007,25,C,10,41470,301,6,3.09,4147.0,0.83,Maintain (Low-touch),Low/Mid,0,41470.0
+D0453,General Physician,T05,Private Hospital,27,R013,64,A,24,123610,1098,6,9.47,5150.42,2.0,Protect & Grow (Core),High,1,123610.0
+D0454,General Physician,T06,Private Clinic,28,R016,11,C,8,23480,201,6,21.72,2935.0,0.67,Maintain (Low-touch),Low/Mid,0,23480.0
+D0455,General Physician,T05,Private Hospital,16,R014,22,B,16,36900,325,6,1.42,2306.25,1.33,Over-served (Reduce),Low/Mid,0,35120.34
+D0456,Diabetologist,T08,Private Hospital,11,R022,8,C,6,11750,89,6,8.33,1958.33,0.5,Maintain (Low-touch),Low/Mid,0,11750.0
+D0457,Cardiologist,T01,Multispecialty,13,R002,66,A,39,171940,1124,6,24.55,4408.72,3.25,Protect & Grow (Core),High,1,171940.0
+D0458,General Physician,T04,Private Clinic,24,R010,17,C,11,36160,309,6,10.6,3287.27,0.92,Maintain (Low-touch),Low/Mid,0,36160.0
+D0459,Pulmonologist,T03,Private Hospital,30,R007,26,C,7,26300,232,6,4.19,3757.14,0.58,Maintain (Low-touch),Low/Mid,0,26300.0
+D0460,Gastroenterologist,T04,Private Hospital,23,R010,48,A,40,89760,902,6,40.19,2244.0,3.33,Protect & Grow (Core),High,1,89760.0
+D0461,General Physician,T01,Private Clinic,18,R001,38,B,19,61280,541,6,7.17,3225.26,1.58,Protect & Grow (Core),High,1,61280.0
+D0462,Cardiologist,T01,Private Clinic,23,R003,11,A,40,26950,177,6,1.72,673.75,3.33,Over-served (Reduce),Low/Mid,1,25650.22
+D0463,General Physician,T02,Private Clinic,4,R006,14,C,13,24600,229,6,13.17,1892.31,1.08,Over-served (Reduce),Low/Mid,0,23413.56
+D0464,General Physician,T03,Private Clinic,22,R009,31,B,28,57350,529,6,25.97,2048.21,2.33,Protect & Grow (Core),High,1,57350.0
+D0465,General Physician,T03,Private Clinic,3,R008,15,C,12,25420,227,6,8.7,2118.33,1.0,Over-served (Reduce),Low/Mid,0,24194.01
+D0466,Neurologist,T05,Private Hospital,33,R013,5,C,8,8030,44,5,-27.68,1003.75,0.67,Maintain (Low-touch),Low/Mid,2,8030.0
+D0467,General Physician,T05,Private Hospital,31,R015,22,C,10,38350,349,6,24.66,3835.0,0.83,Maintain (Low-touch),Low/Mid,0,38350.0
+D0468,Gastroenterologist,T03,Private Clinic,18,R008,9,C,8,10150,100,6,37.7,1268.75,0.67,Maintain (Low-touch),Low/Mid,0,10150.0
+D0469,General Physician,T03,Private Clinic,14,R009,60,A,38,130920,1188,6,9.1,3445.26,3.17,Protect & Grow (Core),High,1,130920.0
+D0470,General Physician,T02,Private Clinic,26,R005,23,C,9,40900,358,6,41.01,4544.44,0.75,Maintain (Low-touch),Low/Mid,0,40900.0
+D0471,General Physician,T05,Private Hospital,23,R014,10,C,7,21290,187,6,22.7,3041.43,0.58,Maintain (Low-touch),Low/Mid,0,21290.0
+D0472,Pulmonologist,T03,Private Clinic,25,R008,12,C,8,14690,130,5,58.63,1836.25,0.67,Maintain (Low-touch),Low/Mid,2,14690.0
+D0473,Cardiologist,T01,Private Hospital,19,R001,6,C,11,12410,80,6,14.34,1128.18,0.92,Maintain (Low-touch),Low/Mid,0,12410.0
+D0474,Diabetologist,T03,Private Clinic,9,R008,8,C,11,17680,126,6,51.49,1607.27,0.92,Maintain (Low-touch),Low/Mid,0,17680.0
+D0475,Gastroenterologist,T04,Private Clinic,4,R012,36,B,18,56790,585,6,4.43,3155.0,1.5,Protect & Grow (Core),High,1,56790.0
+D0476,Gastroenterologist,T02,Multispecialty,11,R004,114,A,45,161550,1714,6,4.52,3590.0,3.75,Protect & Grow (Core),High,1,161550.0
+D0477,Gastroenterologist,T05,Private Clinic,19,R013,36,B,13,44870,459,6,31.41,3451.54,1.08,Protect & Grow (Core),High,1,44870.0
+D0478,Pulmonologist,T05,Private Clinic,15,R015,24,C,6,24390,219,6,9.54,4065.0,0.5,Maintain (Low-touch),Low/Mid,0,24390.0
+D0479,General Physician,T06,Private Clinic,18,R017,14,C,5,30150,268,6,21.85,6030.0,0.42,Maintain (Low-touch),Low/Mid,0,30150.0
+D0480,General Physician,T05,Multispecialty,11,R015,10,C,4,20660,178,6,6.6,5165.0,0.33,Maintain (Low-touch),Low/Mid,0,20660.0
+D0481,Diabetologist,T05,Private Hospital,32,R014,78,A,40,206500,1498,6,10.22,5162.5,3.33,Protect & Grow (Core),High,1,206500.0
+D0482,General Physician,T03,Private Hospital,14,R008,18,C,5,31350,274,6,9.56,6270.0,0.42,Maintain (Low-touch),Low/Mid,0,31350.0
+D0483,General Physician,T07,Multispecialty,29,R021,70,A,34,188560,1722,6,16.66,5545.88,2.83,Protect & Grow (Core),High,1,188560.0
+D0484,Gastroenterologist,T05,Private Clinic,14,R014,58,A,39,86100,871,6,12.23,2207.69,3.25,Protect & Grow (Core),High,1,86100.0
+D0485,Diabetologist,T03,Multispecialty,16,R007,6,B,17,12250,91,6,24.36,720.59,1.42,Over-served (Reduce),Low/Mid,0,11659.19
+D0486,General Physician,T05,Private Clinic,21,R014,13,B,19,28020,256,6,34.48,1474.74,1.58,Over-served (Reduce),Low/Mid,0,26668.62
+D0487,General Physician,T03,Private Hospital,10,R007,12,C,9,24510,211,6,22.41,2723.33,0.75,Maintain (Low-touch),Low/Mid,0,24510.0
+D0488,General Physician,T04,Private Hospital,9,R011,17,C,6,30050,276,6,-13.7,5008.33,0.5,Maintain (Low-touch),Low/Mid,0,30050.0
+D0489,General Physician,T06,Private Clinic,14,R018,21,C,6,36800,332,6,32.32,6133.33,0.5,Maintain (Low-touch),Low/Mid,0,36800.0
+D0490,General Physician,T07,Multispecialty,28,R019,141,A,36,354290,3186,6,0.54,9841.39,3.0,Protect & Grow (Core),High,1,354290.0
+D0491,Pulmonologist,T08,Private Clinic,6,R024,10,C,7,12960,113,6,31.02,1851.43,0.58,Maintain (Low-touch),Low/Mid,0,12960.0
+D0492,General Physician,T04,Multispecialty,16,R011,29,C,10,44440,399,6,13.45,4444.0,0.83,Under-served (Increase),High,0,52099.39
+D0493,Neurologist,T05,Private Clinic,24,R013,36,B,31,96470,526,6,13.01,3111.94,2.58,Protect & Grow (Core),High,1,96470.0
+D0494,General Physician,T07,Private Hospital,25,R019,16,C,11,43110,358,6,28.22,3919.09,0.92,Maintain (Low-touch),Low/Mid,0,43110.0
+D0495,Cardiologist,T03,Multispecialty,16,R009,20,C,7,46330,308,6,13.01,6618.57,0.58,Maintain (Low-touch),Low/Mid,0,46330.0
+D0496,Neurologist,T07,Private Clinic,4,R021,10,C,10,21700,111,6,156.91,2170.0,0.83,Maintain (Low-touch),Low/Mid,0,21700.0
+D0497,General Physician,T04,Multispecialty,2,R012,21,C,10,38060,336,6,36.1,3806.0,0.83,Maintain (Low-touch),Low/Mid,0,38060.0
+D0498,Pulmonologist,T01,Private Hospital,17,R002,24,B,20,44780,396,6,11.03,2239.0,1.67,Over-served (Reduce),Low/Mid,1,42620.3
+D0499,General Physician,T01,Government Hospital,28,R002,26,A,26,51530,475,6,12.85,1981.92,2.17,Over-served (Reduce),Low/Mid,1,49044.75
+D0500,Pulmonologist,T07,Private Clinic,2,R020,30,C,13,46210,405,6,18.38,3554.62,1.08,Protect & Grow (Core),High,0,46210.0
+D0501,General Physician,T01,Private Hospital,31,R002,66,B,14,95500,855,6,11.8,6821.43,1.17,Protect & Grow (Core),High,1,95500.0
+D0502,General Physician,T03,Government Hospital,24,R007,38,B,18,77610,716,6,33.62,4311.67,1.5,Protect & Grow (Core),High,1,77610.0
+D0503,Pulmonologist,T03,Private Hospital,2,R007,24,C,9,30630,265,6,-9.51,3403.33,0.75,Maintain (Low-touch),Low/Mid,0,30630.0
+D0504,General Physician,T02,Private Clinic,13,R006,7,C,10,20160,171,6,5.92,2016.0,0.83,Maintain (Low-touch),Low/Mid,0,20160.0
+D0505,Pulmonologist,T03,Private Clinic,9,R008,12,C,11,18390,159,6,30.45,1671.82,0.92,Maintain (Low-touch),Low/Mid,0,18390.0
+D0506,Gastroenterologist,T06,Multispecialty,33,R016,19,C,14,24570,252,6,14.96,1755.0,1.17,Over-served (Reduce),Low/Mid,0,23385.01
+D0507,General Physician,T01,Private Clinic,20,R003,27,B,25,46460,407,6,13.71,1858.4,2.08,Over-served (Reduce),Low/Mid,1,44219.27
+D0508,General Physician,T07,Government Hospital,12,R019,13,C,7,25820,237,6,25.7,3688.57,0.58,Maintain (Low-touch),Low/Mid,0,25820.0
+D0509,Cardiologist,T07,Multispecialty,11,R020,10,C,9,19200,124,6,38.51,2133.33,0.75,Maintain (Low-touch),Low/Mid,0,19200.0
+D0510,Diabetologist,T03,Private Clinic,20,R007,7,C,12,15760,117,6,8.74,1313.33,1.0,Over-served (Reduce),Low/Mid,0,14999.91
+D0511,General Physician,T01,Private Clinic,2,R002,6,C,14,13490,109,6,3.78,963.57,1.17,Over-served (Reduce),Low/Mid,0,12839.39
+D0512,Gastroenterologist,T05,Government Hospital,10,R014,19,B,21,22950,244,6,51.92,1092.86,1.75,Over-served (Reduce),Low/Mid,0,21843.14
+D0513,Neurologist,T01,Private Clinic,7,R003,7,C,6,11050,65,6,26.9,1841.67,0.5,Maintain (Low-touch),Low/Mid,0,11050.0
+D0514,Cardiologist,T03,Private Hospital,22,R009,10,C,14,28070,184,6,34.31,2005.0,1.17,Over-served (Reduce),Low/Mid,0,26716.21
+D0515,Pulmonologist,T08,Government Hospital,24,R024,13,C,9,22670,197,6,7.79,2518.89,0.75,Maintain (Low-touch),Low/Mid,0,22670.0
+D0516,General Physician,T08,Private Hospital,17,R022,7,C,12,14200,128,6,3.73,1183.33,1.0,Over-served (Reduce),Low/Mid,0,13515.15
+D0517,Cardiologist,T06,Private Clinic,6,R016,32,B,15,58080,377,6,12.83,3872.0,1.25,Protect & Grow (Core),High,1,58080.0
+D0518,Pulmonologist,T03,Government Hospital,14,R009,34,C,9,49760,431,6,1.54,5528.89,0.75,Under-served (Increase),High,0,59874.55
+D0519,General Physician,T06,Private Hospital,29,R018,12,C,12,25830,224,6,6.97,2152.5,1.0,Over-served (Reduce),Low/Mid,0,24584.24
+D0520,Cardiologist,T06,Private Clinic,8,R016,14,C,12,31410,199,6,55.37,2617.5,1.0,Over-served (Reduce),Low/Mid,0,29895.12
+D0521,General Physician,T03,Private Hospital,7,R007,24,C,12,57950,510,6,-9.81,4829.17,1.0,Over-served (Reduce),Low/Mid,0,55155.12
+D0522,Diabetologist,T05,Multispecialty,5,R014,11,C,9,19360,145,6,4.22,2151.11,0.75,Maintain (Low-touch),Low/Mid,0,19360.0
+D0523,General Physician,T01,Government Hospital,28,R001,14,C,10,22500,196,6,1.25,2250.0,0.83,Maintain (Low-touch),Low/Mid,0,22500.0
+D0524,General Physician,T02,Private Hospital,5,R004,46,A,35,101380,925,6,25.14,2896.57,2.92,Protect & Grow (Core),High,1,101380.0
+D0525,General Physician,T05,Private Clinic,21,R015,46,B,21,73800,655,6,11.4,3514.29,1.75,Protect & Grow (Core),High,1,73800.0
+D0526,Diabetologist,T02,Private Clinic,34,R005,30,B,14,58780,437,6,-6.64,4198.57,1.17,Protect & Grow (Core),High,1,58780.0
+D0527,Gastroenterologist,T02,Private Clinic,23,R004,38,B,22,56900,579,6,15.53,2586.36,1.83,Protect & Grow (Core),High,1,56900.0
+D0528,General Physician,T07,Private Clinic,15,R020,5,C,17,10410,92,6,0.97,612.35,1.42,Over-served (Reduce),Low/Mid,0,9907.93
+D0529,Diabetologist,T08,Multispecialty,8,R023,35,A,39,133330,972,6,9.57,3418.72,3.25,Protect & Grow (Core),High,1,133330.0
+D0530,Diabetologist,T05,Private Clinic,2,R014,27,B,11,45430,341,6,3.18,4130.0,0.92,Maintain (Low-touch),Low/Mid,0,45430.0
+D0531,Cardiologist,T07,Multispecialty,7,R021,41,B,12,90810,579,6,7.05,7567.5,1.0,Protect & Grow (Core),High,1,90810.0
+D0532,General Physician,T08,Private Clinic,33,R022,31,B,21,54640,476,6,6.11,2601.9,1.75,Protect & Grow (Core),High,1,54640.0
+D0533,General Physician,T01,Private Clinic,6,R002,23,C,5,34820,313,6,27.73,6964.0,0.42,Maintain (Low-touch),Low/Mid,0,34820.0
+D0534,General Physician,T04,Private Hospital,2,R012,14,C,9,29420,278,6,4.02,3268.89,0.75,Maintain (Low-touch),Low/Mid,0,29420.0
+D0535,General Physician,T03,Private Clinic,28,R008,30,B,15,49930,449,6,35.41,3328.67,1.25,Protect & Grow (Core),High,1,49930.0
+D0536,Gastroenterologist,T01,Government Hospital,15,R003,16,C,8,22450,223,6,11.0,2806.25,0.67,Maintain (Low-touch),Low/Mid,0,22450.0
+D0537,Neurologist,T06,Multispecialty,13,R017,33,B,20,102970,551,6,21.77,5148.5,1.67,Protect & Grow (Core),High,1,102970.0
+D0538,Neurologist,T03,Multispecialty,25,R008,7,C,11,15950,86,6,1.64,1450.0,0.92,Maintain (Low-touch),Low/Mid,0,15950.0
+D0539,General Physician,T04,Private Clinic,19,R012,13,C,6,25470,228,6,-1.64,4245.0,0.5,Maintain (Low-touch),Low/Mid,0,25470.0
+D0540,Diabetologist,T01,Government Hospital,32,R002,100,A,43,200190,1460,6,13.17,4655.58,3.58,Protect & Grow (Core),High,1,200190.0
+D0541,General Physician,T02,Private Clinic,17,R006,13,C,6,23190,209,6,32.36,3865.0,0.5,Maintain (Low-touch),Low/Mid,0,23190.0
+D0542,General Physician,T08,Multispecialty,25,R024,17,C,11,33390,309,6,7.52,3035.45,0.92,Maintain (Low-touch),Low/Mid,0,33390.0
+D0543,Pulmonologist,T01,Private Hospital,31,R003,12,C,6,13570,118,6,-21.45,2261.67,0.5,Maintain (Low-touch),Low/Mid,0,13570.0
+D0544,Gastroenterologist,T02,Private Clinic,17,R004,29,B,15,34120,354,6,8.43,2274.67,1.25,Protect & Grow (Core),High,0,34120.0
+D0545,Diabetologist,T03,Private Clinic,11,R008,13,C,8,20270,146,6,-23.28,2533.75,0.67,Maintain (Low-touch),Low/Mid,0,20270.0
+D0546,General Physician,T04,Private Clinic,34,R012,21,C,8,32620,288,6,36.21,4077.5,0.67,Maintain (Low-touch),Low/Mid,0,32620.0
+D0547,General Physician,T05,Private Clinic,9,R014,39,B,25,74010,675,6,14.71,2960.4,2.08,Protect & Grow (Core),High,1,74010.0
+D0548,General Physician,T04,Multispecialty,3,R010,13,C,11,22120,200,6,14.97,2010.91,0.92,Maintain (Low-touch),Low/Mid,0,22120.0
+D0549,Pulmonologist,T01,Government Hospital,21,R001,40,B,22,58400,511,6,1.38,2654.55,1.83,Protect & Grow (Core),High,1,58400.0
+D0550,Diabetologist,T02,Multispecialty,34,R006,35,B,20,79600,573,6,4.47,3980.0,1.67,Protect & Grow (Core),High,1,79600.0
+D0551,Diabetologist,T07,Private Clinic,4,R019,42,B,16,84170,619,6,13.14,5260.62,1.33,Protect & Grow (Core),High,1,84170.0
+D0552,Cardiologist,T05,Private Hospital,30,R013,27,C,5,41020,276,6,-2.12,8204.0,0.42,Maintain (Low-touch),Low/Mid,0,41020.0
+D0553,Cardiologist,T05,Private Clinic,29,R015,232,A,36,501740,3233,6,50.83,13937.22,3.0,Protect & Grow (Core),High,1,501740.0
+D0554,Cardiologist,T06,Private Hospital,32,R016,42,C,9,88040,571,6,9.32,9782.22,0.75,Under-served (Increase),High,1,108309.26
+D0555,General Physician,T06,Private Clinic,15,R018,24,B,21,43170,410,6,33.98,2055.71,1.75,Over-served (Reduce),Low/Mid,1,41087.95
+D0556,Cardiologist,T01,Private Clinic,10,R002,13,B,27,27320,184,6,25.23,1011.85,2.25,Over-served (Reduce),Low/Mid,0,26002.38
+D0557,Cardiologist,T03,Private Hospital,18,R009,21,C,11,42990,278,6,11.15,3908.18,0.92,Maintain (Low-touch),Low/Mid,0,42990.0
+D0558,General Physician,T05,Private Clinic,6,R014,57,C,9,101420,912,6,23.39,11268.89,0.75,Under-served (Increase),High,1,129071.03
+D0559,Gastroenterologist,T03,Private Hospital,29,R009,64,A,31,103430,1083,6,28.37,3336.45,2.58,Protect & Grow (Core),High,1,103430.0
+D0560,General Physician,T07,Government Hospital,23,R021,59,A,32,122230,1080,6,25.1,3819.69,2.67,Protect & Grow (Core),High,1,122230.0
+D0561,General Physician,T04,Private Clinic,17,R010,35,C,8,63110,580,6,10.37,7888.75,0.67,Under-served (Increase),High,1,77106.74
+D0562,General Physician,T06,Multispecialty,19,R018,8,C,6,14220,126,6,-10.9,2370.0,0.5,Maintain (Low-touch),Low/Mid,0,14220.0
+D0563,General Physician,T07,Private Hospital,25,R021,29,B,21,56950,532,6,30.57,2711.9,1.75,Protect & Grow (Core),High,1,56950.0
+D0564,Gastroenterologist,T04,Multispecialty,19,R010,9,C,11,11970,125,6,49.9,1088.18,0.92,Maintain (Low-touch),Low/Mid,0,11970.0
+D0565,General Physician,T08,Government Hospital,29,R022,7,C,9,13070,119,6,0.77,1452.22,0.75,Maintain (Low-touch),Low/Mid,0,13070.0
+D0566,Neurologist,T05,Government Hospital,32,R013,26,C,7,52590,298,6,1.8,7512.86,0.58,Maintain (Low-touch),Low/Mid,0,52590.0
+D0567,Pulmonologist,T07,Government Hospital,33,R019,33,B,18,48040,448,6,14.18,2668.89,1.5,Protect & Grow (Core),High,1,48040.0
+D0568,Neurologist,T03,Multispecialty,22,R008,42,B,23,109120,571,6,-5.07,4744.35,1.92,Protect & Grow (Core),High,1,109120.0
+D0569,Diabetologist,T04,Private Hospital,26,R012,28,B,17,56830,414,6,32.91,3342.94,1.42,Protect & Grow (Core),High,1,56830.0
+D0570,General Physician,T05,Private Clinic,12,R014,32,B,18,59500,527,6,29.38,3305.56,1.5,Protect & Grow (Core),High,1,59500.0
+D0571,Diabetologist,T01,Private Clinic,3,R001,10,C,7,19280,138,6,-8.54,2754.29,0.58,Maintain (Low-touch),Low/Mid,0,19280.0
+D0572,Diabetologist,T03,Private Hospital,15,R008,16,C,10,34460,258,6,22.75,3446.0,0.83,Maintain (Low-touch),Low/Mid,0,34460.0
+D0573,Diabetologist,T08,Private Clinic,30,R022,8,C,10,11820,90,6,12.59,1182.0,0.83,Maintain (Low-touch),Low/Mid,0,11820.0
+D0574,General Physician,T05,Private Clinic,6,R015,5,C,7,7940,67,6,-8.21,1134.29,0.58,Maintain (Low-touch),Low/Mid,0,7940.0
+D0575,Pulmonologist,T02,Private Clinic,20,R004,44,B,14,45930,409,6,12.84,3280.71,1.17,Protect & Grow (Core),High,1,45930.0
+D0576,General Physician,T03,Private Hospital,8,R009,14,C,12,19370,188,6,3.47,1614.17,1.0,Over-served (Reduce),Low/Mid,0,18435.8
+D0577,General Physician,T02,Private Clinic,16,R005,40,A,36,82020,734,6,-14.39,2278.33,3.0,Protect & Grow (Core),High,1,82020.0
+D0578,Cardiologist,T01,Private Hospital,6,R001,45,A,35,125480,803,6,24.59,3585.14,2.92,Protect & Grow (Core),High,1,125480.0
+D0579,General Physician,T08,Government Hospital,26,R024,13,C,5,21620,186,6,14.48,4324.0,0.42,Maintain (Low-touch),Low/Mid,0,21620.0
+D0580,Pulmonologist,T04,Multispecialty,28,R011,27,B,24,47860,432,6,12.81,1994.17,2.0,Over-served (Reduce),Low/Mid,1,45551.75
+D0581,Diabetologist,T03,Private Clinic,27,R009,10,C,15,24040,178,6,30.71,1602.67,1.25,Over-served (Reduce),Low/Mid,0,22880.57
+D0582,General Physician,T05,Private Hospital,25,R014,5,C,8,8330,78,6,-1.19,1041.25,0.67,Maintain (Low-touch),Low/Mid,0,8330.0
+D0583,General Physician,T01,Private Hospital,9,R003,22,C,9,38380,325,6,8.02,4264.44,0.75,Maintain (Low-touch),Low/Mid,0,38380.0
+D0584,Pulmonologist,T02,Private Hospital,19,R005,11,C,10,21930,194,6,37.85,2193.0,0.83,Maintain (Low-touch),Low/Mid,0,21930.0
+D0585,Gastroenterologist,T06,Government Hospital,5,R016,14,B,21,21680,211,6,35.65,1032.38,1.75,Over-served (Reduce),Low/Mid,0,20634.39
+D0586,Pulmonologist,T05,Private Clinic,14,R013,78,A,38,152910,1331,6,-1.7,4023.95,3.17,Protect & Grow (Core),High,1,152910.0
+D0587,Gastroenterologist,T08,Multispecialty,18,R023,7,C,11,9230,101,6,25.67,839.09,0.92,Maintain (Low-touch),Low/Mid,0,9230.0
+D0588,General Physician,T05,Private Clinic,24,R014,24,B,18,49070,458,6,26.86,2726.11,1.5,Over-served (Reduce),Low/Mid,1,46703.4
+D0589,Gastroenterologist,T04,Multispecialty,5,R012,10,C,13,13620,130,6,20.39,1047.69,1.08,Over-served (Reduce),Low/Mid,0,12963.12
+D0590,General Physician,T06,Private Hospital,28,R017,46,A,47,82640,796,6,20.67,1758.3,3.92,Protect & Grow (Core),High,1,82640.0
+D0591,Cardiologist,T08,Private Clinic,17,R024,27,C,4,47360,310,6,36.21,11840.0,0.33,Maintain (Low-touch),Low/Mid,0,47360.0
+D0592,General Physician,T06,Government Hospital,31,R016,24,B,13,49490,436,6,6.9,3806.92,1.08,Over-served (Reduce),Low/Mid,0,47103.14
+D0593,General Physician,T08,Private Clinic,19,R023,10,C,9,17870,159,6,33.59,1985.56,0.75,Maintain (Low-touch),Low/Mid,0,17870.0
+D0594,General Physician,T07,Government Hospital,20,R021,12,C,13,22940,196,6,20.37,1764.62,1.08,Over-served (Reduce),Low/Mid,0,21833.62
+D0595,Cardiologist,T07,Private Hospital,24,R019,35,C,13,89340,571,6,28.14,6872.31,1.08,Protect & Grow (Core),High,1,89340.0
+D0596,Neurologist,T01,Private Clinic,29,R001,63,C,12,162770,898,6,8.76,13564.17,1.0,Protect & Grow (Core),High,1,162770.0
+D0597,Neurologist,T06,Private Clinic,7,R018,32,B,20,78460,405,6,33.3,3923.0,1.67,Protect & Grow (Core),High,1,78460.0
+D0598,Cardiologist,T04,Government Hospital,18,R011,10,C,9,22870,148,6,19.69,2541.11,0.75,Maintain (Low-touch),Low/Mid,0,22870.0
+D0599,Diabetologist,T05,Private Clinic,2,R015,22,C,7,46710,344,6,1.42,6672.86,0.58,Maintain (Low-touch),Low/Mid,0,46710.0
+D0600,Neurologist,T05,Multispecialty,17,R014,109,C,6,230460,1294,6,22.86,38410.0,0.5,Under-served (Increase),High,1,333744.68
+D0601,General Physician,T08,Government Hospital,28,R024,22,C,12,40190,370,6,-7.8,3349.17,1.0,Over-served (Reduce),Low/Mid,0,38251.67
+D0602,Diabetologist,T08,Government Hospital,30,R024,43,B,15,115640,837,6,24.11,7709.33,1.25,Protect & Grow (Core),High,1,115640.0
+D0603,General Physician,T03,Private Clinic,11,R009,12,C,7,22780,202,6,-16.14,3254.29,0.58,Maintain (Low-touch),Low/Mid,0,22780.0
+D0604,Gastroenterologist,T06,Government Hospital,14,R016,22,C,18,25330,269,6,35.19,1407.22,1.5,Over-served (Reduce),Low/Mid,0,24108.36
+D0605,General Physician,T06,Multispecialty,20,R017,33,B,18,63750,556,6,-1.77,3541.67,1.5,Protect & Grow (Core),High,1,63750.0
+D0606,Neurologist,T03,Private Clinic,15,R007,34,B,12,67580,358,6,34.08,5631.67,1.0,Protect & Grow (Core),High,1,67580.0
+D0607,Neurologist,T01,Private Clinic,7,R001,14,C,10,27780,144,6,11.9,2778.0,0.83,Maintain (Low-touch),Low/Mid,0,27780.0
+D0608,Gastroenterologist,T01,Private Clinic,12,R001,13,C,5,12330,118,6,-14.86,2466.0,0.42,Maintain (Low-touch),Low/Mid,0,12330.0
+D0609,General Physician,T06,Private Clinic,15,R017,54,B,22,80480,710,6,14.61,3658.18,1.83,Protect & Grow (Core),High,1,80480.0
+D0610,Neurologist,T04,Government Hospital,19,R011,50,C,7,104160,585,6,-5.56,14880.0,0.58,Under-served (Increase),High,1,134411.41
+D0611,Gastroenterologist,T08,Private Hospital,32,R024,59,A,42,100590,1030,6,12.26,2395.0,3.5,Protect & Grow (Core),High,1,100590.0
+D0612,Gastroenterologist,T04,Private Hospital,19,R010,79,A,37,120310,1224,6,-6.67,3251.62,3.08,Protect & Grow (Core),High,1,120310.0
+D0613,General Physician,T08,Private Clinic,14,R023,21,C,5,43280,377,6,21.38,8656.0,0.42,Maintain (Low-touch),Low/Mid,0,43280.0
+D0614,Cardiologist,T03,Private Clinic,23,R009,16,C,12,31080,211,6,36.35,2590.0,1.0,Over-served (Reduce),Low/Mid,0,29581.04
+D0615,Gastroenterologist,T07,Private Clinic,27,R021,48,A,36,81700,843,6,15.06,2269.44,3.0,Protect & Grow (Core),High,1,81700.0
+D0616,Neurologist,T01,Multispecialty,16,R001,35,B,18,92890,500,6,13.88,5160.56,1.5,Protect & Grow (Core),High,1,92890.0
+D0617,General Physician,T05,Private Hospital,18,R015,9,C,11,18970,177,6,38.62,1724.55,0.92,Maintain (Low-touch),Low/Mid,0,18970.0
+D0618,Neurologist,T07,Private Clinic,9,R019,9,C,7,23140,124,6,96.67,3305.71,0.58,Maintain (Low-touch),Low/Mid,0,23140.0
+D0619,Neurologist,T08,Government Hospital,30,R023,30,B,30,80880,442,6,31.68,2696.0,2.5,Protect & Grow (Core),High,1,80880.0
+D0620,General Physician,T07,Private Clinic,30,R020,17,C,8,30190,268,6,-21.36,3773.75,0.67,Maintain (Low-touch),Low/Mid,0,30190.0
+D0621,Neurologist,T01,Private Clinic,7,R003,15,C,7,44920,243,6,4.93,6417.14,0.58,Maintain (Low-touch),Low/Mid,0,44920.0
+D0622,Diabetologist,T03,Private Clinic,13,R009,35,C,10,84170,624,6,4.3,8417.0,0.83,Under-served (Increase),High,1,100500.07
+D0623,Diabetologist,T01,Multispecialty,10,R003,29,B,10,65200,481,6,11.55,6520.0,0.83,Under-served (Increase),High,0,76437.46
+D0624,Cardiologist,T01,Government Hospital,32,R003,46,A,38,145540,924,6,21.25,3830.0,3.17,Protect & Grow (Core),High,1,145540.0
+D0625,Cardiologist,T06,Private Hospital,4,R017,5,C,6,8720,58,6,28.27,1453.33,0.5,Maintain (Low-touch),Low/Mid,0,8720.0
+D0626,Neurologist,T06,Private Clinic,8,R018,25,C,11,52370,284,6,11.08,4760.91,0.92,Maintain (Low-touch),Low/Mid,0,52370.0
+D0627,General Physician,T06,Private Clinic,12,R016,37,B,22,66560,596,6,19.96,3025.45,1.83,Protect & Grow (Core),High,1,66560.0
+D0628,General Physician,T07,Private Hospital,20,R020,8,C,7,11580,109,6,66.21,1654.29,0.58,Maintain (Low-touch),Low/Mid,0,11580.0
+D0629,Cardiologist,T06,Private Clinic,10,R016,14,C,10,26520,169,5,18.99,2652.0,0.83,Maintain (Low-touch),Low/Mid,2,26520.0
+D0630,Gastroenterologist,T07,Multispecialty,19,R021,12,C,12,14570,148,6,8.74,1214.17,1.0,Over-served (Reduce),Low/Mid,0,13867.3
+D0631,Diabetologist,T01,Government Hospital,26,R003,21,C,14,39920,289,6,0.8,2851.43,1.17,Over-served (Reduce),Low/Mid,0,37994.69
+D0632,General Physician,T02,Private Hospital,29,R006,71,A,36,134740,1224,6,9.26,3742.78,3.0,Protect & Grow (Core),High,1,134740.0
+D0633,Diabetologist,T05,Government Hospital,5,R015,92,A,29,189140,1374,6,11.59,6522.07,2.42,Protect & Grow (Core),High,1,189140.0
+D0634,General Physician,T07,Multispecialty,6,R019,12,B,19,23170,210,6,27.16,1219.47,1.58,Over-served (Reduce),Low/Mid,0,22052.53
+D0635,Pulmonologist,T01,Private Hospital,5,R003,33,B,22,50620,445,6,9.35,2300.91,1.83,Protect & Grow (Core),High,1,50620.0
+D0636,General Physician,T04,Private Hospital,32,R011,21,B,15,54410,492,6,19.75,3627.33,1.25,Over-served (Reduce),Low/Mid,0,51785.85
+D0637,Neurologist,T06,Multispecialty,23,R018,25,B,22,82180,435,6,18.22,3735.45,1.83,Over-served (Reduce),Low/Mid,1,78216.53
+D0638,General Physician,T01,Private Clinic,19,R003,26,B,18,48820,448,6,-6.81,2712.22,1.5,Over-served (Reduce),Low/Mid,1,46465.45
+D0639,Diabetologist,T03,Multispecialty,28,R008,28,C,7,48610,353,6,5.89,6944.29,0.58,Under-served (Increase),High,0,58835.77
+D0640,General Physician,T07,Private Clinic,21,R019,78,C,10,123580,1086,6,7.94,12358.0,0.83,Under-served (Increase),High,1,161127.5
+D0641,Gastroenterologist,T06,Private Hospital,9,R017,36,A,34,74940,758,6,48.97,2204.12,2.83,Protect & Grow (Core),High,1,74940.0
+D0642,General Physician,T02,Government Hospital,18,R005,11,C,16,20600,176,6,0.98,1287.5,1.33,Over-served (Reduce),Low/Mid,0,19606.48
+D0643,General Physician,T07,Private Hospital,25,R021,30,B,17,65910,598,6,16.6,3877.06,1.42,Protect & Grow (Core),High,1,65910.0
+D0644,General Physician,T03,Private Hospital,3,R008,32,B,17,72220,655,6,5.87,4248.24,1.42,Protect & Grow (Core),High,1,72220.0
+D0645,Diabetologist,T07,Private Hospital,22,R020,24,B,22,56480,416,6,-29.21,2567.27,1.83,Over-served (Reduce),Low/Mid,1,53756.02
+D0646,Pulmonologist,T03,Private Clinic,18,R008,43,C,12,65480,584,6,20.4,5456.67,1.0,Protect & Grow (Core),High,1,65480.0
+D0647,Diabetologist,T05,Private Clinic,4,R013,19,C,7,37690,272,6,26.23,5384.29,0.58,Maintain (Low-touch),Low/Mid,0,37690.0
+D0648,Diabetologist,T03,Private Clinic,10,R007,25,C,8,41690,308,6,10.45,5211.25,0.67,Maintain (Low-touch),Low/Mid,0,41690.0
+D0649,Gastroenterologist,T02,Private Hospital,16,R004,24,C,11,27270,277,6,18.33,2479.09,0.92,Maintain (Low-touch),Low/Mid,0,27270.0
+D0650,General Physician,T07,Private Hospital,13,R020,6,C,5,8750,81,6,-3.37,1750.0,0.42,Maintain (Low-touch),Low/Mid,0,8750.0
+D0651,General Physician,T02,Private Clinic,11,R005,18,C,10,33610,311,6,9.41,3361.0,0.83,Maintain (Low-touch),Low/Mid,0,33610.0
+D0652,Gastroenterologist,T01,Multispecialty,23,R003,13,C,9,16640,171,6,39.42,1848.89,0.75,Maintain (Low-touch),Low/Mid,0,16640.0
+D0653,General Physician,T03,Private Clinic,15,R009,9,C,5,16270,145,6,-3.26,3254.0,0.42,Maintain (Low-touch),Low/Mid,0,16270.0
+D0654,General Physician,T06,Private Hospital,18,R016,66,A,35,119770,1082,6,1.46,3422.0,2.92,Protect & Grow (Core),High,1,119770.0
+D0655,General Physician,T07,Private Hospital,28,R019,19,C,15,49400,455,6,15.34,3293.33,1.25,Over-served (Reduce),Low/Mid,0,47017.48
+D0656,Diabetologist,T08,Private Clinic,5,R023,17,C,7,33030,245,6,8.92,4718.57,0.58,Maintain (Low-touch),Low/Mid,0,33030.0
+D0657,Gastroenterologist,T03,Government Hospital,13,R009,14,C,11,16350,166,6,4.63,1486.36,0.92,Maintain (Low-touch),Low/Mid,0,16350.0
+D0658,General Physician,T03,Private Hospital,4,R007,21,C,8,45080,401,6,24.61,5635.0,0.67,Maintain (Low-touch),Low/Mid,0,45080.0
+D0659,Pulmonologist,T01,Private Clinic,32,R001,39,B,25,64770,580,6,35.87,2590.8,2.08,Protect & Grow (Core),High,1,64770.0
+D0660,Neurologist,T05,Multispecialty,8,R013,11,C,10,24550,131,6,-8.35,2455.0,0.83,Maintain (Low-touch),Low/Mid,0,24550.0
+D0661,General Physician,T08,Multispecialty,29,R023,18,C,13,35090,315,6,7.63,2699.23,1.08,Over-served (Reduce),Low/Mid,0,33397.64
+D0662,General Physician,T06,Government Hospital,8,R018,37,C,17,69690,634,6,10.93,4099.41,1.42,Protect & Grow (Core),High,1,69690.0
+D0663,General Physician,T05,Multispecialty,12,R015,6,C,5,10160,88,6,61.18,2032.0,0.42,Maintain (Low-touch),Low/Mid,0,10160.0
+D0664,General Physician,T03,Multispecialty,22,R008,19,C,13,39060,346,6,21.05,3004.62,1.08,Over-served (Reduce),Low/Mid,0,37176.17
+D0665,Diabetologist,T08,Private Clinic,29,R022,14,C,12,31890,236,6,50.12,2657.5,1.0,Over-served (Reduce),Low/Mid,0,30351.97
+D0666,Pulmonologist,T04,Private Hospital,7,R011,18,B,25,35110,302,6,39.66,1404.4,2.08,Over-served (Reduce),Low/Mid,0,33416.67
+D0667,Gastroenterologist,T01,Private Hospital,9,R002,14,C,13,19480,197,6,6.79,1498.46,1.08,Over-served (Reduce),Low/Mid,0,18540.5
+D0668,Gastroenterologist,T03,Private Clinic,31,R007,17,C,12,33100,331,6,20.81,2758.33,1.0,Over-served (Reduce),Low/Mid,0,31503.61
+D0669,Gastroenterologist,T01,Private Clinic,12,R003,81,C,9,103480,1029,6,-3.49,11497.78,0.75,Under-served (Increase),High,1,137244.8
+D0670,General Physician,T02,Private Clinic,8,R006,15,C,8,28520,259,6,-17.06,3565.0,0.67,Maintain (Low-touch),Low/Mid,0,28520.0
+D0671,Neurologist,T01,Government Hospital,26,R001,28,C,15,57960,319,6,5.17,3864.0,1.25,Protect & Grow (Core),High,1,57960.0
+D0672,General Physician,T04,Government Hospital,5,R010,87,A,33,172050,1568,6,16.12,5213.64,2.75,Protect & Grow (Core),High,1,172050.0
+D0673,Pulmonologist,T05,Government Hospital,30,R013,16,C,11,23490,206,6,17.9,2135.45,0.92,Maintain (Low-touch),Low/Mid,0,23490.0
+D0674,Pulmonologist,T03,Private Clinic,30,R009,63,A,35,125800,1116,6,15.97,3594.29,2.92,Protect & Grow (Core),High,1,125800.0
+D0675,Cardiologist,T03,Private Clinic,30,R008,19,C,5,42630,278,6,-7.63,8526.0,0.42,Maintain (Low-touch),Low/Mid,0,42630.0
+D0676,Diabetologist,T08,Private Hospital,11,R022,59,A,37,177950,1283,6,30.92,4809.46,3.08,Protect & Grow (Core),High,1,177950.0
+D0677,General Physician,T06,Private Hospital,5,R016,31,B,19,73690,663,6,21.29,3878.42,1.58,Protect & Grow (Core),High,1,73690.0
+D0678,Neurologist,T05,Multispecialty,16,R013,29,B,18,61860,339,6,1.37,3436.67,1.5,Protect & Grow (Core),High,1,61860.0
+D0679,Diabetologist,T03,Multispecialty,13,R008,23,C,10,31500,232,6,7.24,3150.0,0.83,Maintain (Low-touch),Low/Mid,0,31500.0
+D0680,General Physician,T07,Multispecialty,33,R021,11,C,9,23550,209,6,14.68,2616.67,0.75,Maintain (Low-touch),Low/Mid,0,23550.0
+D0681,Gastroenterologist,T02,Multispecialty,22,R004,20,C,8,25340,248,6,16.4,3167.5,0.67,Maintain (Low-touch),Low/Mid,0,25340.0
+D0682,Cardiologist,T03,Multispecialty,33,R007,37,A,46,101460,649,6,-11.1,2205.65,3.83,Protect & Grow (Core),High,1,101460.0
+D0683,Pulmonologist,T08,Private Hospital,26,R023,21,C,13,31540,284,6,1.53,2426.15,1.08,Over-served (Reduce),Low/Mid,0,30018.85
+D0684,Diabetologist,T05,Private Clinic,25,R015,13,C,7,26660,197,6,-12.12,3808.57,0.58,Maintain (Low-touch),Low/Mid,0,26660.0
+D0685,General Physician,T06,Private Clinic,5,R017,14,C,16,32340,287,6,12.48,2021.25,1.33,Over-served (Reduce),Low/Mid,0,30780.27
+D0686,Diabetologist,T05,Private Clinic,4,R013,43,B,17,88210,637,6,6.48,5188.82,1.42,Protect & Grow (Core),High,1,88210.0
+D0687,Cardiologist,T05,Private Clinic,3,R013,36,C,4,88480,600,6,24.91,22120.0,0.33,Under-served (Increase),High,1,117350.4
+D0688,Cardiologist,T03,Private Clinic,21,R009,12,C,10,27300,176,6,57.3,2730.0,0.83,Maintain (Low-touch),Low/Mid,0,27300.0
+D0689,Gastroenterologist,T02,Multispecialty,8,R006,13,C,7,15250,156,6,4.7,2178.57,0.58,Maintain (Low-touch),Low/Mid,0,15250.0
+D0690,Cardiologist,T03,Private Clinic,34,R009,28,B,11,58430,387,6,-7.8,5311.82,0.92,Under-served (Increase),High,0,67678.41
+D0691,General Physician,T01,Multispecialty,6,R002,58,A,30,118200,1076,6,28.36,3940.0,2.5,Protect & Grow (Core),High,1,118200.0
+D0692,Diabetologist,T07,Government Hospital,33,R021,43,A,36,105100,777,6,4.43,2919.44,3.0,Protect & Grow (Core),High,1,105100.0
+D0693,Gastroenterologist,T03,Private Hospital,24,R008,9,C,5,9190,94,5,26.91,1838.0,0.42,Maintain (Low-touch),Low/Mid,2,9190.0
+D0694,Neurologist,T05,Government Hospital,5,R013,17,C,6,37170,208,6,44.06,6195.0,0.5,Maintain (Low-touch),Low/Mid,0,37170.0
+D0695,Neurologist,T07,Private Clinic,3,R020,10,C,9,25400,137,6,18.59,2822.22,0.75,Maintain (Low-touch),Low/Mid,0,25400.0
+D0696,Cardiologist,T07,Private Hospital,15,R021,17,C,6,37900,240,6,-21.31,6316.67,0.5,Maintain (Low-touch),Low/Mid,0,37900.0
+D0697,General Physician,T03,Private Clinic,13,R008,65,C,11,106980,969,6,13.75,9725.45,0.92,Under-served (Increase),High,1,135079.25
+D0698,General Physician,T04,Multispecialty,12,R012,9,C,9,12660,112,6,-20.68,1406.67,0.75,Maintain (Low-touch),Low/Mid,0,12660.0
+D0699,Cardiologist,T08,Private Clinic,19,R024,7,C,12,15890,100,6,53.03,1324.17,1.0,Over-served (Reduce),Low/Mid,0,15123.64
+D0700,Diabetologist,T06,Private Clinic,6,R016,13,B,7,23710,172,6,62.28,3387.14,0.58,Maintain (Low-touch),Low/Mid,0,23710.0
+D0701,General Physician,T07,Government Hospital,6,R019,23,C,4,45110,399,6,3.66,11277.5,0.33,Maintain (Low-touch),Low/Mid,0,45110.0
+D0702,Gastroenterologist,T08,Government Hospital,24,R022,29,C,7,33500,346,6,-2.48,4785.71,0.58,Under-served (Increase),High,0,40695.56
+D0703,Diabetologist,T07,Private Hospital,34,R021,27,B,22,56280,408,6,3.03,2558.18,1.83,Over-served (Reduce),Low/Mid,1,53565.66
+D0704,Diabetologist,T02,Private Hospital,11,R006,45,A,36,108990,783,6,9.07,3027.5,3.0,Protect & Grow (Core),High,1,108990.0
+D0705,General Physician,T05,Private Clinic,32,R013,5,C,14,10730,89,6,83.11,766.43,1.17,Over-served (Reduce),Low/Mid,0,10212.5
+D0706,General Physician,T01,Government Hospital,13,R001,53,A,36,103290,946,6,33.32,2869.17,3.0,Protect & Grow (Core),High,1,103290.0
+D0707,Gastroenterologist,T05,Private Clinic,13,R014,18,C,8,22380,223,6,20.71,2797.5,0.67,Maintain (Low-touch),Low/Mid,0,22380.0
+D0708,General Physician,T08,Private Clinic,4,R023,32,B,17,67400,592,6,28.63,3964.71,1.42,Protect & Grow (Core),High,1,67400.0
+D0709,Neurologist,T04,Private Clinic,15,R012,9,C,9,16870,90,6,-15.43,1874.44,0.75,Maintain (Low-touch),Low/Mid,0,16870.0
+D0710,Pulmonologist,T03,Private Clinic,18,R009,21,C,8,31450,278,6,9.95,3931.25,0.67,Maintain (Low-touch),Low/Mid,0,31450.0
+D0711,Neurologist,T01,Private Clinic,23,R001,26,C,7,51570,281,6,-4.07,7367.14,0.58,Maintain (Low-touch),Low/Mid,0,51570.0
+D0712,Pulmonologist,T08,Private Hospital,7,R022,38,A,33,83910,721,6,23.46,2542.73,2.75,Protect & Grow (Core),High,1,83910.0
+D0713,Diabetologist,T01,Private Clinic,8,R002,7,C,16,13460,98,6,109.43,841.25,1.33,Over-served (Reduce),Low/Mid,0,12810.84
+D0714,Cardiologist,T01,Private Clinic,16,R002,20,A,50,65350,416,6,18.93,1307.0,4.17,Over-served (Reduce),Low/Mid,1,62198.22
+D0715,Pulmonologist,T02,Private Hospital,4,R006,10,C,11,15390,138,6,12.57,1399.09,0.92,Maintain (Low-touch),Low/Mid,0,15390.0
+D0716,General Physician,T01,Private Clinic,6,R002,26,B,20,57860,522,6,13.19,2893.0,1.67,Over-served (Reduce),Low/Mid,1,55069.46
+D0717,Cardiologist,T04,Government Hospital,22,R011,24,B,22,87300,558,6,3.35,3968.18,1.83,Over-served (Reduce),Low/Mid,1,83089.59
+D0718,Neurologist,T04,Multispecialty,33,R010,43,A,33,146260,772,6,7.87,4432.12,2.75,Protect & Grow (Core),High,1,146260.0
+D0719,General Physician,T03,Private Hospital,20,R007,14,C,3,21690,201,6,39.14,7230.0,0.25,Maintain (Low-touch),Low/Mid,0,21690.0
+D0720,Gastroenterologist,T01,Multispecialty,6,R003,39,B,15,54840,554,6,30.81,3656.0,1.25,Protect & Grow (Core),High,1,54840.0
+D0721,General Physician,T01,Private Clinic,34,R003,63,C,12,95980,909,6,15.25,7998.33,1.0,Protect & Grow (Core),High,1,95980.0
+D0722,General Physician,T03,Private Clinic,19,R007,7,C,12,10630,94,6,18.72,885.83,1.0,Over-served (Reduce),Low/Mid,0,10117.32
+D0723,General Physician,T01,Government Hospital,25,R003,31,C,6,56780,501,6,48.16,9463.33,0.5,Under-served (Increase),High,0,70629.57
+D0724,Cardiologist,T06,Government Hospital,8,R017,39,B,20,88070,580,6,10.09,4403.5,1.67,Protect & Grow (Core),High,1,88070.0
+D0725,Neurologist,T02,Multispecialty,21,R005,19,C,7,37720,208,6,2.9,5388.57,0.58,Maintain (Low-touch),Low/Mid,0,37720.0
+D0726,Gastroenterologist,T03,Private Clinic,4,R009,8,C,9,11640,115,6,10.87,1293.33,0.75,Maintain (Low-touch),Low/Mid,0,11640.0
+D0727,Diabetologist,T03,Government Hospital,22,R009,38,C,15,73950,539,6,23.35,4930.0,1.25,Protect & Grow (Core),High,1,73950.0
+D0728,Cardiologist,T03,Private Clinic,8,R007,8,C,4,19010,128,6,2.88,4752.5,0.33,Maintain (Low-touch),Low/Mid,0,19010.0
+D0729,Diabetologist,T01,Private Clinic,32,R001,21,C,6,31000,225,6,24.96,5166.67,0.5,Maintain (Low-touch),Low/Mid,0,31000.0
+D0730,Neurologist,T01,Private Clinic,3,R003,20,C,7,39760,223,6,13.53,5680.0,0.58,Maintain (Low-touch),Low/Mid,0,39760.0
+D0731,Neurologist,T07,Multispecialty,23,R021,30,B,18,79500,426,6,25.98,4416.67,1.5,Protect & Grow (Core),High,1,79500.0
+D0732,Diabetologist,T01,Private Clinic,6,R001,13,C,9,28070,211,6,29.89,3118.89,0.75,Maintain (Low-touch),Low/Mid,0,28070.0
+D0733,General Physician,T04,Multispecialty,24,R012,13,C,9,24330,226,6,12.67,2703.33,0.75,Maintain (Low-touch),Low/Mid,0,24330.0
+D0734,General Physician,T04,Private Hospital,18,R011,21,C,7,41690,366,6,13.47,5955.71,0.58,Maintain (Low-touch),Low/Mid,0,41690.0
+D0735,Diabetologist,T03,Government Hospital,33,R008,38,B,15,83320,618,6,14.74,5554.67,1.25,Protect & Grow (Core),High,1,83320.0
+D0736,General Physician,T03,Government Hospital,23,R007,92,A,37,213110,2001,6,26.81,5759.73,3.08,Protect & Grow (Core),High,1,213110.0
+D0737,Cardiologist,T07,Multispecialty,14,R021,7,C,9,13310,86,6,24.83,1478.89,0.75,Maintain (Low-touch),Low/Mid,0,13310.0
+D0738,General Physician,T07,Private Clinic,4,R021,24,B,22,45220,402,6,44.3,2055.45,1.83,Over-served (Reduce),Low/Mid,1,43039.08
+D0739,General Physician,T02,Private Clinic,21,R005,9,C,8,17620,157,6,15.4,2202.5,0.67,Maintain (Low-touch),Low/Mid,0,17620.0
+D0740,Cardiologist,T03,Private Hospital,16,R009,34,B,17,98600,645,6,-2.05,5800.0,1.42,Protect & Grow (Core),High,1,98600.0
+D0741,General Physician,T02,Private Clinic,3,R006,11,C,7,19540,175,6,-8.06,2791.43,0.58,Maintain (Low-touch),Low/Mid,0,19540.0
+D0742,General Physician,T04,Private Clinic,21,R012,12,C,11,24000,217,6,-12.5,2181.82,0.92,Maintain (Low-touch),Low/Mid,0,24000.0
+D0743,General Physician,T06,Private Clinic,8,R018,13,C,14,28090,257,6,27.45,2006.43,1.17,Over-served (Reduce),Low/Mid,0,26735.24
+D0744,General Physician,T02,Private Clinic,9,R006,19,B,22,38900,357,6,-1.43,1768.18,1.83,Over-served (Reduce),Low/Mid,0,37023.89
+D0745,Gastroenterologist,T03,Private Clinic,2,R009,27,B,23,35360,366,6,-2.57,1537.39,1.92,Over-served (Reduce),Low/Mid,1,33654.62
+D0746,Cardiologist,T08,Private Clinic,14,R024,31,B,20,59730,389,6,5.05,2986.5,1.67,Protect & Grow (Core),High,1,59730.0
+D0747,General Physician,T01,Multispecialty,9,R002,21,C,9,37950,347,6,43.43,4216.67,0.75,Maintain (Low-touch),Low/Mid,0,37950.0
+D0748,Gastroenterologist,T04,Private Clinic,4,R012,8,C,9,11100,109,6,-14.38,1233.33,0.75,Maintain (Low-touch),Low/Mid,0,11100.0
+D0749,Gastroenterologist,T06,Multispecialty,16,R016,31,A,35,53990,565,6,37.32,1542.57,2.92,Protect & Grow (Core),High,1,53990.0
+D0750,Neurologist,T01,Multispecialty,9,R002,17,C,7,38120,220,6,10.84,5445.71,0.58,Maintain (Low-touch),Low/Mid,0,38120.0
+D0751,Gastroenterologist,T01,Private Clinic,6,R002,42,A,33,75220,766,6,28.56,2279.39,2.75,Protect & Grow (Core),High,1,75220.0
+D0752,Diabetologist,T01,Government Hospital,17,R003,12,C,12,24350,178,6,12.11,2029.17,1.0,Over-served (Reduce),Low/Mid,0,23175.62
+D0753,General Physician,T08,Private Hospital,4,R022,6,C,12,12230,109,6,39.33,1019.17,1.0,Over-served (Reduce),Low/Mid,0,11640.16
+D0754,Cardiologist,T01,Government Hospital,34,R002,20,C,8,38170,249,6,-3.65,4771.25,0.67,Maintain (Low-touch),Low/Mid,0,38170.0
+D0755,General Physician,T02,Private Clinic,17,R004,44,A,41,109890,989,6,33.21,2680.24,3.42,Protect & Grow (Core),High,1,109890.0
+D0756,General Physician,T01,Private Clinic,34,R003,18,C,13,39520,347,6,8.33,3040.0,1.08,Over-served (Reduce),Low/Mid,0,37613.98
+D0757,Neurologist,T01,Private Clinic,31,R003,19,C,10,36710,210,6,33.08,3671.0,0.83,Maintain (Low-touch),Low/Mid,0,36710.0
+D0758,Gastroenterologist,T05,Private Hospital,34,R013,10,C,8,12860,136,6,-1.54,1607.5,0.67,Maintain (Low-touch),Low/Mid,0,12860.0
+D0759,Pulmonologist,T02,Multispecialty,19,R006,62,A,39,128560,1111,6,33.53,3296.41,3.25,Protect & Grow (Core),High,1,128560.0
+D0760,General Physician,T05,Government Hospital,15,R014,8,C,11,17810,158,6,-18.64,1619.09,0.92,Maintain (Low-touch),Low/Mid,0,17810.0
+D0761,General Physician,T05,Government Hospital,25,R015,13,C,11,20180,185,6,-4.46,1834.55,0.92,Maintain (Low-touch),Low/Mid,0,20180.0
+D0762,Pulmonologist,T07,Multispecialty,4,R021,35,B,13,44080,381,6,-2.42,3390.77,1.08,Protect & Grow (Core),High,1,44080.0
+D0763,Diabetologist,T01,Government Hospital,29,R001,5,C,16,11900,84,6,129.64,743.75,1.33,Over-served (Reduce),Low/Mid,0,11326.07
+D0764,Diabetologist,T07,Private Clinic,12,R019,48,A,31,111170,831,6,14.16,3586.13,2.58,Protect & Grow (Core),High,1,111170.0
+D0765,Neurologist,T05,Multispecialty,2,R014,35,B,17,78130,418,6,1.37,4595.88,1.42,Protect & Grow (Core),High,1,78130.0
+D0766,General Physician,T02,Private Clinic,9,R004,30,B,21,74230,673,6,12.69,3534.76,1.75,Protect & Grow (Core),High,1,74230.0
+D0767,General Physician,T06,Private Clinic,9,R016,37,B,19,59900,537,6,12.49,3152.63,1.58,Protect & Grow (Core),High,1,59900.0
+D0768,Diabetologist,T07,Private Hospital,2,R021,23,C,9,31670,232,6,25.41,3518.89,0.75,Maintain (Low-touch),Low/Mid,0,31670.0
+D0769,General Physician,T02,Multispecialty,24,R006,6,C,13,18610,167,6,22.34,1431.54,1.08,Over-served (Reduce),Low/Mid,0,17712.46
+D0770,Pulmonologist,T08,Private Clinic,5,R023,18,C,8,23130,209,6,11.43,2891.25,0.67,Maintain (Low-touch),Low/Mid,0,23130.0
+D0771,General Physician,T04,Private Hospital,29,R010,9,C,9,18890,167,6,16.63,2098.89,0.75,Maintain (Low-touch),Low/Mid,0,18890.0
+D0772,Diabetologist,T05,Private Clinic,16,R013,27,B,18,59920,437,6,-12.87,3328.89,1.5,Over-served (Reduce),Low/Mid,1,57030.11
+D0773,Gastroenterologist,T08,Private Clinic,25,R024,34,B,21,54200,562,6,33.92,2580.95,1.75,Protect & Grow (Core),High,1,54200.0
+D0774,General Physician,T03,Private Clinic,13,R007,62,C,9,106920,931,6,15.56,11880.0,0.75,Under-served (Increase),High,1,137393.62
+D0775,Diabetologist,T07,Government Hospital,6,R019,26,B,22,59520,433,6,21.26,2705.45,1.83,Over-served (Reduce),Low/Mid,1,56649.4
+D0776,General Physician,T03,Multispecialty,7,R008,34,B,19,73970,683,6,19.63,3893.16,1.58,Protect & Grow (Core),High,1,73970.0
+D0777,General Physician,T07,Private Clinic,23,R020,16,C,11,30770,279,6,19.94,2797.27,0.92,Maintain (Low-touch),Low/Mid,0,30770.0
+D0778,Diabetologist,T05,Private Clinic,25,R014,15,C,21,31830,228,6,22.28,1515.71,1.75,Over-served (Reduce),Low/Mid,0,30294.87
+D0779,Cardiologist,T02,Private Clinic,10,R005,24,B,28,70970,462,6,22.27,2534.64,2.33,Over-served (Reduce),Low/Mid,1,67547.18
+D0780,General Physician,T03,Private Clinic,13,R009,12,C,6,26790,245,6,32.75,4465.0,0.5,Maintain (Low-touch),Low/Mid,0,26790.0
+D0781,Pulmonologist,T03,Private Hospital,33,R008,30,C,10,32670,291,6,-10.94,3267.0,0.83,Under-served (Increase),High,0,38424.47
+D0782,Cardiologist,T01,Government Hospital,30,R003,9,C,8,20540,135,6,13.74,2567.5,0.67,Maintain (Low-touch),Low/Mid,0,20540.0
+D0783,Neurologist,T01,Private Hospital,15,R002,11,C,9,24440,133,6,-2.27,2715.56,0.75,Maintain (Low-touch),Low/Mid,0,24440.0
+D0784,General Physician,T03,Private Clinic,9,R008,30,B,18,59700,541,6,11.33,3316.67,1.5,Protect & Grow (Core),High,1,59700.0
+D0785,Pulmonologist,T01,Private Hospital,11,R002,40,B,13,51760,464,6,15.13,3981.54,1.08,Protect & Grow (Core),High,1,51760.0
+D0786,Pulmonologist,T02,Private Clinic,19,R006,12,C,8,14560,130,6,-39.12,1820.0,0.67,Maintain (Low-touch),Low/Mid,0,14560.0
+D0787,General Physician,T06,Private Clinic,20,R018,34,B,15,61570,564,6,7.87,4104.67,1.25,Protect & Grow (Core),High,1,61570.0
+D0788,Gastroenterologist,T06,Multispecialty,8,R016,11,C,9,19050,189,6,5.06,2116.67,0.75,Maintain (Low-touch),Low/Mid,0,19050.0
+D0789,General Physician,T06,Government Hospital,4,R018,17,C,11,39490,354,6,23.36,3590.0,0.92,Maintain (Low-touch),Low/Mid,0,39490.0
+D0790,Neurologist,T03,Multispecialty,18,R009,52,C,9,125970,679,6,-2.15,13996.67,0.75,Under-served (Increase),High,1,158655.18
+D0791,General Physician,T07,Multispecialty,28,R021,34,B,16,68750,627,6,32.42,4296.88,1.33,Protect & Grow (Core),High,1,68750.0
+D0792,General Physician,T05,Private Hospital,7,R013,28,B,13,64030,573,6,-5.68,4925.38,1.08,Protect & Grow (Core),High,1,64030.0
+D0793,Cardiologist,T01,Multispecialty,15,R003,84,A,43,216310,1386,6,40.48,5030.47,3.58,Protect & Grow (Core),High,1,216310.0
+D0794,General Physician,T01,Private Hospital,7,R001,11,B,20,25450,237,6,19.78,1272.5,1.67,Over-served (Reduce),Low/Mid,0,24222.57
+D0795,Neurologist,T06,Private Clinic,9,R016,12,C,7,21590,120,6,33.66,3084.29,0.58,Maintain (Low-touch),Low/Mid,0,21590.0
+D0796,Diabetologist,T02,Private Clinic,22,R006,15,C,13,25780,184,6,21.86,1983.08,1.08,Over-served (Reduce),Low/Mid,0,24536.65
+D0797,Diabetologist,T04,Private Clinic,11,R010,16,A,44,40030,287,6,-3.1,909.77,3.67,Over-served (Reduce),Low/Mid,1,38099.39
+D0798,General Physician,T08,Private Clinic,10,R024,5,C,10,7680,69,6,41.51,768.0,0.83,Maintain (Low-touch),Low/Mid,0,7680.0
+D0799,Cardiologist,T01,Private Clinic,34,R002,15,C,17,42880,268,6,54.78,2522.35,1.42,Over-served (Reduce),Low/Mid,0,40811.93
+D0800,Pulmonologist,T01,Government Hospital,7,R001,15,C,14,20040,177,6,33.84,1431.43,1.17,Over-served (Reduce),Low/Mid,0,19073.49
+D0801,Cardiologist,T08,Government Hospital,8,R022,33,A,34,96450,610,6,1.36,2836.76,2.83,Protect & Grow (Core),High,1,96450.0
+D0802,Neurologist,T05,Private Hospital,32,R015,22,B,17,66800,364,6,0.6,3929.41,1.42,Over-served (Reduce),Low/Mid,1,63578.29
+D0803,Neurologist,T01,Private Clinic,20,R003,13,C,12,34770,192,6,56.61,2897.5,1.0,Over-served (Reduce),Low/Mid,0,33093.07
+D0804,Gastroenterologist,T07,Government Hospital,3,R020,29,B,18,41060,435,6,46.9,2281.11,1.5,Protect & Grow (Core),High,1,41060.0
+D0805,Diabetologist,T07,Private Clinic,16,R021,32,A,40,81620,592,6,3.64,2040.5,3.33,Protect & Grow (Core),High,1,81620.0
+D0806,Cardiologist,T05,Private Clinic,20,R013,13,C,8,20990,138,6,-18.27,2623.75,0.67,Maintain (Low-touch),Low/Mid,0,20990.0
+D0807,Gastroenterologist,T05,Private Clinic,10,R014,13,C,7,19830,195,6,15.31,2832.86,0.58,Maintain (Low-touch),Low/Mid,0,19830.0
+D0808,Pulmonologist,T02,Private Clinic,20,R004,5,C,13,4800,43,5,-24.18,369.23,1.08,Over-served (Reduce),Low/Mid,2,4568.5
+D0809,General Physician,T01,Private Clinic,23,R002,8,A,33,18630,181,6,-11.44,564.55,2.75,Over-served (Reduce),Low/Mid,0,17731.49
+D0810,Cardiologist,T05,Multispecialty,10,R013,14,C,4,21610,140,6,38.0,5402.5,0.33,Maintain (Low-touch),Low/Mid,0,21610.0
+D0811,Cardiologist,T03,Government Hospital,28,R008,19,C,10,46690,309,6,57.25,4669.0,0.83,Maintain (Low-touch),Low/Mid,0,46690.0
+D0812,Diabetologist,T06,Government Hospital,16,R017,10,C,11,22320,161,6,20.34,2029.09,0.92,Maintain (Low-touch),Low/Mid,0,22320.0
+D0813,Neurologist,T07,Private Clinic,33,R020,13,C,9,30940,165,6,1.43,3437.78,0.75,Maintain (Low-touch),Low/Mid,0,30940.0
+D0814,Pulmonologist,T01,Multispecialty,4,R002,8,C,7,12870,108,6,29.0,1838.57,0.58,Maintain (Low-touch),Low/Mid,0,12870.0
+D0815,General Physician,T05,Government Hospital,12,R014,25,C,15,44280,393,6,5.57,2952.0,1.25,Over-served (Reduce),Low/Mid,0,42144.41
+D0816,Pulmonologist,T02,Private Clinic,25,R005,32,C,8,37720,331,6,12.63,4715.0,0.67,Under-served (Increase),High,0,45654.91
+D0817,Gastroenterologist,T07,Private Hospital,31,R019,30,B,23,38780,397,6,39.98,1686.09,1.92,Protect & Grow (Core),High,1,38780.0
+D0818,Gastroenterologist,T02,Private Hospital,9,R004,19,C,9,27650,275,6,8.52,3072.22,0.75,Maintain (Low-touch),Low/Mid,0,27650.0
+D0819,Cardiologist,T05,Private Hospital,34,R014,7,C,11,17710,114,6,31.81,1610.0,0.92,Maintain (Low-touch),Low/Mid,0,17710.0
+D0820,Gastroenterologist,T05,Private Clinic,8,R015,12,A,34,20160,219,6,-16.23,592.94,2.83,Over-served (Reduce),Low/Mid,0,19187.7
+D0821,Pulmonologist,T03,Private Hospital,15,R009,13,C,12,23650,203,6,39.37,1970.83,1.0,Over-served (Reduce),Low/Mid,0,22509.38
+D0822,Neurologist,T06,Private Clinic,12,R017,13,C,9,35410,194,6,3.97,3934.44,0.75,Maintain (Low-touch),Low/Mid,0,35410.0
+D0823,Cardiologist,T06,Private Clinic,16,R018,20,C,11,48560,311,6,52.0,4414.55,0.92,Maintain (Low-touch),Low/Mid,0,48560.0
+D0824,General Physician,T05,Private Clinic,31,R015,56,A,44,126150,1154,6,22.13,2867.05,3.67,Protect & Grow (Core),High,1,126150.0
+D0825,General Physician,T06,Multispecialty,26,R017,27,C,15,70070,639,6,17.0,4671.33,1.25,Over-served (Reduce),Low/Mid,1,66690.58
+D0826,Cardiologist,T08,Private Clinic,28,R022,10,C,9,24010,149,6,0.25,2667.78,0.75,Maintain (Low-touch),Low/Mid,0,24010.0
+D0827,Gastroenterologist,T03,Private Clinic,10,R008,38,B,25,53100,551,6,5.73,2124.0,2.08,Protect & Grow (Core),High,1,53100.0
+D0828,General Physician,T04,Private Clinic,33,R011,36,B,21,64550,588,6,16.47,3073.81,1.75,Protect & Grow (Core),High,1,64550.0
+D0829,Pulmonologist,T01,Multispecialty,16,R001,11,B,24,19000,168,6,9.02,791.67,2.0,Over-served (Reduce),Low/Mid,0,18083.65
+D0830,General Physician,T07,Private Hospital,23,R021,30,C,7,69910,605,6,0.43,9987.14,0.58,Under-served (Increase),High,0,85228.96
+D0831,General Physician,T05,Multispecialty,25,R015,19,C,6,31940,290,6,30.12,5323.33,0.5,Maintain (Low-touch),Low/Mid,0,31940.0
+D0832,General Physician,T03,Private Clinic,23,R007,5,C,9,12860,112,6,41.28,1428.89,0.75,Maintain (Low-touch),Low/Mid,0,12860.0
+D0833,General Physician,T01,Private Clinic,21,R002,31,B,21,52080,470,6,9.24,2480.0,1.75,Protect & Grow (Core),High,1,52080.0
+D0834,Cardiologist,T07,Private Hospital,17,R019,23,C,13,55830,364,6,-9.19,4294.62,1.08,Over-served (Reduce),Low/Mid,0,53137.37
+D0835,Neurologist,T03,Private Clinic,23,R007,21,C,19,55410,284,6,1.56,2916.32,1.58,Over-served (Reduce),Low/Mid,1,52737.62
+D0836,Gastroenterologist,T06,Multispecialty,31,R016,16,C,12,26370,264,6,11.3,2197.5,1.0,Over-served (Reduce),Low/Mid,0,25098.2
+D0837,Diabetologist,T01,Multispecialty,14,R002,13,C,13,27090,190,6,38.26,2083.85,1.08,Over-served (Reduce),Low/Mid,0,25783.47
+D0838,Pulmonologist,T08,Private Hospital,18,R022,30,B,23,46420,413,6,-0.43,2018.26,1.92,Protect & Grow (Core),High,1,46420.0
+D0839,General Physician,T02,Multispecialty,7,R004,19,C,7,37010,313,6,-0.7,5287.14,0.58,Maintain (Low-touch),Low/Mid,0,37010.0
+D0840,Cardiologist,T02,Private Hospital,13,R005,19,C,13,46580,314,6,13.87,3583.08,1.08,Over-served (Reduce),Low/Mid,0,44333.49
+D0841,Neurologist,T07,Private Clinic,27,R020,28,B,11,58360,319,6,19.4,5305.45,0.92,Under-served (Increase),High,0,67597.33
+D0842,General Physician,T08,Private Hospital,23,R022,10,C,5,16380,148,6,-13.86,3276.0,0.42,Maintain (Low-touch),Low/Mid,0,16380.0
+D0843,Pulmonologist,T02,Private Clinic,8,R005,13,C,8,16760,141,6,21.99,2095.0,0.67,Maintain (Low-touch),Low/Mid,0,16760.0
+D0844,Neurologist,T04,Multispecialty,20,R010,5,C,14,10850,63,4,28.42,775.0,1.17,Over-served (Reduce),Low/Mid,2,10326.71
+D0845,General Physician,T06,Private Clinic,28,R018,28,B,28,61770,567,6,28.35,2206.07,2.33,Protect & Grow (Core),High,1,61770.0
+D0846,Neurologist,T07,Private Clinic,6,R020,8,C,9,18060,95,6,45.38,2006.67,0.75,Maintain (Low-touch),Low/Mid,0,18060.0
+D0847,Cardiologist,T03,Private Hospital,4,R009,18,C,4,44020,290,6,40.15,11005.0,0.33,Maintain (Low-touch),Low/Mid,0,44020.0
+D0848,Cardiologist,T04,Private Clinic,14,R010,31,B,16,64500,415,6,7.66,4031.25,1.33,Protect & Grow (Core),High,1,64500.0
+D0849,General Physician,T06,Private Clinic,23,R018,28,B,15,59370,528,6,12.42,3958.0,1.25,Protect & Grow (Core),High,1,59370.0
+D0850,Diabetologist,T06,Government Hospital,12,R017,10,C,11,15140,113,6,92.84,1376.36,0.92,Maintain (Low-touch),Low/Mid,0,15140.0
+D0851,Gastroenterologist,T07,Private Clinic,29,R019,20,C,6,24130,246,6,-3.02,4021.67,0.5,Maintain (Low-touch),Low/Mid,0,24130.0
+D0852,Cardiologist,T05,Private Hospital,29,R015,67,B,21,156660,995,6,18.98,7460.0,1.75,Protect & Grow (Core),High,1,156660.0
+D0853,Neurologist,T01,Private Clinic,19,R001,64,A,25,178790,959,6,59.64,7151.6,2.08,Protect & Grow (Core),High,1,178790.0
+D0854,General Physician,T08,Private Clinic,14,R022,43,B,24,80910,723,6,3.96,3371.25,2.0,Protect & Grow (Core),High,1,80910.0
+D0855,Gastroenterologist,T07,Private Clinic,3,R021,25,B,18,37630,386,6,10.93,2090.56,1.5,Over-served (Reduce),Low/Mid,0,35815.14
+D0856,General Physician,T07,Government Hospital,29,R019,9,C,10,20220,170,6,12.62,2022.0,0.83,Maintain (Low-touch),Low/Mid,0,20220.0
+D0857,Diabetologist,T01,Multispecialty,31,R002,36,B,18,73820,525,6,46.48,4101.11,1.5,Protect & Grow (Core),High,1,73820.0
+D0858,Gastroenterologist,T02,Private Clinic,16,R004,18,C,16,24540,250,6,35.96,1533.75,1.33,Over-served (Reduce),Low/Mid,0,23356.46
+D0859,General Physician,T06,Multispecialty,19,R016,27,B,22,57090,522,6,6.25,2595.0,1.83,Over-served (Reduce),Low/Mid,1,54336.6
+D0860,Neurologist,T01,Private Hospital,26,R001,14,C,8,32620,179,5,-7.32,4077.5,0.67,Maintain (Low-touch),Low/Mid,2,32620.0
+D0861,Diabetologist,T08,Private Hospital,24,R022,18,C,10,32640,242,6,17.89,3264.0,0.83,Maintain (Low-touch),Low/Mid,0,32640.0
+D0862,General Physician,T03,Government Hospital,6,R008,24,C,9,39580,350,6,32.69,4397.78,0.75,Maintain (Low-touch),Low/Mid,0,39580.0
+D0863,Pulmonologist,T06,Government Hospital,24,R017,23,C,14,37360,324,6,5.95,2668.57,1.17,Over-served (Reduce),Low/Mid,0,35558.16
+D0864,Gastroenterologist,T07,Multispecialty,32,R019,24,B,20,40180,403,6,0.0,2009.0,1.67,Over-served (Reduce),Low/Mid,1,38242.15
+D0865,General Physician,T03,Private Hospital,26,R008,16,C,5,24500,216,6,17.2,4900.0,0.42,Maintain (Low-touch),Low/Mid,0,24500.0
+D0866,Diabetologist,T03,Private Hospital,17,R007,9,C,8,14740,108,6,27.12,1842.5,0.67,Maintain (Low-touch),Low/Mid,0,14740.0
+D0867,Pulmonologist,T05,Private Clinic,19,R014,69,A,32,113190,997,6,19.62,3537.19,2.67,Protect & Grow (Core),High,1,113190.0
+D0868,Cardiologist,T05,Private Clinic,10,R015,109,A,31,296300,1891,6,-5.74,9558.06,2.58,Protect & Grow (Core),High,1,296300.0
+D0869,Pulmonologist,T03,Government Hospital,23,R009,26,B,22,45490,396,6,-4.68,2067.73,1.83,Over-served (Reduce),Low/Mid,1,43296.06
+D0870,Diabetologist,T05,Private Clinic,9,R015,9,C,12,11440,92,6,5.76,953.33,1.0,Over-served (Reduce),Low/Mid,0,10888.26
+D0871,General Physician,T08,Private Clinic,13,R022,11,C,8,23370,199,6,30.02,2921.25,0.67,Maintain (Low-touch),Low/Mid,0,23370.0
+D0872,Diabetologist,T04,Private Clinic,10,R010,27,B,25,60240,446,6,42.71,2409.6,2.08,Over-served (Reduce),Low/Mid,1,57334.68
+D0873,General Physician,T02,Private Clinic,13,R006,63,A,31,109310,1004,6,8.37,3526.13,2.58,Protect & Grow (Core),High,1,109310.0
+D0874,Diabetologist,T03,Private Hospital,14,R007,9,C,10,16240,120,6,29.7,1624.0,0.83,Maintain (Low-touch),Low/Mid,0,16240.0
+D0875,Pulmonologist,T03,Private Hospital,4,R009,22,C,9,29620,262,6,17.95,3291.11,0.75,Maintain (Low-touch),Low/Mid,0,29620.0
+D0876,Pulmonologist,T01,Private Hospital,25,R002,19,B,19,38970,350,6,2.34,2051.05,1.58,Over-served (Reduce),Low/Mid,0,37090.51
+D0877,General Physician,T02,Private Clinic,16,R004,39,B,13,69660,631,6,14.27,5358.46,1.08,Protect & Grow (Core),High,1,69660.0
+D0878,Neurologist,T06,Private Hospital,33,R018,20,C,6,35030,199,6,3.07,5838.33,0.5,Maintain (Low-touch),Low/Mid,0,35030.0
+D0879,Pulmonologist,T03,Private Clinic,7,R008,7,C,11,10830,95,6,-23.04,984.55,0.92,Maintain (Low-touch),Low/Mid,0,10830.0
+D0880,General Physician,T08,Government Hospital,24,R024,30,B,13,58190,515,6,14.41,4476.15,1.08,Protect & Grow (Core),High,1,58190.0
+D0881,Gastroenterologist,T02,Private Hospital,7,R005,38,A,40,73960,777,6,9.82,1849.0,3.33,Protect & Grow (Core),High,1,73960.0
+D0882,Diabetologist,T01,Private Hospital,20,R001,21,C,14,37430,267,6,15.61,2673.57,1.17,Over-served (Reduce),Low/Mid,0,35624.78
+D0883,General Physician,T06,Private Hospital,18,R018,24,B,26,53810,475,6,23.19,2069.62,2.17,Over-served (Reduce),Low/Mid,1,51214.79
+D0884,Pulmonologist,T07,Multispecialty,16,R019,14,C,15,21340,188,6,23.69,1422.67,1.25,Over-served (Reduce),Low/Mid,0,20310.79
+D0885,Cardiologist,T02,Government Hospital,23,R005,9,C,9,22550,150,6,17.66,2505.56,0.75,Maintain (Low-touch),Low/Mid,0,22550.0
+D0886,Neurologist,T02,Private Hospital,29,R005,49,B,16,106700,585,6,-3.21,6668.75,1.33,Protect & Grow (Core),High,1,106700.0
+D0887,Cardiologist,T02,Private Hospital,12,R006,30,B,21,66740,415,6,41.99,3178.1,1.75,Protect & Grow (Core),High,1,66740.0
+D0888,Diabetologist,T05,Private Clinic,30,R015,28,B,21,58090,438,6,14.91,2766.19,1.75,Protect & Grow (Core),High,1,58090.0
+D0889,General Physician,T04,Multispecialty,8,R011,50,A,25,109390,1002,6,25.59,4375.6,2.08,Protect & Grow (Core),High,1,109390.0
+D0890,Cardiologist,T02,Private Clinic,11,R006,11,C,8,20620,135,6,-5.1,2577.5,0.67,Maintain (Low-touch),Low/Mid,0,20620.0
+D0891,General Physician,T01,Private Clinic,12,R001,13,B,16,24200,222,6,8.62,1512.5,1.33,Over-served (Reduce),Low/Mid,0,23032.85
+D0892,General Physician,T04,Multispecialty,33,R010,19,C,7,41360,368,6,18.49,5908.57,0.58,Maintain (Low-touch),Low/Mid,0,41360.0
+D0893,Gastroenterologist,T08,Government Hospital,5,R024,11,C,10,18220,184,6,30.93,1822.0,0.83,Maintain (Low-touch),Low/Mid,0,18220.0
+D0894,General Physician,T05,Private Clinic,15,R014,32,B,25,72540,675,6,24.86,2901.6,2.08,Protect & Grow (Core),High,1,72540.0
+D0895,General Physician,T04,Private Clinic,16,R011,15,C,11,36650,315,6,12.46,3331.82,0.92,Maintain (Low-touch),Low/Mid,0,36650.0
+D0896,General Physician,T01,Private Clinic,28,R001,9,C,7,18950,175,6,14.37,2707.14,0.58,Maintain (Low-touch),Low/Mid,0,18950.0
+D0897,Pulmonologist,T02,Private Hospital,18,R004,23,B,22,36840,328,6,17.6,1674.55,1.83,Over-served (Reduce),Low/Mid,1,35063.24
+D0898,Diabetologist,T03,Private Clinic,33,R009,22,C,6,40170,288,6,12.54,6695.0,0.5,Maintain (Low-touch),Low/Mid,0,40170.0
+D0899,Gastroenterologist,T06,Multispecialty,26,R018,40,B,10,45380,460,6,14.56,4538.0,0.83,Under-served (Increase),High,0,54926.3
+D0900,Gastroenterologist,T07,Multispecialty,25,R021,24,B,38,42890,436,6,16.51,1128.68,3.17,Over-served (Reduce),Low/Mid,1,40821.45
+D0901,Diabetologist,T08,Private Hospital,26,R023,28,B,14,53740,400,6,14.1,3838.57,1.17,Protect & Grow (Core),High,1,53740.0
+D0902,Gastroenterologist,T08,Private Hospital,7,R023,31,B,27,37530,394,6,14.21,1390.0,2.25,Protect & Grow (Core),High,1,37530.0
+D0903,Cardiologist,T08,Private Clinic,16,R022,17,C,6,34410,229,6,2.53,5735.0,0.5,Maintain (Low-touch),Low/Mid,0,34410.0
+D0904,General Physician,T08,Private Clinic,21,R022,13,C,6,21630,184,6,4.44,3605.0,0.5,Maintain (Low-touch),Low/Mid,0,21630.0
+D0905,Diabetologist,T01,Government Hospital,8,R002,20,C,8,47050,345,6,-2.56,5881.25,0.67,Maintain (Low-touch),Low/Mid,0,47050.0
+D0906,Cardiologist,T01,Private Clinic,5,R002,19,C,11,31600,209,6,25.07,2872.73,0.92,Maintain (Low-touch),Low/Mid,0,31600.0
+D0907,Cardiologist,T03,Private Clinic,6,R007,62,A,45,174800,1138,6,16.85,3884.44,3.75,Protect & Grow (Core),High,1,174800.0
+D0908,Diabetologist,T05,Private Clinic,28,R014,58,A,33,114030,839,6,35.65,3455.45,2.75,Protect & Grow (Core),High,1,114030.0
+D0909,Diabetologist,T01,Private Clinic,23,R002,31,B,15,55220,408,6,7.67,3681.33,1.25,Protect & Grow (Core),High,1,55220.0
+D0910,Cardiologist,T07,Private Hospital,11,R021,28,B,23,68750,447,6,-12.41,2989.13,1.92,Protect & Grow (Core),High,1,68750.0
+D0911,Diabetologist,T05,Government Hospital,26,R015,20,C,14,38870,281,6,7.2,2776.43,1.17,Over-served (Reduce),Low/Mid,0,36995.33
+D0912,Diabetologist,T05,Multispecialty,24,R014,8,A,33,21430,152,6,30.18,649.39,2.75,Over-served (Reduce),Low/Mid,0,20396.45
+D0913,Pulmonologist,T02,Private Hospital,28,R005,20,C,5,23350,211,6,23.87,4670.0,0.42,Maintain (Low-touch),Low/Mid,0,23350.0
+D0914,Pulmonologist,T02,Multispecialty,32,R006,20,C,16,32730,289,6,-12.22,2045.62,1.33,Over-served (Reduce),Low/Mid,0,31151.46
+D0915,Pulmonologist,T02,Private Hospital,31,R006,26,C,12,39220,349,6,16.57,3268.33,1.0,Over-served (Reduce),Low/Mid,0,37328.45
+D0916,Pulmonologist,T07,Multispecialty,7,R019,27,B,14,38940,346,6,78.54,2781.43,1.17,Over-served (Reduce),Low/Mid,0,37061.96
+D0917,Cardiologist,T05,Private Hospital,27,R015,40,B,18,84940,549,6,22.71,4718.89,1.5,Protect & Grow (Core),High,1,84940.0
+D0918,Cardiologist,T06,Private Clinic,14,R016,12,C,11,28730,186,6,-1.18,2611.82,0.92,Maintain (Low-touch),Low/Mid,0,28730.0
+D0919,Diabetologist,T03,Multispecialty,15,R008,13,C,7,23730,173,6,35.65,3390.0,0.58,Maintain (Low-touch),Low/Mid,0,23730.0
+D0920,General Physician,T03,Private Clinic,23,R007,48,A,50,127000,1158,6,42.46,2540.0,4.17,Protect & Grow (Core),High,1,127000.0
+D0921,General Physician,T03,Private Clinic,21,R009,35,C,8,65350,568,6,24.96,8168.75,0.67,Under-served (Increase),High,1,79843.54
+D0922,General Physician,T06,Private Clinic,15,R016,15,C,8,26590,235,6,-1.42,3323.75,0.67,Maintain (Low-touch),Low/Mid,0,26590.0
+D0923,Gastroenterologist,T06,Private Clinic,34,R018,17,C,13,27570,289,6,20.03,2120.77,1.08,Over-served (Reduce),Low/Mid,0,26240.32
+D0924,Gastroenterologist,T02,Private Clinic,7,R004,19,C,7,22260,228,6,-0.54,3180.0,0.58,Maintain (Low-touch),Low/Mid,0,22260.0
+D0925,Pulmonologist,T08,Private Hospital,5,R022,21,C,6,24730,217,6,-11.65,4121.67,0.5,Maintain (Low-touch),Low/Mid,0,24730.0
+D0926,General Physician,T01,Multispecialty,2,R002,26,A,38,58420,540,6,17.01,1537.37,3.17,Over-served (Reduce),Low/Mid,1,55602.45
+D0927,General Physician,T07,Private Clinic,28,R021,117,A,53,277980,2554,6,16.78,5244.91,4.42,Protect & Grow (Core),High,1,277980.0
+D0928,General Physician,T01,Private Hospital,15,R001,20,B,7,44280,375,6,-2.5,6325.71,0.58,Maintain (Low-touch),Low/Mid,0,44280.0
+D0929,General Physician,T02,Private Clinic,16,R004,41,B,18,60440,529,6,3.84,3357.78,1.5,Protect & Grow (Core),High,1,60440.0
+D0930,Neurologist,T07,Multispecialty,23,R019,7,C,10,17290,88,6,-5.29,1729.0,0.83,Maintain (Low-touch),Low/Mid,0,17290.0
+D0931,General Physician,T02,Private Clinic,16,R005,15,C,8,31240,277,6,13.24,3905.0,0.67,Maintain (Low-touch),Low/Mid,0,31240.0
+D0932,General Physician,T03,Private Clinic,20,R007,54,A,40,107100,937,6,18.84,2677.5,3.33,Protect & Grow (Core),High,1,107100.0
+D0933,Pulmonologist,T04,Private Hospital,3,R012,20,B,16,35920,317,6,-11.15,2245.0,1.33,Over-served (Reduce),Low/Mid,0,34187.61
+D0934,General Physician,T02,Government Hospital,7,R004,5,C,8,1130,10,5,17.31,141.25,0.67,Maintain (Low-touch),Low/Mid,2,1130.0
+D0935,Cardiologist,T06,Government Hospital,32,R018,31,B,16,76280,476,6,19.64,4767.5,1.33,Protect & Grow (Core),High,1,76280.0
+D0936,General Physician,T07,Private Hospital,16,R021,64,A,39,171590,1552,6,17.29,4399.74,3.25,Protect & Grow (Core),High,1,171590.0
+D0937,General Physician,T07,Government Hospital,7,R021,5,C,12,9310,78,6,28.75,775.83,1.0,Over-served (Reduce),Low/Mid,0,8860.99
+D0938,Cardiologist,T03,Private Clinic,14,R009,60,A,46,172190,1104,6,23.57,3743.26,3.83,Protect & Grow (Core),High,1,172190.0
+D0939,General Physician,T05,Private Clinic,13,R015,5,C,7,6030,55,6,17.69,861.43,0.58,Maintain (Low-touch),Low/Mid,0,6030.0
+D0940,Cardiologist,T02,Private Clinic,11,R004,33,B,10,77030,496,6,27.03,7703.0,0.83,Under-served (Increase),High,1,91439.47
+D0941,General Physician,T02,Private Clinic,11,R005,21,C,8,38820,347,6,29.98,4852.5,0.67,Maintain (Low-touch),Low/Mid,0,38820.0
+D0942,General Physician,T02,Private Clinic,26,R006,5,C,17,6310,54,6,43.63,371.18,1.42,Over-served (Reduce),Low/Mid,0,6005.67
+D0943,Gastroenterologist,T08,Private Hospital,5,R023,29,A,47,46100,495,6,35.81,980.85,3.92,Protect & Grow (Core),High,1,46100.0
+D0944,General Physician,T07,Private Clinic,12,R021,42,C,10,82970,753,6,17.14,8297.0,0.83,Under-served (Increase),High,1,100936.07
+D0945,Cardiologist,T06,Private Hospital,17,R018,30,B,16,60300,379,6,16.44,3768.75,1.33,Protect & Grow (Core),High,1,60300.0
+D0946,Diabetologist,T04,Private Hospital,19,R012,30,B,18,58260,426,6,-8.86,3236.67,1.5,Protect & Grow (Core),High,1,58260.0
+D0947,Neurologist,T04,Government Hospital,31,R010,18,C,9,43390,230,6,12.38,4821.11,0.75,Maintain (Low-touch),Low/Mid,0,43390.0
+D0948,Cardiologist,T05,Government Hospital,32,R014,5,C,10,10780,69,6,46.68,1078.0,0.83,Maintain (Low-touch),Low/Mid,0,10780.0
+D0949,Neurologist,T05,Private Clinic,11,R013,36,B,14,76950,419,6,6.91,5496.43,1.17,Protect & Grow (Core),High,1,76950.0
+D0950,Diabetologist,T03,Private Clinic,19,R007,68,A,37,171820,1246,6,3.24,4643.78,3.08,Protect & Grow (Core),High,1,171820.0
+D0951,Pulmonologist,T01,Private Hospital,2,R001,43,A,40,84360,734,6,5.31,2109.0,3.33,Protect & Grow (Core),High,1,84360.0
+D0952,Neurologist,T01,Private Hospital,22,R002,5,C,11,12120,65,5,68.14,1101.82,0.92,Maintain (Low-touch),Low/Mid,2,12120.0
+D0953,General Physician,T08,Private Clinic,7,R023,7,C,10,12650,123,6,37.34,1265.0,0.83,Maintain (Low-touch),Low/Mid,0,12650.0
+D0954,Diabetologist,T04,Private Clinic,4,R012,8,B,19,22190,164,6,-4.67,1167.89,1.58,Over-served (Reduce),Low/Mid,0,21119.79
+D0955,General Physician,T08,Government Hospital,24,R024,5,C,11,12260,105,6,60.85,1114.55,0.92,Maintain (Low-touch),Low/Mid,0,12260.0
+D0956,Neurologist,T02,Private Hospital,7,R006,24,C,5,46330,251,6,7.29,9266.0,0.42,Maintain (Low-touch),Low/Mid,0,46330.0
+D0957,Pulmonologist,T05,Private Clinic,17,R013,30,B,20,47210,407,6,6.52,2360.5,1.67,Protect & Grow (Core),High,1,47210.0
+D0958,Gastroenterologist,T02,Private Hospital,5,R005,9,C,8,10410,103,6,31.33,1301.25,0.67,Maintain (Low-touch),Low/Mid,0,10410.0
+D0959,Neurologist,T02,Multispecialty,26,R006,35,C,3,72380,406,6,30.14,24126.67,0.25,Under-served (Increase),High,0,99096.23
+D0960,Diabetologist,T01,Private Clinic,27,R001,26,C,10,54740,401,6,21.17,5474.0,0.83,Maintain (Low-touch),Low/Mid,0,54740.0
+D0961,Gastroenterologist,T01,Multispecialty,20,R002,13,C,10,18560,196,6,9.48,1856.0,0.83,Maintain (Low-touch),Low/Mid,0,18560.0
+D0962,Diabetologist,T08,Private Clinic,29,R024,18,C,6,30820,228,6,-11.15,5136.67,0.5,Maintain (Low-touch),Low/Mid,0,30820.0
+D0963,Pulmonologist,T03,Private Hospital,16,R009,5,C,6,7440,65,5,-1.07,1240.0,0.5,Maintain (Low-touch),Low/Mid,2,7440.0
+D0964,Gastroenterologist,T05,Private Hospital,8,R015,19,C,8,22320,229,6,8.21,2790.0,0.67,Maintain (Low-touch),Low/Mid,0,22320.0
+D0965,Neurologist,T04,Private Clinic,6,R011,26,C,6,41920,230,6,34.32,6986.67,0.5,Maintain (Low-touch),Low/Mid,0,41920.0
+D0966,General Physician,T03,Multispecialty,9,R008,24,C,9,38840,342,6,7.48,4315.56,0.75,Maintain (Low-touch),Low/Mid,0,38840.0
+D0967,Diabetologist,T05,Private Hospital,8,R014,26,B,25,60280,440,6,17.77,2411.2,2.08,Over-served (Reduce),Low/Mid,1,57372.75
+D0968,General Physician,T02,Multispecialty,12,R006,20,C,9,44780,403,6,16.43,4975.56,0.75,Maintain (Low-touch),Low/Mid,0,44780.0
+D0969,General Physician,T08,Private Clinic,9,R023,20,C,9,30420,262,6,20.28,3380.0,0.75,Maintain (Low-touch),Low/Mid,0,30420.0
+D0970,General Physician,T07,Multispecialty,21,R020,25,C,5,43210,390,6,50.35,8642.0,0.42,Maintain (Low-touch),Low/Mid,0,43210.0
+D0971,General Physician,T06,Multispecialty,6,R016,39,B,23,81190,756,6,15.3,3530.0,1.92,Protect & Grow (Core),High,1,81190.0
+D0972,Diabetologist,T04,Private Hospital,22,R011,20,C,4,36770,262,6,37.38,9192.5,0.33,Maintain (Low-touch),Low/Mid,0,36770.0
+D0973,Gastroenterologist,T01,Private Clinic,13,R001,23,B,21,36970,382,6,12.47,1760.48,1.75,Over-served (Reduce),Low/Mid,0,35186.97
+D0974,Diabetologist,T08,Government Hospital,24,R023,18,C,5,35330,256,6,16.22,7066.0,0.42,Maintain (Low-touch),Low/Mid,0,35330.0
+D0975,General Physician,T03,Private Hospital,18,R009,11,C,6,22930,209,6,5.83,3821.67,0.5,Maintain (Low-touch),Low/Mid,0,22930.0
+D0976,Gastroenterologist,T01,Multispecialty,31,R003,33,C,13,38660,388,6,3.37,2973.85,1.08,Protect & Grow (Core),High,0,38660.0
+D0977,Diabetologist,T03,Private Hospital,16,R008,13,C,7,28710,198,6,14.57,4101.43,0.58,Maintain (Low-touch),Low/Mid,0,28710.0
+D0978,General Physician,T07,Private Clinic,11,R021,30,C,7,44710,398,6,27.88,6387.14,0.58,Under-served (Increase),High,0,54507.04
+D0979,Cardiologist,T05,Private Clinic,21,R015,20,C,10,41140,266,6,-18.93,4114.0,0.83,Maintain (Low-touch),Low/Mid,0,41140.0
+D0980,Gastroenterologist,T06,Government Hospital,23,R017,16,C,10,20910,218,6,3.6,2091.0,0.83,Maintain (Low-touch),Low/Mid,0,20910.0
+D0981,General Physician,T07,Multispecialty,16,R021,14,C,10,28430,251,6,11.06,2843.0,0.83,Maintain (Low-touch),Low/Mid,0,28430.0
+D0982,Cardiologist,T02,Private Clinic,20,R005,15,C,17,31760,211,6,26.7,1868.24,1.42,Over-served (Reduce),Low/Mid,0,30228.24
+D0983,Gastroenterologist,T08,Government Hospital,17,R024,6,C,9,7610,74,6,49.51,845.56,0.75,Maintain (Low-touch),Low/Mid,0,7610.0
+D0984,General Physician,T03,Multispecialty,12,R008,25,C,12,47940,427,6,38.86,3995.0,1.0,Over-served (Reduce),Low/Mid,0,45627.89
+D0985,Cardiologist,T05,Private Clinic,12,R013,24,C,8,53440,338,6,24.73,6680.0,0.67,Maintain (Low-touch),Low/Mid,0,53440.0
+D0986,Gastroenterologist,T01,Private Clinic,31,R001,37,C,4,41860,428,6,3.7,10465.0,0.33,Under-served (Increase),High,0,55702.59
+D0987,Diabetologist,T08,Government Hospital,24,R024,11,C,8,26060,188,6,9.15,3257.5,0.67,Maintain (Low-touch),Low/Mid,0,26060.0
+D0988,General Physician,T03,Private Hospital,5,R007,74,A,36,163130,1486,6,10.79,4531.39,3.0,Protect & Grow (Core),High,1,163130.0
+D0989,Cardiologist,T01,Private Clinic,33,R003,17,C,10,36490,240,6,17.85,3649.0,0.83,Maintain (Low-touch),Low/Mid,0,36490.0
+D0990,General Physician,T04,Multispecialty,25,R010,10,C,11,21790,194,6,23.26,1980.91,0.92,Maintain (Low-touch),Low/Mid,0,21790.0
+D0991,General Physician,T01,Private Hospital,3,R002,10,C,5,17230,163,6,52.64,3446.0,0.42,Maintain (Low-touch),Low/Mid,0,17230.0
+D0992,Diabetologist,T01,Multispecialty,26,R002,6,C,17,13730,98,6,85.45,807.65,1.42,Over-served (Reduce),Low/Mid,0,13067.81
+D0993,Pulmonologist,T05,Multispecialty,21,R014,58,A,33,100280,886,6,19.77,3038.79,2.75,Protect & Grow (Core),High,1,100280.0
+D0994,Gastroenterologist,T03,Multispecialty,32,R007,46,A,34,84620,874,6,10.13,2488.82,2.83,Protect & Grow (Core),High,1,84620.0
+D0995,General Physician,T08,Private Hospital,18,R022,30,B,21,57330,517,6,3.15,2730.0,1.75,Protect & Grow (Core),High,1,57330.0
+D0996,Neurologist,T03,Private Clinic,19,R008,12,B,21,25010,135,6,12.13,1190.95,1.75,Over-served (Reduce),Low/Mid,0,23803.79
+D0997,Diabetologist,T06,Private Hospital,12,R017,62,A,26,158530,1149,6,15.8,6097.31,2.17,Protect & Grow (Core),High,1,158530.0
+D0998,Cardiologist,T04,Private Clinic,12,R012,15,C,5,32010,208,6,1.19,6402.0,0.42,Maintain (Low-touch),Low/Mid,0,32010.0
+D0999,General Physician,T05,Government Hospital,22,R014,14,C,9,32630,282,6,25.66,3625.56,0.75,Maintain (Low-touch),Low/Mid,0,32630.0
+D1000,Neurologist,T05,Private Clinic,29,R013,61,C,10,132100,718,6,-13.26,13210.0,0.83,Under-served (Increase),High,1,167398.5
+D1001,General Physician,T04,Private Hospital,31,R010,32,B,18,60330,551,6,7.53,3351.67,1.5,Protect & Grow (Core),High,1,60330.0
+D1002,Neurologist,T08,Private Clinic,27,R023,84,A,41,294090,1573,6,19.9,7172.93,3.42,Protect & Grow (Core),High,1,294090.0
+D1003,General Physician,T03,Private Clinic,22,R008,24,C,12,47480,412,6,15.33,3956.67,1.0,Over-served (Reduce),Low/Mid,0,45190.08
+D1004,Cardiologist,T02,Private Clinic,18,R006,13,C,11,31970,209,6,44.79,2906.36,0.92,Maintain (Low-touch),Low/Mid,0,31970.0
+D1005,Cardiologist,T06,Private Hospital,13,R017,11,C,12,27790,178,6,-0.79,2315.83,1.0,Over-served (Reduce),Low/Mid,0,26449.71
+D1006,General Physician,T07,Government Hospital,27,R020,5,C,12,9150,85,6,28.75,762.5,1.0,Over-served (Reduce),Low/Mid,0,8708.7
+D1007,General Physician,T01,Private Clinic,12,R001,14,C,6,30830,259,6,31.98,5138.33,0.5,Maintain (Low-touch),Low/Mid,0,30830.0
+D1008,Pulmonologist,T04,Multispecialty,10,R010,52,A,36,76170,670,6,26.29,2115.83,3.0,Protect & Grow (Core),High,1,76170.0
+D1009,Pulmonologist,T07,Multispecialty,30,R021,28,B,16,47300,402,6,14.71,2956.25,1.33,Protect & Grow (Core),High,1,47300.0
+D1010,Neurologist,T06,Private Clinic,21,R017,22,C,11,48370,257,6,22.08,4397.27,0.92,Maintain (Low-touch),Low/Mid,0,48370.0
+D1011,Neurologist,T08,Government Hospital,13,R023,9,C,11,21610,117,6,-4.08,1964.55,0.92,Maintain (Low-touch),Low/Mid,0,21610.0
+D1012,Diabetologist,T05,Private Hospital,30,R014,26,C,15,45220,330,6,2.15,3014.67,1.25,Over-served (Reduce),Low/Mid,0,43039.08
+D1013,General Physician,T05,Private Clinic,33,R013,36,B,16,79130,711,6,13.92,4945.62,1.33,Protect & Grow (Core),High,1,79130.0
+D1014,Diabetologist,T03,Private Hospital,12,R008,27,C,11,49290,364,6,30.97,4480.91,0.92,Maintain (Low-touch),Low/Mid,0,49290.0
+D1015,General Physician,T08,Private Clinic,19,R023,23,C,8,38870,335,6,9.2,4858.75,0.67,Maintain (Low-touch),Low/Mid,0,38870.0
+D1016,Cardiologist,T03,Multispecialty,17,R007,15,C,4,23260,149,6,11.84,5815.0,0.33,Maintain (Low-touch),Low/Mid,0,23260.0
+D1017,Cardiologist,T06,Multispecialty,25,R017,40,B,15,80140,530,6,-9.28,5342.67,1.25,Protect & Grow (Core),High,1,80140.0
+D1018,General Physician,T03,Multispecialty,33,R008,5,A,41,5620,55,6,5.11,137.07,3.42,Over-served (Reduce),Low/Mid,0,5348.95
+D1019,Pulmonologist,T05,Private Hospital,20,R013,28,B,17,38770,345,6,-7.4,2280.59,1.42,Protect & Grow (Core),High,0,38770.0
+D1020,General Physician,T06,Private Hospital,28,R017,153,A,41,262040,2402,6,41.56,6391.22,3.42,Protect & Grow (Core),High,1,262040.0
+D1021,Cardiologist,T04,Multispecialty,21,R012,6,C,5,17250,110,6,40.25,3450.0,0.42,Maintain (Low-touch),Low/Mid,0,17250.0
+D1022,General Physician,T08,Private Clinic,31,R022,15,C,12,29080,257,6,1.39,2423.33,1.0,Over-served (Reduce),Low/Mid,0,27677.5
+D1023,General Physician,T03,Private Clinic,15,R009,19,C,10,36700,328,6,2.09,3670.0,0.83,Maintain (Low-touch),Low/Mid,0,36700.0
+D1024,General Physician,T05,Private Hospital,14,R014,14,C,8,27250,240,6,-0.66,3406.25,0.67,Maintain (Low-touch),Low/Mid,0,27250.0
+D1025,Cardiologist,T03,Private Clinic,15,R009,40,B,17,91250,584,6,14.91,5367.65,1.42,Protect & Grow (Core),High,1,91250.0
+D1026,Pulmonologist,T03,Private Clinic,34,R007,24,B,12,37050,325,6,17.17,3087.5,1.0,Over-served (Reduce),Low/Mid,0,35263.11
+D1027,Pulmonologist,T04,Private Clinic,22,R012,26,A,37,36910,323,6,18.4,997.57,3.08,Over-served (Reduce),Low/Mid,1,35129.86
+D1028,Gastroenterologist,T01,Private Hospital,7,R002,29,B,12,43670,448,6,2.46,3639.17,1.0,Protect & Grow (Core),High,0,43670.0
+D1029,Pulmonologist,T01,Private Clinic,3,R003,20,C,8,27020,236,6,12.59,3377.5,0.67,Maintain (Low-touch),Low/Mid,0,27020.0
+D1030,Cardiologist,T06,Private Clinic,19,R018,209,A,38,500610,3244,6,28.05,13173.95,3.17,Protect & Grow (Core),High,1,500610.0
+D1031,Pulmonologist,T05,Private Clinic,28,R013,22,B,8,29810,267,6,12.78,3726.25,0.67,Maintain (Low-touch),Low/Mid,0,29810.0
+D1032,Diabetologist,T06,Private Clinic,17,R016,20,C,7,41200,295,6,-18.74,5885.71,0.58,Maintain (Low-touch),Low/Mid,0,41200.0
+D1033,Pulmonologist,T01,Multispecialty,20,R001,5,C,5,7970,72,6,65.67,1594.0,0.42,Maintain (Low-touch),Low/Mid,0,7970.0
+D1034,Diabetologist,T03,Private Clinic,28,R008,13,B,24,35170,251,6,8.72,1465.42,2.0,Over-served (Reduce),Low/Mid,0,33473.78
+D1035,Diabetologist,T02,Government Hospital,19,R006,41,A,25,105270,767,6,-4.59,4210.8,2.08,Protect & Grow (Core),High,1,105270.0
+D1036,General Physician,T06,Government Hospital,31,R017,8,C,6,14850,133,6,-14.14,2475.0,0.5,Maintain (Low-touch),Low/Mid,0,14850.0
+D1037,Pulmonologist,T07,Private Clinic,23,R019,5,C,10,7570,66,5,76.28,757.0,0.83,Maintain (Low-touch),Low/Mid,2,7570.0
+D1038,Pulmonologist,T02,Multispecialty,26,R004,23,C,11,26780,237,6,9.55,2434.55,0.92,Maintain (Low-touch),Low/Mid,0,26780.0
+D1039,Gastroenterologist,T06,Government Hospital,27,R017,53,A,47,81170,848,6,33.72,1727.02,3.92,Protect & Grow (Core),High,1,81170.0
+D1040,General Physician,T01,Private Hospital,22,R003,21,C,5,41810,365,6,25.03,8362.0,0.42,Maintain (Low-touch),Low/Mid,0,41810.0
+D1041,Pulmonologist,T02,Private Clinic,3,R004,19,C,6,22900,199,6,3.92,3816.67,0.5,Maintain (Low-touch),Low/Mid,0,22900.0
+D1042,Gastroenterologist,T01,Private Clinic,16,R002,5,C,11,8620,92,5,20.46,783.64,0.92,Maintain (Low-touch),Low/Mid,2,8620.0
+D1043,General Physician,T03,Multispecialty,6,R008,25,C,14,48690,445,6,43.21,3477.86,1.17,Over-served (Reduce),Low/Mid,0,46341.72
+D1044,Gastroenterologist,T06,Government Hospital,18,R016,30,B,13,43780,436,6,16.52,3367.69,1.08,Protect & Grow (Core),High,0,43780.0
+D1045,General Physician,T08,Multispecialty,6,R024,6,C,6,11300,98,6,21.14,1883.33,0.5,Maintain (Low-touch),Low/Mid,0,11300.0
+D1046,General Physician,T02,Multispecialty,18,R006,44,A,40,99540,925,6,24.54,2488.5,3.33,Protect & Grow (Core),High,1,99540.0
+D1047,Cardiologist,T05,Private Clinic,13,R014,31,B,12,73130,476,6,25.22,6094.17,1.0,Protect & Grow (Core),High,1,73130.0
+D1048,Neurologist,T06,Government Hospital,2,R018,34,A,42,137930,725,6,17.08,3284.05,3.5,Protect & Grow (Core),High,1,137930.0
+D1049,General Physician,T08,Private Hospital,6,R024,28,A,36,65830,606,6,14.08,1828.61,3.0,Protect & Grow (Core),High,1,65830.0
+D1050,General Physician,T05,Government Hospital,18,R015,33,B,19,64900,578,6,23.72,3415.79,1.58,Protect & Grow (Core),High,1,64900.0
+D1051,Neurologist,T02,Private Clinic,4,R004,29,C,8,62140,340,6,13.61,7767.5,0.67,Under-served (Increase),High,0,74458.14
+D1052,Cardiologist,T05,Private Clinic,30,R013,42,B,12,78620,519,6,-2.06,6551.67,1.0,Protect & Grow (Core),High,1,78620.0
+D1053,Gastroenterologist,T03,Government Hospital,27,R008,7,C,11,7820,79,6,5.25,710.91,0.92,Maintain (Low-touch),Low/Mid,0,7820.0
+D1054,Cardiologist,T08,Government Hospital,25,R022,8,C,12,11350,77,6,30.69,945.83,1.0,Over-served (Reduce),Low/Mid,0,10802.6
+D1055,General Physician,T03,Private Hospital,7,R007,14,C,7,18000,163,6,-7.49,2571.43,0.58,Maintain (Low-touch),Low/Mid,0,18000.0
+D1056,Gastroenterologist,T06,Private Clinic,28,R017,20,C,13,23920,244,6,22.93,1840.0,1.08,Over-served (Reduce),Low/Mid,0,22766.36
+D1057,General Physician,T01,Private Clinic,22,R002,32,B,19,52260,471,6,4.54,2750.53,1.58,Protect & Grow (Core),High,1,52260.0
+D1058,General Physician,T03,Multispecialty,14,R007,31,B,17,52070,461,6,19.7,3062.94,1.42,Protect & Grow (Core),High,1,52070.0
+D1059,General Physician,T07,Private Hospital,2,R019,49,C,7,81410,714,6,21.4,11630.0,0.58,Under-served (Increase),High,1,104807.36
+D1060,Gastroenterologist,T05,Private Hospital,19,R013,49,A,31,69260,727,6,0.46,2234.19,2.58,Protect & Grow (Core),High,1,69260.0
+D1061,General Physician,T04,Private Hospital,28,R011,11,A,41,24060,222,6,21.14,586.83,3.42,Over-served (Reduce),Low/Mid,1,22899.61
+D1062,General Physician,T08,Private Hospital,3,R024,24,C,8,42180,379,6,19.0,5272.5,0.67,Maintain (Low-touch),Low/Mid,0,42180.0
+D1063,General Physician,T07,Private Hospital,3,R020,11,A,31,22770,202,6,30.47,734.52,2.58,Over-served (Reduce),Low/Mid,0,21671.82
+D1064,Cardiologist,T03,Private Hospital,14,R007,19,C,14,40540,255,6,-17.63,2895.71,1.17,Over-served (Reduce),Low/Mid,0,38584.79
+D1065,Gastroenterologist,T05,Multispecialty,18,R014,23,B,18,37720,387,6,-1.26,2095.56,1.5,Over-served (Reduce),Low/Mid,0,35900.8
+D1066,Diabetologist,T04,Multispecialty,17,R010,5,C,12,2550,19,4,103.57,212.5,1.0,Over-served (Reduce),Low/Mid,2,2427.02
+D1067,General Physician,T05,Multispecialty,16,R013,78,A,33,229000,2051,6,8.2,6939.39,2.75,Protect & Grow (Core),High,1,229000.0
+D1068,General Physician,T03,Private Hospital,10,R007,36,B,18,58240,531,6,10.18,3235.56,1.5,Protect & Grow (Core),High,1,58240.0
+D1069,Neurologist,T02,Private Hospital,3,R005,13,A,37,43910,234,6,21.66,1186.76,3.08,Over-served (Reduce),Low/Mid,1,41792.26
+D1070,Diabetologist,T08,Government Hospital,3,R023,82,A,35,171890,1253,6,2.18,4911.14,2.92,Protect & Grow (Core),High,1,171890.0
+D1071,Pulmonologist,T08,Multispecialty,5,R023,19,C,5,17800,153,6,8.19,3560.0,0.42,Maintain (Low-touch),Low/Mid,0,17800.0
+D1072,General Physician,T07,Private Hospital,24,R020,23,C,9,41750,368,6,8.96,4638.89,0.75,Maintain (Low-touch),Low/Mid,0,41750.0
+D1073,Diabetologist,T08,Government Hospital,27,R023,17,C,5,23570,179,6,50.48,4714.0,0.42,Maintain (Low-touch),Low/Mid,0,23570.0
+D1074,Cardiologist,T06,Government Hospital,16,R018,54,A,43,169610,1102,6,-19.6,3944.42,3.58,Protect & Grow (Core),High,1,169610.0
+D1075,General Physician,T06,Government Hospital,4,R018,24,C,6,32830,292,6,2.28,5471.67,0.5,Maintain (Low-touch),Low/Mid,0,32830.0
+D1076,General Physician,T06,Government Hospital,15,R016,25,B,26,47790,421,6,25.74,1838.08,2.17,Over-served (Reduce),Low/Mid,1,45485.13
+D1077,Diabetologist,T04,Private Clinic,34,R012,48,C,10,91410,671,6,22.68,9141.0,0.83,Under-served (Increase),High,1,112797.31
+D1078,Pulmonologist,T04,Private Hospital,10,R010,35,C,9,43370,373,6,30.94,4818.89,0.75,Under-served (Increase),High,0,52340.98
+D1079,General Physician,T02,Private Hospital,18,R004,17,C,6,33820,298,6,-5.18,5636.67,0.5,Maintain (Low-touch),Low/Mid,0,33820.0
+D1080,General Physician,T05,Private Clinic,19,R014,42,A,44,101600,900,6,49.45,2309.09,3.67,Protect & Grow (Core),High,1,101600.0
+D1081,Gastroenterologist,T03,Multispecialty,12,R007,139,A,41,180990,1905,6,19.33,4414.39,3.42,Protect & Grow (Core),High,1,180990.0
+D1082,Pulmonologist,T02,Private Hospital,16,R005,19,C,13,36540,331,6,2.55,2810.77,1.08,Over-served (Reduce),Low/Mid,0,34777.71
+D1083,Pulmonologist,T05,Private Clinic,17,R013,23,C,15,34200,306,6,31.08,2280.0,1.25,Over-served (Reduce),Low/Mid,0,32550.56
+D1084,Cardiologist,T03,Multispecialty,17,R008,24,C,12,45320,298,6,31.7,3776.67,1.0,Over-served (Reduce),Low/Mid,0,43134.25
+D1085,General Physician,T02,Government Hospital,25,R006,62,A,33,111560,1026,6,9.86,3380.61,2.75,Protect & Grow (Core),High,1,111560.0
+D1086,Cardiologist,T07,Government Hospital,21,R021,11,B,21,28220,178,6,2.0,1343.81,1.75,Over-served (Reduce),Low/Mid,0,26858.97
+D1087,Cardiologist,T07,Private Clinic,3,R019,20,C,8,26640,181,6,41.74,3330.0,0.67,Maintain (Low-touch),Low/Mid,0,26640.0
+D1088,General Physician,T02,Multispecialty,2,R005,6,B,25,13620,120,6,19.68,544.8,2.08,Over-served (Reduce),Low/Mid,0,12963.12
+D1089,General Physician,T01,Private Hospital,15,R002,8,B,21,18670,167,6,0.97,889.05,1.75,Over-served (Reduce),Low/Mid,0,17769.56
+D1090,General Physician,T03,Private Hospital,31,R008,12,C,4,26520,225,6,16.31,6630.0,0.33,Maintain (Low-touch),Low/Mid,0,26520.0
+D1091,Neurologist,T07,Private Clinic,3,R020,17,C,13,46840,253,6,-14.35,3603.08,1.08,Over-served (Reduce),Low/Mid,0,44580.95
+D1092,Neurologist,T07,Private Hospital,4,R021,73,A,50,240120,1253,6,17.44,4802.4,4.17,Protect & Grow (Core),High,1,240120.0
+D1093,Neurologist,T01,Government Hospital,24,R002,25,B,19,67920,383,6,15.89,3574.74,1.58,Over-served (Reduce),Low/Mid,1,64644.28
+D1094,Pulmonologist,T06,Private Hospital,16,R016,12,C,3,14760,132,6,49.32,4920.0,0.25,Maintain (Low-touch),Low/Mid,0,14760.0
+D1095,Gastroenterologist,T01,Private Hospital,9,R003,11,C,3,14180,136,6,13.88,4726.67,0.25,Maintain (Low-touch),Low/Mid,0,14180.0
+D1096,Neurologist,T03,Multispecialty,8,R009,45,A,29,146020,768,6,-7.79,5035.17,2.42,Protect & Grow (Core),High,1,146020.0
+D1097,Gastroenterologist,T08,Government Hospital,23,R022,41,A,37,73630,766,6,1.28,1990.0,3.08,Protect & Grow (Core),High,1,73630.0
+D1098,General Physician,T02,Private Clinic,19,R005,21,B,22,41290,360,6,28.37,1876.82,1.83,Over-served (Reduce),Low/Mid,1,39298.62
+D1099,General Physician,T01,Multispecialty,23,R003,14,C,5,25510,226,6,19.54,5102.0,0.42,Maintain (Low-touch),Low/Mid,0,25510.0
+D1100,Cardiologist,T03,Government Hospital,11,R008,44,A,41,127240,818,6,8.25,3103.41,3.42,Protect & Grow (Core),High,1,127240.0
+D1101,Pulmonologist,T05,Multispecialty,19,R014,11,C,12,14800,133,6,9.04,1233.33,1.0,Over-served (Reduce),Low/Mid,0,14086.21
+D1102,Diabetologist,T08,Multispecialty,30,R024,30,B,14,51790,376,6,22.66,3699.29,1.17,Protect & Grow (Core),High,1,51790.0
+D1103,Pulmonologist,T08,Multispecialty,12,R024,95,A,42,180430,1586,6,16.92,4295.95,3.5,Protect & Grow (Core),High,1,180430.0
+D1104,Pulmonologist,T01,Government Hospital,15,R002,20,C,11,34130,289,6,10.03,3102.73,0.92,Maintain (Low-touch),Low/Mid,0,34130.0
+D1105,Diabetologist,T01,Private Hospital,7,R001,12,C,10,24290,182,6,15.72,2429.0,0.83,Maintain (Low-touch),Low/Mid,0,24290.0
+D1106,General Physician,T07,Private Clinic,23,R020,28,B,25,59380,540,6,24.5,2375.2,2.08,Protect & Grow (Core),High,1,59380.0
+D1107,Neurologist,T02,Private Hospital,3,R006,12,C,4,27320,147,6,30.94,6830.0,0.33,Maintain (Low-touch),Low/Mid,0,27320.0
+D1108,General Physician,T07,Government Hospital,10,R019,7,C,13,14010,130,6,-14.44,1077.69,1.08,Over-served (Reduce),Low/Mid,0,13334.31
+D1109,Cardiologist,T06,Private Hospital,25,R017,30,B,28,77270,490,6,-11.49,2759.64,2.33,Protect & Grow (Core),High,1,77270.0
+D1110,Cardiologist,T01,Multispecialty,2,R002,43,A,34,114740,731,6,12.64,3374.71,2.83,Protect & Grow (Core),High,1,114740.0
+D1111,Neurologist,T07,Private Clinic,34,R019,15,C,7,33390,186,6,2.49,4770.0,0.58,Maintain (Low-touch),Low/Mid,0,33390.0
+D1112,Cardiologist,T02,Private Clinic,15,R005,17,C,7,30310,200,6,0.6,4330.0,0.58,Maintain (Low-touch),Low/Mid,0,30310.0
+D1113,Diabetologist,T03,Private Hospital,15,R009,8,B,10,19180,143,6,48.45,1918.0,0.83,Maintain (Low-touch),Low/Mid,0,19180.0
+D1114,General Physician,T05,Private Hospital,19,R013,15,C,9,35300,295,6,34.55,3922.22,0.75,Maintain (Low-touch),Low/Mid,0,35300.0
+D1115,Diabetologist,T04,Private Clinic,23,R011,13,C,6,23480,174,6,18.42,3913.33,0.5,Maintain (Low-touch),Low/Mid,0,23480.0
+D1116,Diabetologist,T06,Private Clinic,17,R018,10,C,10,15050,109,6,42.74,1505.0,0.83,Maintain (Low-touch),Low/Mid,0,15050.0
+D1117,Gastroenterologist,T05,Multispecialty,31,R013,62,A,35,131650,1360,6,16.14,3761.43,2.92,Protect & Grow (Core),High,1,131650.0
+D1118,Neurologist,T08,Private Hospital,33,R023,26,B,18,72610,397,6,20.7,4033.89,1.5,Over-served (Reduce),Low/Mid,1,69108.08
+D1119,Gastroenterologist,T08,Private Clinic,8,R022,29,B,13,41290,421,6,41.18,3176.15,1.08,Protect & Grow (Core),High,0,41290.0
+D1120,Pulmonologist,T04,Private Clinic,25,R011,36,B,17,64550,571,6,6.96,3797.06,1.42,Protect & Grow (Core),High,1,64550.0
+D1121,General Physician,T01,Private Hospital,11,R002,35,B,21,64300,579,6,8.09,3061.9,1.75,Protect & Grow (Core),High,1,64300.0
+D1122,Cardiologist,T06,Private Clinic,34,R016,14,C,7,33700,213,6,21.71,4814.29,0.58,Maintain (Low-touch),Low/Mid,0,33700.0
+D1123,Neurologist,T08,Government Hospital,10,R022,29,C,9,57570,322,6,3.93,6396.67,0.75,Under-served (Increase),High,0,68179.62
+D1124,General Physician,T03,Government Hospital,11,R008,18,C,9,30450,258,6,9.13,3383.33,0.75,Maintain (Low-touch),Low/Mid,0,30450.0
+D1125,General Physician,T04,Private Clinic,25,R012,25,B,12,53550,461,6,22.2,4462.5,1.0,Over-served (Reduce),Low/Mid,0,50967.33
+D1126,Pulmonologist,T03,Private Hospital,28,R007,26,B,29,40600,358,6,6.72,1400.0,2.42,Over-served (Reduce),Low/Mid,1,38641.9
+D1127,Gastroenterologist,T01,Private Clinic,6,R003,16,C,10,19870,204,6,17.16,1987.0,0.83,Maintain (Low-touch),Low/Mid,0,19870.0
+D1128,Cardiologist,T06,Private Clinic,20,R016,9,C,13,18930,126,6,64.39,1456.15,1.08,Over-served (Reduce),Low/Mid,0,18017.02
+D1129,Diabetologist,T03,Multispecialty,13,R008,21,C,12,43920,315,6,61.58,3660.0,1.0,Over-served (Reduce),Low/Mid,0,41801.78
+D1130,Cardiologist,T07,Private Hospital,22,R020,19,C,15,38040,243,6,-9.13,2536.0,1.25,Over-served (Reduce),Low/Mid,0,36205.36
+D1131,General Physician,T07,Multispecialty,20,R020,5,C,6,9380,81,6,-5.8,1563.33,0.5,Maintain (Low-touch),Low/Mid,0,9380.0
+D1132,Pulmonologist,T07,Private Clinic,34,R019,34,B,23,44260,387,6,15.48,1924.35,1.92,Protect & Grow (Core),High,1,44260.0
+D1133,General Physician,T03,Private Clinic,32,R009,46,B,25,86140,753,6,19.52,3445.6,2.08,Protect & Grow (Core),High,1,86140.0
+D1134,Cardiologist,T03,Private Hospital,23,R007,121,A,38,320210,2063,6,29.11,8426.58,3.17,Protect & Grow (Core),High,1,320210.0
+D1135,General Physician,T06,Private Hospital,24,R018,15,C,10,28610,242,6,30.54,2861.0,0.83,Maintain (Low-touch),Low/Mid,0,28610.0
+D1136,General Physician,T07,Multispecialty,31,R020,15,C,4,22400,197,6,-15.33,5600.0,0.33,Maintain (Low-touch),Low/Mid,0,22400.0
+D1137,Cardiologist,T04,Private Clinic,8,R011,9,C,10,18670,119,6,26.85,1867.0,0.83,Maintain (Low-touch),Low/Mid,0,18670.0
+D1138,Cardiologist,T07,Multispecialty,25,R019,28,C,8,49440,329,6,22.6,6180.0,0.67,Under-served (Increase),High,0,59032.0
+D1139,Cardiologist,T01,Multispecialty,27,R002,23,C,11,48960,329,6,29.86,4450.91,0.92,Maintain (Low-touch),Low/Mid,0,48960.0
+D1140,General Physician,T07,Private Hospital,6,R021,11,C,9,20770,186,6,37.92,2307.78,0.75,Maintain (Low-touch),Low/Mid,0,20770.0
+D1141,Diabetologist,T01,Private Clinic,31,R003,17,C,11,35040,266,6,-4.14,3185.45,0.92,Maintain (Low-touch),Low/Mid,0,35040.0
+D1142,Gastroenterologist,T01,Private Hospital,25,R003,5,C,9,5430,57,5,70.15,603.33,0.75,Maintain (Low-touch),Low/Mid,2,5430.0
+D1143,Neurologist,T05,Private Clinic,13,R013,41,C,12,109130,576,6,3.52,9094.17,1.0,Protect & Grow (Core),High,1,109130.0
+D1144,General Physician,T01,Government Hospital,17,R002,11,C,5,18580,165,6,-4.21,3716.0,0.42,Maintain (Low-touch),Low/Mid,0,18580.0
+D1145,Neurologist,T01,Private Hospital,18,R002,22,C,16,49470,262,6,-3.3,3091.88,1.33,Over-served (Reduce),Low/Mid,0,47084.1
+D1146,Gastroenterologist,T01,Multispecialty,32,R003,6,C,12,10550,105,6,10.58,879.17,1.0,Over-served (Reduce),Low/Mid,0,10041.18
+D1147,General Physician,T03,Private Hospital,33,R009,14,C,7,26510,232,6,-4.21,3787.14,0.58,Maintain (Low-touch),Low/Mid,0,26510.0
+D1148,Diabetologist,T06,Private Hospital,28,R018,19,B,22,30670,227,6,-2.77,1394.09,1.83,Over-served (Reduce),Low/Mid,0,29190.81
+D1149,General Physician,T01,Government Hospital,23,R001,15,C,9,39600,345,6,9.3,4400.0,0.75,Maintain (Low-touch),Low/Mid,0,39600.0
+D1150,Cardiologist,T05,Private Hospital,5,R013,35,B,17,61970,408,6,2.65,3645.29,1.42,Protect & Grow (Core),High,1,61970.0
+D1151,Neurologist,T07,Multispecialty,32,R021,52,A,19,139700,768,6,40.95,7352.63,1.58,Protect & Grow (Core),High,1,139700.0
+D1152,General Physician,T02,Private Clinic,6,R006,34,B,18,65310,586,6,38.79,3628.33,1.5,Protect & Grow (Core),High,1,65310.0
+D1153,General Physician,T01,Multispecialty,7,R002,42,B,21,73200,654,6,2.71,3485.71,1.75,Protect & Grow (Core),High,1,73200.0
+D1154,General Physician,T07,Multispecialty,4,R019,60,A,27,119110,1101,6,5.5,4411.48,2.25,Protect & Grow (Core),High,1,119110.0
+D1155,Diabetologist,T07,Multispecialty,33,R019,31,B,23,63930,458,6,21.36,2779.57,1.92,Protect & Grow (Core),High,1,63930.0
+D1156,Neurologist,T05,Private Hospital,18,R015,22,C,11,42010,237,6,-3.42,3819.09,0.92,Maintain (Low-touch),Low/Mid,0,42010.0
+D1157,Pulmonologist,T07,Multispecialty,9,R020,43,B,17,63980,557,6,17.69,3763.53,1.42,Protect & Grow (Core),High,1,63980.0
+D1158,Gastroenterologist,T01,Private Clinic,4,R002,52,A,39,74810,792,6,18.36,1918.21,3.25,Protect & Grow (Core),High,1,74810.0
+D1159,Neurologist,T03,Government Hospital,15,R009,34,B,13,68090,362,6,14.73,5237.69,1.08,Protect & Grow (Core),High,1,68090.0
+D1160,Pulmonologist,T06,Private Clinic,25,R016,9,A,42,11760,102,5,30.59,280.0,3.5,Over-served (Reduce),Low/Mid,2,11192.83
+D1161,Pulmonologist,T02,Private Clinic,34,R006,12,C,11,17870,155,6,30.88,1624.55,0.92,Maintain (Low-touch),Low/Mid,0,17870.0
+D1162,Diabetologist,T06,Private Hospital,20,R016,13,C,12,34540,255,6,-0.81,2878.33,1.0,Over-served (Reduce),Low/Mid,0,32874.16
+D1163,Pulmonologist,T04,Private Clinic,22,R012,46,B,20,55340,477,6,15.67,2767.0,1.67,Protect & Grow (Core),High,1,55340.0
+D1164,Diabetologist,T06,Private Clinic,29,R018,18,C,12,39140,281,6,9.87,3261.67,1.0,Over-served (Reduce),Low/Mid,0,37252.31
+D1165,General Physician,T04,Multispecialty,31,R011,53,A,22,90650,783,6,27.19,4120.45,1.83,Protect & Grow (Core),High,1,90650.0
+D1166,Gastroenterologist,T03,Private Clinic,11,R007,51,A,36,84360,873,6,19.34,2343.33,3.0,Protect & Grow (Core),High,1,84360.0
+D1167,Cardiologist,T02,Government Hospital,34,R004,52,A,42,143070,899,6,12.46,3406.43,3.5,Protect & Grow (Core),High,1,143070.0
+D1168,General Physician,T02,Private Clinic,19,R004,43,C,3,83140,746,6,8.89,27713.33,0.25,Under-served (Increase),High,1,116806.39
+D1169,General Physician,T06,Government Hospital,32,R018,10,C,10,17810,166,6,-12.33,1781.0,0.83,Maintain (Low-touch),Low/Mid,0,17810.0
+D1170,Diabetologist,T01,Government Hospital,5,R001,27,B,16,54790,409,6,-1.63,3424.38,1.33,Over-served (Reduce),Low/Mid,1,52147.52
+D1171,Diabetologist,T01,Private Hospital,5,R002,16,C,11,26050,192,6,28.51,2368.18,0.92,Maintain (Low-touch),Low/Mid,0,26050.0
+D1172,Cardiologist,T02,Government Hospital,31,R005,7,C,5,13690,89,6,69.49,2738.0,0.42,Maintain (Low-touch),Low/Mid,0,13690.0
+D1173,Cardiologist,T02,Multispecialty,24,R006,18,C,11,38840,247,6,15.06,3530.91,0.92,Maintain (Low-touch),Low/Mid,0,38840.0
+D1174,General Physician,T07,Multispecialty,7,R021,38,C,10,97390,837,6,17.68,9739.0,0.83,Under-served (Increase),High,1,117256.4
+D1175,General Physician,T03,Private Clinic,31,R008,27,B,9,49860,428,6,50.55,5540.0,0.75,Maintain (Low-touch),Low/Mid,0,49860.0
+D1176,Cardiologist,T08,Private Hospital,5,R024,87,A,39,212150,1378,6,5.23,5439.74,3.25,Protect & Grow (Core),High,1,212150.0
+D1177,General Physician,T01,Government Hospital,24,R002,23,C,7,41840,358,6,26.28,5977.14,0.58,Maintain (Low-touch),Low/Mid,0,41840.0
+D1178,Cardiologist,T05,Private Clinic,8,R014,124,A,31,279290,1802,6,7.3,9009.35,2.58,Protect & Grow (Core),High,1,279290.0
+D1179,Gastroenterologist,T04,Multispecialty,4,R010,22,C,8,26350,266,6,-12.86,3293.75,0.67,Maintain (Low-touch),Low/Mid,0,26350.0
+D1180,General Physician,T03,Private Clinic,28,R007,21,B,15,35400,325,6,41.64,2360.0,1.25,Over-served (Reduce),Low/Mid,0,33692.69
+D1181,Pulmonologist,T07,Multispecialty,29,R020,9,C,5,12460,107,6,5.27,2492.0,0.42,Maintain (Low-touch),Low/Mid,0,12460.0
+D1182,Cardiologist,T08,Private Clinic,5,R022,32,A,49,139520,881,6,18.82,2847.35,4.08,Protect & Grow (Core),High,1,139520.0
+D1183,Gastroenterologist,T07,Private Clinic,5,R019,15,A,36,24760,261,6,37.39,687.78,3.0,Over-served (Reduce),Low/Mid,1,23565.85
+D1184,General Physician,T02,Multispecialty,22,R005,12,B,27,29700,265,6,38.55,1100.0,2.25,Over-served (Reduce),Low/Mid,0,28267.59
+D1185,Diabetologist,T02,Multispecialty,2,R005,44,A,40,127020,914,6,31.79,3175.5,3.33,Protect & Grow (Core),High,1,127020.0
+D1186,Diabetologist,T05,Multispecialty,26,R015,47,A,38,106660,783,6,-2.88,2806.84,3.17,Protect & Grow (Core),High,1,106660.0
+D1187,Cardiologist,T03,Multispecialty,32,R009,51,A,37,117760,768,6,17.07,3182.7,3.08,Protect & Grow (Core),High,1,117760.0
+D1188,Gastroenterologist,T06,Private Hospital,26,R018,18,C,15,20420,217,6,21.24,1361.33,1.25,Over-served (Reduce),Low/Mid,0,19435.16
+D1189,Gastroenterologist,T05,Private Clinic,9,R013,19,C,9,23990,255,6,7.71,2665.56,0.75,Maintain (Low-touch),Low/Mid,0,23990.0
+D1190,General Physician,T05,Private Clinic,8,R014,21,C,11,34180,320,6,26.21,3107.27,0.92,Maintain (Low-touch),Low/Mid,0,34180.0
+D1191,General Physician,T07,Private Hospital,24,R021,38,B,17,68920,617,6,17.62,4054.12,1.42,Protect & Grow (Core),High,1,68920.0
+D1192,General Physician,T06,Private Clinic,4,R017,59,A,39,133260,1187,6,23.29,3416.92,3.25,Protect & Grow (Core),High,1,133260.0
+D1193,General Physician,T01,Multispecialty,19,R002,24,B,14,51950,463,6,11.26,3710.71,1.17,Over-served (Reduce),Low/Mid,0,49444.5
+D1194,Diabetologist,T01,Private Clinic,16,R002,74,A,34,191240,1399,6,18.76,5624.71,2.83,Protect & Grow (Core),High,1,191240.0
+D1195,Gastroenterologist,T05,Private Clinic,26,R014,41,B,21,51450,507,6,8.47,2450.0,1.75,Protect & Grow (Core),High,1,51450.0
+D1196,Pulmonologist,T04,Private Clinic,8,R011,17,C,7,22440,199,6,13.11,3205.71,0.58,Maintain (Low-touch),Low/Mid,0,22440.0
+D1197,Pulmonologist,T02,Private Clinic,27,R004,31,B,22,64550,572,6,27.45,2934.09,1.83,Protect & Grow (Core),High,1,64550.0
+D1198,General Physician,T03,Private Clinic,25,R008,53,A,32,139950,1290,6,1.69,4373.44,2.67,Protect & Grow (Core),High,1,139950.0
+D1199,General Physician,T06,Government Hospital,9,R016,89,A,28,171750,1505,6,7.88,6133.93,2.33,Protect & Grow (Core),High,1,171750.0
+D1200,General Physician,T07,Private Clinic,13,R021,43,A,25,91300,808,6,-2.94,3652.0,2.08,Protect & Grow (Core),High,1,91300.0

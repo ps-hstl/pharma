@@ -1,0 +1,1201 @@
+doctor_id,specialty,territory_id,hospital_type,experience_years,rep_id,est_monthly_potential,assigned_tier
+D0001,Gastroenterologist,T05,Private Hospital,19,R013,19,C
+D0002,Pulmonologist,T07,Private Hospital,22,R020,25,C
+D0003,Diabetologist,T04,Private Hospital,2,R010,35,B
+D0004,Gastroenterologist,T02,Private Clinic,31,R004,23,C
+D0005,Pulmonologist,T05,Private Clinic,32,R014,45,A
+D0006,Gastroenterologist,T01,Private Hospital,21,R002,21,C
+D0007,General Physician,T07,Private Clinic,20,R019,35,B
+D0008,Cardiologist,T05,Multispecialty,24,R013,14,C
+D0009,Cardiologist,T06,Private Clinic,16,R016,6,C
+D0010,Diabetologist,T03,Private Clinic,14,R009,25,C
+D0011,General Physician,T08,Government Hospital,13,R023,40,B
+D0012,General Physician,T07,Private Clinic,7,R019,29,C
+D0013,Diabetologist,T06,Multispecialty,29,R016,27,B
+D0014,General Physician,T02,Government Hospital,12,R006,14,C
+D0015,Neurologist,T04,Private Clinic,11,R010,12,C
+D0016,Neurologist,T01,Government Hospital,33,R003,34,C
+D0017,General Physician,T01,Private Hospital,18,R002,32,B
+D0018,Cardiologist,T06,Government Hospital,22,R016,14,B
+D0019,Diabetologist,T06,Multispecialty,10,R016,47,A
+D0020,Gastroenterologist,T08,Government Hospital,11,R022,11,C
+D0021,Diabetologist,T03,Private Hospital,26,R009,14,C
+D0022,General Physician,T03,Private Clinic,16,R008,66,A
+D0023,Diabetologist,T04,Government Hospital,6,R011,37,B
+D0024,Cardiologist,T02,Multispecialty,29,R004,16,C
+D0025,Diabetologist,T01,Private Hospital,15,R003,26,C
+D0026,Neurologist,T04,Government Hospital,24,R010,22,A
+D0027,Diabetologist,T02,Private Hospital,13,R005,5,C
+D0028,Cardiologist,T06,Government Hospital,20,R018,13,C
+D0029,General Physician,T03,Multispecialty,27,R009,26,C
+D0030,Pulmonologist,T07,Private Clinic,31,R020,13,C
+D0031,Pulmonologist,T06,Private Clinic,8,R018,20,C
+D0032,Cardiologist,T03,Private Hospital,24,R007,39,A
+D0033,Pulmonologist,T07,Private Hospital,32,R021,16,C
+D0034,Diabetologist,T07,Private Hospital,23,R020,11,C
+D0035,Gastroenterologist,T03,Private Clinic,6,R008,27,C
+D0036,Diabetologist,T03,Private Hospital,8,R007,16,C
+D0037,General Physician,T06,Private Hospital,8,R018,19,A
+D0038,General Physician,T01,Private Hospital,5,R003,15,C
+D0039,Cardiologist,T02,Government Hospital,26,R006,94,A
+D0040,Cardiologist,T01,Government Hospital,33,R001,5,C
+D0041,Cardiologist,T07,Private Hospital,19,R020,12,C
+D0042,Gastroenterologist,T06,Government Hospital,21,R018,17,C
+D0043,Cardiologist,T06,Private Hospital,27,R017,10,C
+D0044,General Physician,T07,Private Hospital,15,R021,41,C
+D0045,General Physician,T04,Private Hospital,17,R012,37,B
+D0046,General Physician,T05,Private Clinic,21,R013,21,C
+D0047,Gastroenterologist,T01,Private Clinic,12,R002,13,C
+D0048,General Physician,T01,Private Hospital,4,R001,15,C
+D0049,Cardiologist,T06,Multispecialty,20,R017,20,B
+D0050,Neurologist,T04,Government Hospital,29,R011,13,C
+D0051,Pulmonologist,T05,Private Clinic,4,R015,20,C
+D0052,General Physician,T06,Private Hospital,9,R018,19,C
+D0053,Gastroenterologist,T05,Private Clinic,10,R014,37,B
+D0054,General Physician,T05,Government Hospital,28,R014,8,C
+D0055,Diabetologist,T05,Multispecialty,18,R014,11,C
+D0056,General Physician,T03,Private Hospital,19,R008,8,C
+D0057,Neurologist,T01,Private Hospital,23,R002,27,B
+D0058,Neurologist,T03,Private Clinic,11,R009,26,C
+D0059,General Physician,T02,Private Hospital,25,R006,22,B
+D0060,Pulmonologist,T03,Multispecialty,2,R009,8,C
+D0061,Pulmonologist,T07,Government Hospital,5,R019,68,A
+D0062,Gastroenterologist,T02,Private Hospital,28,R005,13,C
+D0063,Cardiologist,T01,Private Clinic,23,R002,20,C
+D0064,Pulmonologist,T03,Private Clinic,7,R008,40,B
+D0065,Diabetologist,T03,Private Clinic,16,R008,8,C
+D0066,Cardiologist,T06,Private Clinic,3,R018,16,C
+D0067,General Physician,T05,Private Clinic,24,R014,22,C
+D0068,Gastroenterologist,T07,Multispecialty,26,R019,123,A
+D0069,Pulmonologist,T06,Private Hospital,11,R017,30,C
+D0070,Neurologist,T03,Private Clinic,13,R009,61,A
+D0071,Neurologist,T07,Private Clinic,9,R019,57,A
+D0072,General Physician,T02,Private Clinic,14,R004,30,A
+D0073,General Physician,T01,Multispecialty,10,R003,9,C
+D0074,General Physician,T01,Private Clinic,10,R001,42,A
+D0075,Pulmonologist,T06,Government Hospital,16,R017,7,C
+D0076,Pulmonologist,T04,Multispecialty,30,R012,73,A
+D0077,Neurologist,T02,Private Clinic,27,R004,24,C
+D0078,Gastroenterologist,T04,Private Hospital,11,R011,5,B
+D0079,Neurologist,T01,Multispecialty,33,R001,15,B
+D0080,General Physician,T06,Private Hospital,8,R016,32,B
+D0081,Gastroenterologist,T04,Private Clinic,32,R010,20,C
+D0082,Pulmonologist,T03,Multispecialty,12,R007,33,B
+D0083,Pulmonologist,T03,Multispecialty,19,R008,11,C
+D0084,Pulmonologist,T05,Private Hospital,8,R014,8,C
+D0085,Cardiologist,T03,Private Hospital,27,R007,18,C
+D0086,Diabetologist,T01,Private Clinic,12,R003,17,B
+D0087,General Physician,T01,Multispecialty,30,R003,14,C
+D0088,Pulmonologist,T08,Private Hospital,4,R022,56,A
+D0089,Diabetologist,T08,Private Clinic,18,R024,11,C
+D0090,Gastroenterologist,T06,Government Hospital,7,R016,27,B
+D0091,General Physician,T02,Multispecialty,31,R005,15,C
+D0092,Diabetologist,T08,Multispecialty,15,R023,7,C
+D0093,General Physician,T06,Private Clinic,24,R017,8,C
+D0094,General Physician,T06,Private Clinic,31,R018,19,C
+D0095,Gastroenterologist,T04,Multispecialty,19,R012,82,A
+D0096,General Physician,T02,Multispecialty,3,R004,28,B
+D0097,Cardiologist,T01,Private Hospital,9,R002,5,C
+D0098,General Physician,T08,Private Hospital,9,R024,5,C
+D0099,Pulmonologist,T04,Private Hospital,32,R012,35,B
+D0100,General Physician,T02,Private Hospital,31,R006,18,C
+D0101,Gastroenterologist,T03,Private Clinic,17,R008,39,A
+D0102,Cardiologist,T05,Private Clinic,31,R013,9,C
+D0103,Cardiologist,T02,Private Clinic,10,R005,26,B
+D0104,General Physician,T07,Multispecialty,24,R021,43,C
+D0105,Gastroenterologist,T06,Private Clinic,14,R018,15,C
+D0106,Cardiologist,T06,Private Clinic,9,R018,12,C
+D0107,General Physician,T03,Private Hospital,10,R009,21,C
+D0108,General Physician,T05,Private Clinic,15,R014,29,B
+D0109,Neurologist,T05,Private Clinic,13,R013,22,C
+D0110,Neurologist,T05,Private Hospital,8,R014,43,B
+D0111,Cardiologist,T01,Private Clinic,13,R002,9,C
+D0112,General Physician,T03,Private Hospital,6,R009,8,C
+D0113,Pulmonologist,T01,Multispecialty,33,R002,70,B
+D0114,General Physician,T04,Private Clinic,14,R012,11,C
+D0115,Pulmonologist,T03,Multispecialty,5,R007,13,C
+D0116,Gastroenterologist,T01,Multispecialty,21,R003,20,C
+D0117,Diabetologist,T01,Multispecialty,31,R002,17,C
+D0118,Diabetologist,T05,Private Hospital,13,R015,17,B
+D0119,General Physician,T02,Private Hospital,29,R005,22,C
+D0120,Neurologist,T08,Private Hospital,22,R023,20,C
+D0121,Gastroenterologist,T05,Government Hospital,26,R013,20,A
+D0122,General Physician,T03,Private Clinic,11,R009,5,C
+D0123,General Physician,T05,Multispecialty,3,R015,84,A
+D0124,General Physician,T01,Private Hospital,13,R003,15,C
+D0125,Diabetologist,T08,Government Hospital,32,R022,34,B
+D0126,Gastroenterologist,T04,Private Clinic,28,R010,8,C
+D0127,General Physician,T07,Private Clinic,27,R021,14,C
+D0128,Pulmonologist,T01,Private Hospital,30,R001,10,C
+D0129,Cardiologist,T04,Private Hospital,14,R011,55,A
+D0130,General Physician,T04,Private Hospital,12,R011,14,C
+D0131,Neurologist,T08,Private Clinic,32,R024,29,B
+D0132,Gastroenterologist,T05,Private Clinic,20,R015,14,C
+D0133,General Physician,T04,Private Hospital,11,R012,15,C
+D0134,Gastroenterologist,T02,Private Clinic,11,R004,16,C
+D0135,Neurologist,T03,Multispecialty,30,R008,54,A
+D0136,Pulmonologist,T05,Private Clinic,3,R015,5,C
+D0137,Neurologist,T03,Private Clinic,4,R009,8,C
+D0138,Cardiologist,T01,Private Clinic,26,R001,6,C
+D0139,General Physician,T07,Private Hospital,2,R021,11,C
+D0140,General Physician,T07,Private Hospital,7,R020,12,C
+D0141,Pulmonologist,T01,Private Hospital,34,R001,6,B
+D0142,Pulmonologist,T05,Multispecialty,16,R014,11,C
+D0143,General Physician,T01,Private Clinic,26,R003,5,C
+D0144,Cardiologist,T06,Government Hospital,18,R016,10,C
+D0145,Gastroenterologist,T03,Private Clinic,4,R007,42,C
+D0146,Neurologist,T05,Private Clinic,8,R015,29,B
+D0147,General Physician,T06,Private Hospital,27,R018,29,C
+D0148,Diabetologist,T06,Private Clinic,5,R016,10,B
+D0149,General Physician,T01,Private Hospital,21,R003,6,A
+D0150,Pulmonologist,T08,Government Hospital,13,R024,8,B
+D0151,Gastroenterologist,T02,Government Hospital,14,R006,21,C
+D0152,Cardiologist,T01,Private Hospital,33,R001,37,B
+D0153,Neurologist,T05,Private Hospital,21,R014,42,B
+D0154,Gastroenterologist,T03,Private Clinic,22,R009,29,C
+D0155,Diabetologist,T07,Private Clinic,13,R021,13,C
+D0156,Cardiologist,T07,Private Clinic,14,R020,20,A
+D0157,Diabetologist,T03,Government Hospital,24,R007,15,C
+D0158,Pulmonologist,T08,Multispecialty,3,R022,17,C
+D0159,Cardiologist,T03,Private Clinic,9,R007,72,A
+D0160,General Physician,T04,Private Hospital,21,R010,7,C
+D0161,Neurologist,T02,Government Hospital,22,R004,17,C
+D0162,General Physician,T08,Multispecialty,5,R022,51,B
+D0163,General Physician,T02,Private Hospital,27,R006,7,C
+D0164,Cardiologist,T01,Private Hospital,19,R002,11,C
+D0165,General Physician,T03,Government Hospital,9,R008,13,C
+D0166,General Physician,T08,Multispecialty,26,R024,19,C
+D0167,General Physician,T07,Private Clinic,34,R020,6,C
+D0168,Neurologist,T06,Multispecialty,15,R017,27,B
+D0169,Neurologist,T07,Private Clinic,11,R019,33,B
+D0170,Cardiologist,T07,Multispecialty,11,R020,30,B
+D0171,Gastroenterologist,T04,Private Clinic,21,R010,13,C
+D0172,General Physician,T03,Private Clinic,3,R008,22,C
+D0173,General Physician,T06,Private Clinic,17,R018,12,C
+D0174,Cardiologist,T06,Private Hospital,2,R017,17,C
+D0175,General Physician,T03,Private Clinic,3,R007,78,A
+D0176,Pulmonologist,T01,Private Clinic,16,R003,19,C
+D0177,General Physician,T06,Private Hospital,26,R018,8,C
+D0178,Cardiologist,T02,Private Hospital,31,R005,19,C
+D0179,General Physician,T08,Government Hospital,4,R022,9,C
+D0180,General Physician,T02,Multispecialty,10,R006,9,C
+D0181,Cardiologist,T01,Government Hospital,15,R001,10,C
+D0182,Cardiologist,T07,Private Clinic,20,R021,10,C
+D0183,General Physician,T01,Private Clinic,34,R001,48,B
+D0184,Diabetologist,T02,Multispecialty,24,R005,27,B
+D0185,Gastroenterologist,T05,Private Clinic,19,R015,36,B
+D0186,General Physician,T07,Private Hospital,4,R019,8,C
+D0187,Gastroenterologist,T02,Multispecialty,4,R004,12,C
+D0188,Pulmonologist,T03,Multispecialty,7,R007,18,C
+D0189,Neurologist,T06,Private Hospital,23,R017,14,C
+D0190,Cardiologist,T08,Government Hospital,12,R023,14,C
+D0191,General Physician,T04,Private Hospital,9,R010,24,A
+D0192,Pulmonologist,T01,Government Hospital,24,R002,13,C
+D0193,Diabetologist,T01,Private Clinic,28,R003,26,C
+D0194,Pulmonologist,T02,Private Clinic,16,R006,66,B
+D0195,General Physician,T01,Private Hospital,31,R001,22,C
+D0196,Cardiologist,T06,Private Clinic,26,R017,42,B
+D0197,General Physician,T01,Government Hospital,25,R001,30,B
+D0198,General Physician,T04,Private Clinic,30,R011,6,C
+D0199,General Physician,T06,Multispecialty,8,R018,9,C
+D0200,General Physician,T05,Multispecialty,27,R015,11,C
+D0201,General Physician,T02,Private Hospital,33,R004,12,C
+D0202,General Physician,T07,Government Hospital,34,R019,21,C
+D0203,Cardiologist,T06,Private Clinic,21,R018,35,B
+D0204,General Physician,T06,Private Hospital,26,R018,43,A
+D0205,Gastroenterologist,T01,Private Clinic,31,R001,28,B
+D0206,Gastroenterologist,T01,Multispecialty,30,R001,15,C
+D0207,General Physician,T08,Multispecialty,31,R023,5,C
+D0208,General Physician,T03,Multispecialty,29,R008,19,C
+D0209,General Physician,T03,Multispecialty,14,R008,19,C
+D0210,Neurologist,T04,Multispecialty,26,R012,28,C
+D0211,Neurologist,T06,Private Clinic,15,R018,91,A
+D0212,Pulmonologist,T08,Multispecialty,28,R024,49,A
+D0213,Pulmonologist,T03,Private Hospital,28,R007,34,B
+D0214,Pulmonologist,T08,Private Hospital,32,R024,13,C
+D0215,Cardiologist,T01,Private Hospital,21,R003,16,C
+D0216,Cardiologist,T05,Private Clinic,17,R014,17,C
+D0217,General Physician,T05,Private Clinic,7,R014,11,C
+D0218,Neurologist,T01,Private Clinic,23,R003,28,B
+D0219,General Physician,T01,Private Clinic,20,R003,26,B
+D0220,Gastroenterologist,T03,Private Hospital,18,R008,9,C
+D0221,Cardiologist,T08,Multispecialty,24,R022,49,A
+D0222,Diabetologist,T05,Private Hospital,30,R014,25,C
+D0223,Diabetologist,T08,Private Hospital,6,R024,5,C
+D0224,General Physician,T07,Private Hospital,16,R019,17,C
+D0225,Diabetologist,T04,Private Hospital,25,R012,23,C
+D0226,Gastroenterologist,T07,Private Clinic,29,R019,38,B
+D0227,General Physician,T01,Multispecialty,27,R003,20,C
+D0228,General Physician,T01,Private Clinic,28,R002,40,C
+D0229,Diabetologist,T07,Government Hospital,30,R019,25,C
+D0230,Cardiologist,T07,Government Hospital,33,R019,8,C
+D0231,Diabetologist,T02,Private Hospital,22,R004,7,C
+D0232,Cardiologist,T05,Multispecialty,10,R015,36,A
+D0233,Diabetologist,T05,Private Clinic,20,R014,51,A
+D0234,Gastroenterologist,T07,Multispecialty,25,R021,27,B
+D0235,General Physician,T05,Government Hospital,5,R013,66,A
+D0236,Gastroenterologist,T03,Government Hospital,26,R009,41,B
+D0237,General Physician,T03,Government Hospital,19,R009,32,B
+D0238,Diabetologist,T03,Multispecialty,32,R007,11,C
+D0239,General Physician,T05,Multispecialty,8,R014,75,A
+D0240,Gastroenterologist,T07,Private Hospital,31,R021,24,B
+D0241,General Physician,T04,Multispecialty,16,R010,17,B
+D0242,General Physician,T02,Government Hospital,20,R004,13,C
+D0243,Pulmonologist,T02,Private Hospital,23,R006,21,C
+D0244,Cardiologist,T06,Multispecialty,21,R017,5,C
+D0245,Diabetologist,T07,Private Clinic,31,R019,32,B
+D0246,Neurologist,T01,Private Hospital,7,R003,12,C
+D0247,General Physician,T01,Private Clinic,26,R003,31,B
+D0248,Pulmonologist,T05,Private Clinic,34,R013,15,C
+D0249,General Physician,T01,Multispecialty,9,R001,21,B
+D0250,Gastroenterologist,T07,Private Clinic,10,R019,12,C
+D0251,Diabetologist,T03,Private Clinic,17,R009,20,C
+D0252,Pulmonologist,T01,Private Clinic,25,R001,71,B
+D0253,General Physician,T08,Private Hospital,33,R024,50,C
+D0254,General Physician,T02,Multispecialty,28,R005,24,A
+D0255,Neurologist,T03,Multispecialty,28,R008,15,C
+D0256,Diabetologist,T01,Private Clinic,16,R003,42,B
+D0257,General Physician,T01,Private Hospital,23,R003,41,A
+D0258,Diabetologist,T01,Private Hospital,8,R001,10,C
+D0259,General Physician,T01,Private Hospital,17,R001,16,C
+D0260,Diabetologist,T02,Private Hospital,8,R004,5,C
+D0261,Cardiologist,T01,Private Clinic,2,R003,53,A
+D0262,Neurologist,T05,Private Hospital,30,R014,107,C
+D0263,Gastroenterologist,T06,Private Hospital,28,R016,17,C
+D0264,Gastroenterologist,T03,Private Hospital,18,R007,5,C
+D0265,Neurologist,T03,Private Hospital,2,R008,27,B
+D0266,General Physician,T04,Multispecialty,4,R012,12,C
+D0267,Neurologist,T07,Government Hospital,5,R020,13,B
+D0268,Neurologist,T07,Private Clinic,25,R021,29,B
+D0269,Neurologist,T01,Multispecialty,8,R003,24,C
+D0270,Cardiologist,T02,Multispecialty,10,R006,13,C
+D0271,Gastroenterologist,T02,Private Clinic,30,R005,15,C
+D0272,Diabetologist,T02,Private Hospital,30,R006,23,C
+D0273,General Physician,T05,Private Clinic,27,R015,16,C
+D0274,Cardiologist,T03,Government Hospital,12,R008,6,C
+D0275,General Physician,T01,Private Clinic,21,R002,16,C
+D0276,Neurologist,T03,Government Hospital,8,R009,32,A
+D0277,General Physician,T05,Private Clinic,30,R014,21,B
+D0278,Neurologist,T01,Private Hospital,4,R001,6,C
+D0279,Cardiologist,T07,Multispecialty,26,R021,39,B
+D0280,General Physician,T01,Private Clinic,18,R001,5,C
+D0281,General Physician,T08,Multispecialty,26,R024,18,C
+D0282,General Physician,T01,Multispecialty,16,R002,13,B
+D0283,Neurologist,T07,Multispecialty,7,R020,20,C
+D0284,General Physician,T08,Private Clinic,26,R022,30,B
+D0285,General Physician,T08,Multispecialty,22,R023,30,A
+D0286,General Physician,T07,Private Clinic,17,R021,11,C
+D0287,Pulmonologist,T06,Private Clinic,14,R016,30,B
+D0288,General Physician,T05,Multispecialty,13,R015,25,C
+D0289,General Physician,T06,Government Hospital,17,R018,5,C
+D0290,General Physician,T01,Private Hospital,10,R003,72,A
+D0291,Pulmonologist,T05,Private Clinic,11,R014,8,C
+D0292,Neurologist,T04,Multispecialty,11,R010,22,B
+D0293,General Physician,T07,Government Hospital,2,R021,27,B
+D0294,Gastroenterologist,T04,Private Hospital,32,R011,25,C
+D0295,General Physician,T03,Multispecialty,9,R008,17,B
+D0296,Neurologist,T05,Private Clinic,7,R015,35,B
+D0297,Diabetologist,T02,Private Clinic,6,R006,7,C
+D0298,General Physician,T01,Private Hospital,34,R001,21,C
+D0299,Cardiologist,T04,Multispecialty,17,R012,11,C
+D0300,Diabetologist,T03,Private Clinic,12,R008,12,C
+D0301,General Physician,T02,Private Clinic,15,R006,26,B
+D0302,General Physician,T03,Private Clinic,4,R008,42,A
+D0303,General Physician,T03,Multispecialty,12,R009,17,B
+D0304,Diabetologist,T03,Private Clinic,10,R009,37,B
+D0305,Cardiologist,T03,Private Hospital,28,R009,19,C
+D0306,General Physician,T06,Multispecialty,3,R018,11,B
+D0307,Diabetologist,T03,Private Clinic,16,R008,20,A
+D0308,Diabetologist,T08,Private Hospital,28,R022,15,C
+D0309,Pulmonologist,T08,Private Hospital,29,R023,13,C
+D0310,Gastroenterologist,T04,Multispecialty,18,R011,26,B
+D0311,General Physician,T03,Private Clinic,9,R009,23,A
+D0312,General Physician,T05,Private Hospital,13,R014,5,C
+D0313,General Physician,T07,Private Clinic,9,R020,7,C
+D0314,Diabetologist,T05,Government Hospital,23,R013,25,B
+D0315,Pulmonologist,T07,Government Hospital,11,R021,13,B
+D0316,Neurologist,T05,Private Clinic,22,R014,23,C
+D0317,Diabetologist,T05,Private Clinic,23,R013,32,B
+D0318,Diabetologist,T03,Multispecialty,33,R007,9,C
+D0319,Pulmonologist,T06,Private Clinic,14,R018,8,C
+D0320,Cardiologist,T02,Private Clinic,33,R004,66,A
+D0321,Gastroenterologist,T06,Private Hospital,15,R017,28,B
+D0322,General Physician,T07,Private Clinic,24,R020,14,C
+D0323,Cardiologist,T01,Private Clinic,23,R001,10,C
+D0324,Neurologist,T05,Private Hospital,28,R013,13,C
+D0325,General Physician,T01,Private Clinic,17,R003,10,C
+D0326,General Physician,T06,Private Hospital,28,R017,34,B
+D0327,General Physician,T01,Government Hospital,13,R001,14,C
+D0328,Neurologist,T08,Private Hospital,18,R022,42,A
+D0329,General Physician,T01,Private Clinic,18,R002,15,C
+D0330,Diabetologist,T08,Multispecialty,25,R024,11,C
+D0331,Pulmonologist,T07,Private Clinic,22,R021,15,C
+D0332,Diabetologist,T05,Government Hospital,4,R013,5,C
+D0333,Neurologist,T07,Private Clinic,28,R021,18,C
+D0334,Pulmonologist,T07,Government Hospital,27,R021,20,C
+D0335,Diabetologist,T08,Private Clinic,5,R022,33,B
+D0336,General Physician,T02,Private Clinic,33,R004,5,B
+D0337,Pulmonologist,T05,Private Hospital,23,R015,45,A
+D0338,Diabetologist,T01,Private Clinic,4,R002,39,B
+D0339,Cardiologist,T05,Private Clinic,18,R015,48,A
+D0340,Neurologist,T02,Government Hospital,29,R004,24,C
+D0341,Pulmonologist,T05,Multispecialty,11,R013,40,B
+D0342,Pulmonologist,T05,Private Clinic,32,R013,7,C
+D0343,Diabetologist,T04,Multispecialty,15,R010,32,B
+D0344,General Physician,T05,Government Hospital,9,R014,10,C
+D0345,General Physician,T06,Multispecialty,13,R016,6,C
+D0346,Neurologist,T07,Government Hospital,19,R021,9,C
+D0347,General Physician,T04,Government Hospital,24,R011,23,C
+D0348,General Physician,T05,Private Hospital,32,R015,11,C
+D0349,General Physician,T08,Government Hospital,8,R023,25,B
+D0350,Gastroenterologist,T01,Multispecialty,33,R001,6,C
+D0351,General Physician,T01,Private Clinic,19,R002,5,B
+D0352,General Physician,T01,Private Clinic,6,R001,60,B
+D0353,General Physician,T05,Private Clinic,32,R015,34,B
+D0354,Neurologist,T03,Multispecialty,13,R009,9,A
+D0355,Cardiologist,T06,Private Hospital,22,R016,24,C
+D0356,Cardiologist,T06,Government Hospital,25,R017,42,B
+D0357,Neurologist,T03,Multispecialty,2,R008,26,C
+D0358,Neurologist,T07,Multispecialty,9,R019,24,C
+D0359,Neurologist,T06,Private Clinic,24,R016,48,A
+D0360,Gastroenterologist,T02,Government Hospital,12,R006,11,C
+D0361,Gastroenterologist,T03,Multispecialty,2,R007,21,C
+D0362,General Physician,T03,Private Clinic,2,R008,22,C
+D0363,Cardiologist,T01,Government Hospital,29,R001,14,C
+D0364,Diabetologist,T01,Private Clinic,7,R002,15,C
+D0365,General Physician,T08,Private Hospital,5,R022,18,C
+D0366,General Physician,T03,Private Hospital,20,R008,18,C
+D0367,General Physician,T03,Private Clinic,5,R008,9,C
+D0368,General Physician,T06,Private Clinic,23,R017,37,B
+D0369,General Physician,T05,Private Clinic,19,R014,10,C
+D0370,Pulmonologist,T08,Private Clinic,23,R022,16,C
+D0371,Neurologist,T07,Private Hospital,18,R020,16,C
+D0372,Diabetologist,T04,Private Clinic,27,R012,22,B
+D0373,Gastroenterologist,T03,Private Clinic,23,R008,5,C
+D0374,General Physician,T08,Government Hospital,15,R022,43,B
+D0375,Pulmonologist,T06,Government Hospital,2,R018,12,B
+D0376,Gastroenterologist,T08,Private Hospital,11,R024,46,A
+D0377,Pulmonologist,T01,Multispecialty,6,R003,15,C
+D0378,Diabetologist,T07,Private Clinic,2,R021,15,C
+D0379,Diabetologist,T05,Multispecialty,11,R015,82,A
+D0380,Cardiologist,T01,Private Clinic,8,R003,23,C
+D0381,General Physician,T05,Government Hospital,4,R014,47,A
+D0382,Neurologist,T06,Multispecialty,12,R016,20,C
+D0383,General Physician,T01,Multispecialty,18,R002,29,C
+D0384,General Physician,T04,Private Hospital,7,R010,25,C
+D0385,Diabetologist,T07,Private Hospital,11,R021,41,B
+D0386,Diabetologist,T03,Private Clinic,2,R008,9,C
+D0387,General Physician,T04,Government Hospital,3,R012,11,C
+D0388,Diabetologist,T04,Government Hospital,7,R011,17,C
+D0389,General Physician,T03,Multispecialty,16,R008,23,C
+D0390,Diabetologist,T08,Private Hospital,23,R024,15,C
+D0391,General Physician,T07,Private Clinic,28,R020,34,B
+D0392,General Physician,T01,Private Hospital,22,R002,42,A
+D0393,Diabetologist,T08,Private Clinic,22,R023,12,C
+D0394,Diabetologist,T07,Private Clinic,32,R021,11,C
+D0395,General Physician,T03,Private Clinic,10,R009,7,C
+D0396,Diabetologist,T07,Government Hospital,28,R019,75,A
+D0397,Neurologist,T01,Private Clinic,32,R002,23,B
+D0398,Neurologist,T08,Private Clinic,20,R023,33,B
+D0399,Diabetologist,T06,Private Clinic,29,R017,8,C
+D0400,General Physician,T05,Multispecialty,6,R013,19,A
+D0401,General Physician,T01,Government Hospital,30,R003,25,B
+D0402,Pulmonologist,T07,Private Clinic,20,R021,13,C
+D0403,General Physician,T01,Private Clinic,9,R001,36,A
+D0404,Diabetologist,T02,Private Hospital,4,R004,103,A
+D0405,Cardiologist,T01,Private Clinic,25,R002,12,C
+D0406,Gastroenterologist,T06,Private Hospital,16,R016,9,C
+D0407,General Physician,T02,Private Hospital,12,R006,13,C
+D0408,Cardiologist,T08,Multispecialty,14,R024,57,A
+D0409,Diabetologist,T05,Private Clinic,34,R015,40,B
+D0410,Gastroenterologist,T01,Government Hospital,16,R002,16,C
+D0411,General Physician,T01,Private Clinic,4,R003,23,C
+D0412,Cardiologist,T01,Multispecialty,11,R001,14,C
+D0413,Pulmonologist,T05,Multispecialty,6,R013,30,C
+D0414,General Physician,T07,Government Hospital,24,R019,15,C
+D0415,Pulmonologist,T02,Private Hospital,28,R006,19,C
+D0416,Diabetologist,T07,Private Clinic,29,R020,25,B
+D0417,Diabetologist,T01,Multispecialty,22,R001,19,C
+D0418,Neurologist,T07,Government Hospital,27,R019,20,C
+D0419,Neurologist,T08,Private Clinic,15,R023,20,B
+D0420,General Physician,T06,Private Hospital,22,R016,37,B
+D0421,General Physician,T06,Private Hospital,5,R017,77,A
+D0422,General Physician,T07,Multispecialty,19,R020,37,C
+D0423,General Physician,T01,Government Hospital,20,R001,35,C
+D0424,Neurologist,T02,Private Hospital,3,R004,16,C
+D0425,Neurologist,T01,Private Hospital,20,R002,11,C
+D0426,General Physician,T04,Private Clinic,25,R011,35,B
+D0427,Diabetologist,T06,Private Clinic,14,R016,19,C
+D0428,General Physician,T05,Private Clinic,19,R014,7,C
+D0429,General Physician,T07,Government Hospital,11,R020,16,C
+D0430,Cardiologist,T01,Private Hospital,10,R001,18,C
+D0431,Neurologist,T06,Private Hospital,6,R017,15,C
+D0432,Diabetologist,T02,Private Clinic,12,R004,74,A
+D0433,Diabetologist,T02,Private Clinic,28,R004,28,B
+D0434,Neurologist,T06,Private Hospital,32,R016,50,A
+D0435,Pulmonologist,T08,Private Clinic,22,R022,27,C
+D0436,General Physician,T05,Private Clinic,22,R013,22,C
+D0437,General Physician,T01,Government Hospital,22,R003,12,C
+D0438,General Physician,T05,Private Clinic,17,R013,21,C
+D0439,Diabetologist,T01,Private Clinic,15,R003,20,C
+D0440,Diabetologist,T07,Private Hospital,22,R021,6,C
+D0441,Diabetologist,T06,Multispecialty,27,R018,11,C
+D0442,Cardiologist,T02,Private Clinic,15,R006,12,C
+D0443,General Physician,T01,Government Hospital,20,R001,28,B
+D0444,Neurologist,T02,Multispecialty,17,R005,23,C
+D0445,Diabetologist,T08,Government Hospital,11,R024,15,C
+D0446,General Physician,T04,Private Hospital,11,R011,28,B
+D0447,Pulmonologist,T07,Government Hospital,4,R019,17,C
+D0448,Cardiologist,T05,Private Hospital,16,R014,5,C
+D0449,Diabetologist,T05,Private Hospital,25,R015,15,C
+D0450,General Physician,T01,Private Hospital,24,R003,39,A
+D0451,General Physician,T08,Private Clinic,34,R023,5,C
+D0452,Diabetologist,T03,Private Clinic,3,R007,25,C
+D0453,General Physician,T05,Private Hospital,27,R013,64,A
+D0454,General Physician,T06,Private Clinic,28,R016,11,C
+D0455,General Physician,T05,Private Hospital,16,R014,22,B
+D0456,Diabetologist,T08,Private Hospital,11,R022,8,C
+D0457,Cardiologist,T01,Multispecialty,13,R002,66,A
+D0458,General Physician,T04,Private Clinic,24,R010,17,C
+D0459,Pulmonologist,T03,Private Hospital,30,R007,26,C
+D0460,Gastroenterologist,T04,Private Hospital,23,R010,48,A
+D0461,General Physician,T01,Private Clinic,18,R001,38,B
+D0462,Cardiologist,T01,Private Clinic,23,R003,11,A
+D0463,General Physician,T02,Private Clinic,4,R006,14,C
+D0464,General Physician,T03,Private Clinic,22,R009,31,B
+D0465,General Physician,T03,Private Clinic,3,R008,15,C
+D0466,Neurologist,T05,Private Hospital,33,R013,5,C
+D0467,General Physician,T05,Private Hospital,31,R015,22,C
+D0468,Gastroenterologist,T03,Private Clinic,18,R008,9,C
+D0469,General Physician,T03,Private Clinic,14,R009,60,A
+D0470,General Physician,T02,Private Clinic,26,R005,23,C
+D0471,General Physician,T05,Private Hospital,23,R014,10,C
+D0472,Pulmonologist,T03,Private Clinic,25,R008,12,C
+D0473,Cardiologist,T01,Private Hospital,19,R001,6,C
+D0474,Diabetologist,T03,Private Clinic,9,R008,8,C
+D0475,Gastroenterologist,T04,Private Clinic,4,R012,36,B
+D0476,Gastroenterologist,T02,Multispecialty,11,R004,114,A
+D0477,Gastroenterologist,T05,Private Clinic,19,R013,36,B
+D0478,Pulmonologist,T05,Private Clinic,15,R015,24,C
+D0479,General Physician,T06,Private Clinic,18,R017,14,C
+D0480,General Physician,T05,Multispecialty,11,R015,10,C
+D0481,Diabetologist,T05,Private Hospital,32,R014,78,A
+D0482,General Physician,T03,Private Hospital,14,R008,18,C
+D0483,General Physician,T07,Multispecialty,29,R021,70,A
+D0484,Gastroenterologist,T05,Private Clinic,14,R014,58,A
+D0485,Diabetologist,T03,Multispecialty,16,R007,6,B
+D0486,General Physician,T05,Private Clinic,21,R014,13,B
+D0487,General Physician,T03,Private Hospital,10,R007,12,C
+D0488,General Physician,T04,Private Hospital,9,R011,17,C
+D0489,General Physician,T06,Private Clinic,14,R018,21,C
+D0490,General Physician,T07,Multispecialty,28,R019,141,A
+D0491,Pulmonologist,T08,Private Clinic,6,R024,10,C
+D0492,General Physician,T04,Multispecialty,16,R011,29,C
+D0493,Neurologist,T05,Private Clinic,24,R013,36,B
+D0494,General Physician,T07,Private Hospital,25,R019,16,C
+D0495,Cardiologist,T03,Multispecialty,16,R009,20,C
+D0496,Neurologist,T07,Private Clinic,4,R021,10,C
+D0497,General Physician,T04,Multispecialty,2,R012,21,C
+D0498,Pulmonologist,T01,Private Hospital,17,R002,24,B
+D0499,General Physician,T01,Government Hospital,28,R002,26,A
+D0500,Pulmonologist,T07,Private Clinic,2,R020,30,C
+D0501,General Physician,T01,Private Hospital,31,R002,66,B
+D0502,General Physician,T03,Government Hospital,24,R007,38,B
+D0503,Pulmonologist,T03,Private Hospital,2,R007,24,C
+D0504,General Physician,T02,Private Clinic,13,R006,7,C
+D0505,Pulmonologist,T03,Private Clinic,9,R008,12,C
+D0506,Gastroenterologist,T06,Multispecialty,33,R016,19,C
+D0507,General Physician,T01,Private Clinic,20,R003,27,B
+D0508,General Physician,T07,Government Hospital,12,R019,13,C
+D0509,Cardiologist,T07,Multispecialty,11,R020,10,C
+D0510,Diabetologist,T03,Private Clinic,20,R007,7,C
+D0511,General Physician,T01,Private Clinic,2,R002,6,C
+D0512,Gastroenterologist,T05,Government Hospital,10,R014,19,B
+D0513,Neurologist,T01,Private Clinic,7,R003,7,C
+D0514,Cardiologist,T03,Private Hospital,22,R009,10,C
+D0515,Pulmonologist,T08,Government Hospital,24,R024,13,C
+D0516,General Physician,T08,Private Hospital,17,R022,7,C
+D0517,Cardiologist,T06,Private Clinic,6,R016,32,B
+D0518,Pulmonologist,T03,Government Hospital,14,R009,34,C
+D0519,General Physician,T06,Private Hospital,29,R018,12,C
+D0520,Cardiologist,T06,Private Clinic,8,R016,14,C
+D0521,General Physician,T03,Private Hospital,7,R007,24,C
+D0522,Diabetologist,T05,Multispecialty,5,R014,11,C
+D0523,General Physician,T01,Government Hospital,28,R001,14,C
+D0524,General Physician,T02,Private Hospital,5,R004,46,A
+D0525,General Physician,T05,Private Clinic,21,R015,46,B
+D0526,Diabetologist,T02,Private Clinic,34,R005,30,B
+D0527,Gastroenterologist,T02,Private Clinic,23,R004,38,B
+D0528,General Physician,T07,Private Clinic,15,R020,5,C
+D0529,Diabetologist,T08,Multispecialty,8,R023,35,A
+D0530,Diabetologist,T05,Private Clinic,2,R014,27,B
+D0531,Cardiologist,T07,Multispecialty,7,R021,41,B
+D0532,General Physician,T08,Private Clinic,33,R022,31,B
+D0533,General Physician,T01,Private Clinic,6,R002,23,C
+D0534,General Physician,T04,Private Hospital,2,R012,14,C
+D0535,General Physician,T03,Private Clinic,28,R008,30,B
+D0536,Gastroenterologist,T01,Government Hospital,15,R003,16,C
+D0537,Neurologist,T06,Multispecialty,13,R017,33,B
+D0538,Neurologist,T03,Multispecialty,25,R008,7,C
+D0539,General Physician,T04,Private Clinic,19,R012,13,C
+D0540,Diabetologist,T01,Government Hospital,32,R002,100,A
+D0541,General Physician,T02,Private Clinic,17,R006,13,C
+D0542,General Physician,T08,Multispecialty,25,R024,17,C
+D0543,Pulmonologist,T01,Private Hospital,31,R003,12,C
+D0544,Gastroenterologist,T02,Private Clinic,17,R004,29,B
+D0545,Diabetologist,T03,Private Clinic,11,R008,13,C
+D0546,General Physician,T04,Private Clinic,34,R012,21,C
+D0547,General Physician,T05,Private Clinic,9,R014,39,B
+D0548,General Physician,T04,Multispecialty,3,R010,13,C
+D0549,Pulmonologist,T01,Government Hospital,21,R001,40,B
+D0550,Diabetologist,T02,Multispecialty,34,R006,35,B
+D0551,Diabetologist,T07,Private Clinic,4,R019,42,B
+D0552,Cardiologist,T05,Private Hospital,30,R013,27,C
+D0553,Cardiologist,T05,Private Clinic,29,R015,232,A
+D0554,Cardiologist,T06,Private Hospital,32,R016,42,C
+D0555,General Physician,T06,Private Clinic,15,R018,24,B
+D0556,Cardiologist,T01,Private Clinic,10,R002,13,B
+D0557,Cardiologist,T03,Private Hospital,18,R009,21,C
+D0558,General Physician,T05,Private Clinic,6,R014,57,C
+D0559,Gastroenterologist,T03,Private Hospital,29,R009,64,A
+D0560,General Physician,T07,Government Hospital,23,R021,59,A
+D0561,General Physician,T04,Private Clinic,17,R010,35,C
+D0562,General Physician,T06,Multispecialty,19,R018,8,C
+D0563,General Physician,T07,Private Hospital,25,R021,29,B
+D0564,Gastroenterologist,T04,Multispecialty,19,R010,9,C
+D0565,General Physician,T08,Government Hospital,29,R022,7,C
+D0566,Neurologist,T05,Government Hospital,32,R013,26,C
+D0567,Pulmonologist,T07,Government Hospital,33,R019,33,B
+D0568,Neurologist,T03,Multispecialty,22,R008,42,B
+D0569,Diabetologist,T04,Private Hospital,26,R012,28,B
+D0570,General Physician,T05,Private Clinic,12,R014,32,B
+D0571,Diabetologist,T01,Private Clinic,3,R001,10,C
+D0572,Diabetologist,T03,Private Hospital,15,R008,16,C
+D0573,Diabetologist,T08,Private Clinic,30,R022,8,C
+D0574,General Physician,T05,Private Clinic,6,R015,5,C
+D0575,Pulmonologist,T02,Private Clinic,20,R004,44,B
+D0576,General Physician,T03,Private Hospital,8,R009,14,C
+D0577,General Physician,T02,Private Clinic,16,R005,40,A
+D0578,Cardiologist,T01,Private Hospital,6,R001,45,A
+D0579,General Physician,T08,Government Hospital,26,R024,13,C
+D0580,Pulmonologist,T04,Multispecialty,28,R011,27,B
+D0581,Diabetologist,T03,Private Clinic,27,R009,10,C
+D0582,General Physician,T05,Private Hospital,25,R014,5,C
+D0583,General Physician,T01,Private Hospital,9,R003,22,C
+D0584,Pulmonologist,T02,Private Hospital,19,R005,11,C
+D0585,Gastroenterologist,T06,Government Hospital,5,R016,14,B
+D0586,Pulmonologist,T05,Private Clinic,14,R013,78,A
+D0587,Gastroenterologist,T08,Multispecialty,18,R023,7,C
+D0588,General Physician,T05,Private Clinic,24,R014,24,B
+D0589,Gastroenterologist,T04,Multispecialty,5,R012,10,C
+D0590,General Physician,T06,Private Hospital,28,R017,46,A
+D0591,Cardiologist,T08,Private Clinic,17,R024,27,C
+D0592,General Physician,T06,Government Hospital,31,R016,24,B
+D0593,General Physician,T08,Private Clinic,19,R023,10,C
+D0594,General Physician,T07,Government Hospital,20,R021,12,C
+D0595,Cardiologist,T07,Private Hospital,24,R019,35,C
+D0596,Neurologist,T01,Private Clinic,29,R001,63,C
+D0597,Neurologist,T06,Private Clinic,7,R018,32,B
+D0598,Cardiologist,T04,Government Hospital,18,R011,10,C
+D0599,Diabetologist,T05,Private Clinic,2,R015,22,C
+D0600,Neurologist,T05,Multispecialty,17,R014,109,C
+D0601,General Physician,T08,Government Hospital,28,R024,22,C
+D0602,Diabetologist,T08,Government Hospital,30,R024,43,B
+D0603,General Physician,T03,Private Clinic,11,R009,12,C
+D0604,Gastroenterologist,T06,Government Hospital,14,R016,22,C
+D0605,General Physician,T06,Multispecialty,20,R017,33,B
+D0606,Neurologist,T03,Private Clinic,15,R007,34,B
+D0607,Neurologist,T01,Private Clinic,7,R001,14,C
+D0608,Gastroenterologist,T01,Private Clinic,12,R001,13,C
+D0609,General Physician,T06,Private Clinic,15,R017,54,B
+D0610,Neurologist,T04,Government Hospital,19,R011,50,C
+D0611,Gastroenterologist,T08,Private Hospital,32,R024,59,A
+D0612,Gastroenterologist,T04,Private Hospital,19,R010,79,A
+D0613,General Physician,T08,Private Clinic,14,R023,21,C
+D0614,Cardiologist,T03,Private Clinic,23,R009,16,C
+D0615,Gastroenterologist,T07,Private Clinic,27,R021,48,A
+D0616,Neurologist,T01,Multispecialty,16,R001,35,B
+D0617,General Physician,T05,Private Hospital,18,R015,9,C
+D0618,Neurologist,T07,Private Clinic,9,R019,9,C
+D0619,Neurologist,T08,Government Hospital,30,R023,30,B
+D0620,General Physician,T07,Private Clinic,30,R020,17,C
+D0621,Neurologist,T01,Private Clinic,7,R003,15,C
+D0622,Diabetologist,T03,Private Clinic,13,R009,35,C
+D0623,Diabetologist,T01,Multispecialty,10,R003,29,B
+D0624,Cardiologist,T01,Government Hospital,32,R003,46,A
+D0625,Cardiologist,T06,Private Hospital,4,R017,5,C
+D0626,Neurologist,T06,Private Clinic,8,R018,25,C
+D0627,General Physician,T06,Private Clinic,12,R016,37,B
+D0628,General Physician,T07,Private Hospital,20,R020,8,C
+D0629,Cardiologist,T06,Private Clinic,10,R016,14,C
+D0630,Gastroenterologist,T07,Multispecialty,19,R021,12,C
+D0631,Diabetologist,T01,Government Hospital,26,R003,21,C
+D0632,General Physician,T02,Private Hospital,29,R006,71,A
+D0633,Diabetologist,T05,Government Hospital,5,R015,92,A
+D0634,General Physician,T07,Multispecialty,6,R019,12,B
+D0635,Pulmonologist,T01,Private Hospital,5,R003,33,B
+D0636,General Physician,T04,Private Hospital,32,R011,21,B
+D0637,Neurologist,T06,Multispecialty,23,R018,25,B
+D0638,General Physician,T01,Private Clinic,19,R003,26,B
+D0639,Diabetologist,T03,Multispecialty,28,R008,28,C
+D0640,General Physician,T07,Private Clinic,21,R019,78,C
+D0641,Gastroenterologist,T06,Private Hospital,9,R017,36,A
+D0642,General Physician,T02,Government Hospital,18,R005,11,C
+D0643,General Physician,T07,Private Hospital,25,R021,30,B
+D0644,General Physician,T03,Private Hospital,3,R008,32,B
+D0645,Diabetologist,T07,Private Hospital,22,R020,24,B
+D0646,Pulmonologist,T03,Private Clinic,18,R008,43,C
+D0647,Diabetologist,T05,Private Clinic,4,R013,19,C
+D0648,Diabetologist,T03,Private Clinic,10,R007,25,C
+D0649,Gastroenterologist,T02,Private Hospital,16,R004,24,C
+D0650,General Physician,T07,Private Hospital,13,R020,6,C
+D0651,General Physician,T02,Private Clinic,11,R005,18,C
+D0652,Gastroenterologist,T01,Multispecialty,23,R003,13,C
+D0653,General Physician,T03,Private Clinic,15,R009,9,C
+D0654,General Physician,T06,Private Hospital,18,R016,66,A
+D0655,General Physician,T07,Private Hospital,28,R019,19,C
+D0656,Diabetologist,T08,Private Clinic,5,R023,17,C
+D0657,Gastroenterologist,T03,Government Hospital,13,R009,14,C
+D0658,General Physician,T03,Private Hospital,4,R007,21,C
+D0659,Pulmonologist,T01,Private Clinic,32,R001,39,B
+D0660,Neurologist,T05,Multispecialty,8,R013,11,C
+D0661,General Physician,T08,Multispecialty,29,R023,18,C
+D0662,General Physician,T06,Government Hospital,8,R018,37,C
+D0663,General Physician,T05,Multispecialty,12,R015,6,C
+D0664,General Physician,T03,Multispecialty,22,R008,19,C
+D0665,Diabetologist,T08,Private Clinic,29,R022,14,C
+D0666,Pulmonologist,T04,Private Hospital,7,R011,18,B
+D0667,Gastroenterologist,T01,Private Hospital,9,R002,14,C
+D0668,Gastroenterologist,T03,Private Clinic,31,R007,17,C
+D0669,Gastroenterologist,T01,Private Clinic,12,R003,81,C
+D0670,General Physician,T02,Private Clinic,8,R006,15,C
+D0671,Neurologist,T01,Government Hospital,26,R001,28,C
+D0672,General Physician,T04,Government Hospital,5,R010,87,A
+D0673,Pulmonologist,T05,Government Hospital,30,R013,16,C
+D0674,Pulmonologist,T03,Private Clinic,30,R009,63,A
+D0675,Cardiologist,T03,Private Clinic,30,R008,19,C
+D0676,Diabetologist,T08,Private Hospital,11,R022,59,A
+D0677,General Physician,T06,Private Hospital,5,R016,31,B
+D0678,Neurologist,T05,Multispecialty,16,R013,29,B
+D0679,Diabetologist,T03,Multispecialty,13,R008,23,C
+D0680,General Physician,T07,Multispecialty,33,R021,11,C
+D0681,Gastroenterologist,T02,Multispecialty,22,R004,20,C
+D0682,Cardiologist,T03,Multispecialty,33,R007,37,A
+D0683,Pulmonologist,T08,Private Hospital,26,R023,21,C
+D0684,Diabetologist,T05,Private Clinic,25,R015,13,C
+D0685,General Physician,T06,Private Clinic,5,R017,14,C
+D0686,Diabetologist,T05,Private Clinic,4,R013,43,B
+D0687,Cardiologist,T05,Private Clinic,3,R013,36,C
+D0688,Cardiologist,T03,Private Clinic,21,R009,12,C
+D0689,Gastroenterologist,T02,Multispecialty,8,R006,13,C
+D0690,Cardiologist,T03,Private Clinic,34,R009,28,B
+D0691,General Physician,T01,Multispecialty,6,R002,58,A
+D0692,Diabetologist,T07,Government Hospital,33,R021,43,A
+D0693,Gastroenterologist,T03,Private Hospital,24,R008,9,C
+D0694,Neurologist,T05,Government Hospital,5,R013,17,C
+D0695,Neurologist,T07,Private Clinic,3,R020,10,C
+D0696,Cardiologist,T07,Private Hospital,15,R021,17,C
+D0697,General Physician,T03,Private Clinic,13,R008,65,C
+D0698,General Physician,T04,Multispecialty,12,R012,9,C
+D0699,Cardiologist,T08,Private Clinic,19,R024,7,C
+D0700,Diabetologist,T06,Private Clinic,6,R016,13,B
+D0701,General Physician,T07,Government Hospital,6,R019,23,C
+D0702,Gastroenterologist,T08,Government Hospital,24,R022,29,C
+D0703,Diabetologist,T07,Private Hospital,34,R021,27,B
+D0704,Diabetologist,T02,Private Hospital,11,R006,45,A
+D0705,General Physician,T05,Private Clinic,32,R013,5,C
+D0706,General Physician,T01,Government Hospital,13,R001,53,A
+D0707,Gastroenterologist,T05,Private Clinic,13,R014,18,C
+D0708,General Physician,T08,Private Clinic,4,R023,32,B
+D0709,Neurologist,T04,Private Clinic,15,R012,9,C
+D0710,Pulmonologist,T03,Private Clinic,18,R009,21,C
+D0711,Neurologist,T01,Private Clinic,23,R001,26,C
+D0712,Pulmonologist,T08,Private Hospital,7,R022,38,A
+D0713,Diabetologist,T01,Private Clinic,8,R002,7,C
+D0714,Cardiologist,T01,Private Clinic,16,R002,20,A
+D0715,Pulmonologist,T02,Private Hospital,4,R006,10,C
+D0716,General Physician,T01,Private Clinic,6,R002,26,B
+D0717,Cardiologist,T04,Government Hospital,22,R011,24,B
+D0718,Neurologist,T04,Multispecialty,33,R010,43,A
+D0719,General Physician,T03,Private Hospital,20,R007,14,C
+D0720,Gastroenterologist,T01,Multispecialty,6,R003,39,B
+D0721,General Physician,T01,Private Clinic,34,R003,63,C
+D0722,General Physician,T03,Private Clinic,19,R007,7,C
+D0723,General Physician,T01,Government Hospital,25,R003,31,C
+D0724,Cardiologist,T06,Government Hospital,8,R017,39,B
+D0725,Neurologist,T02,Multispecialty,21,R005,19,C
+D0726,Gastroenterologist,T03,Private Clinic,4,R009,8,C
+D0727,Diabetologist,T03,Government Hospital,22,R009,38,C
+D0728,Cardiologist,T03,Private Clinic,8,R007,8,C
+D0729,Diabetologist,T01,Private Clinic,32,R001,21,C
+D0730,Neurologist,T01,Private Clinic,3,R003,20,C
+D0731,Neurologist,T07,Multispecialty,23,R021,30,B
+D0732,Diabetologist,T01,Private Clinic,6,R001,13,C
+D0733,General Physician,T04,Multispecialty,24,R012,13,C
+D0734,General Physician,T04,Private Hospital,18,R011,21,C
+D0735,Diabetologist,T03,Government Hospital,33,R008,38,B
+D0736,General Physician,T03,Government Hospital,23,R007,92,A
+D0737,Cardiologist,T07,Multispecialty,14,R021,7,C
+D0738,General Physician,T07,Private Clinic,4,R021,24,B
+D0739,General Physician,T02,Private Clinic,21,R005,9,C
+D0740,Cardiologist,T03,Private Hospital,16,R009,34,B
+D0741,General Physician,T02,Private Clinic,3,R006,11,C
+D0742,General Physician,T04,Private Clinic,21,R012,12,C
+D0743,General Physician,T06,Private Clinic,8,R018,13,C
+D0744,General Physician,T02,Private Clinic,9,R006,19,B
+D0745,Gastroenterologist,T03,Private Clinic,2,R009,27,B
+D0746,Cardiologist,T08,Private Clinic,14,R024,31,B
+D0747,General Physician,T01,Multispecialty,9,R002,21,C
+D0748,Gastroenterologist,T04,Private Clinic,4,R012,8,C
+D0749,Gastroenterologist,T06,Multispecialty,16,R016,31,A
+D0750,Neurologist,T01,Multispecialty,9,R002,17,C
+D0751,Gastroenterologist,T01,Private Clinic,6,R002,42,A
+D0752,Diabetologist,T01,Government Hospital,17,R003,12,C
+D0753,General Physician,T08,Private Hospital,4,R022,6,C
+D0754,Cardiologist,T01,Government Hospital,34,R002,20,C
+D0755,General Physician,T02,Private Clinic,17,R004,44,A
+D0756,General Physician,T01,Private Clinic,34,R003,18,C
+D0757,Neurologist,T01,Private Clinic,31,R003,19,C
+D0758,Gastroenterologist,T05,Private Hospital,34,R013,10,C
+D0759,Pulmonologist,T02,Multispecialty,19,R006,62,A
+D0760,General Physician,T05,Government Hospital,15,R014,8,C
+D0761,General Physician,T05,Government Hospital,25,R015,13,C
+D0762,Pulmonologist,T07,Multispecialty,4,R021,35,B
+D0763,Diabetologist,T01,Government Hospital,29,R001,5,C
+D0764,Diabetologist,T07,Private Clinic,12,R019,48,A
+D0765,Neurologist,T05,Multispecialty,2,R014,35,B
+D0766,General Physician,T02,Private Clinic,9,R004,30,B
+D0767,General Physician,T06,Private Clinic,9,R016,37,B
+D0768,Diabetologist,T07,Private Hospital,2,R021,23,C
+D0769,General Physician,T02,Multispecialty,24,R006,6,C
+D0770,Pulmonologist,T08,Private Clinic,5,R023,18,C
+D0771,General Physician,T04,Private Hospital,29,R010,9,C
+D0772,Diabetologist,T05,Private Clinic,16,R013,27,B
+D0773,Gastroenterologist,T08,Private Clinic,25,R024,34,B
+D0774,General Physician,T03,Private Clinic,13,R007,62,C
+D0775,Diabetologist,T07,Government Hospital,6,R019,26,B
+D0776,General Physician,T03,Multispecialty,7,R008,34,B
+D0777,General Physician,T07,Private Clinic,23,R020,16,C
+D0778,Diabetologist,T05,Private Clinic,25,R014,15,C
+D0779,Cardiologist,T02,Private Clinic,10,R005,24,B
+D0780,General Physician,T03,Private Clinic,13,R009,12,C
+D0781,Pulmonologist,T03,Private Hospital,33,R008,30,C
+D0782,Cardiologist,T01,Government Hospital,30,R003,9,C
+D0783,Neurologist,T01,Private Hospital,15,R002,11,C
+D0784,General Physician,T03,Private Clinic,9,R008,30,B
+D0785,Pulmonologist,T01,Private Hospital,11,R002,40,B
+D0786,Pulmonologist,T02,Private Clinic,19,R006,12,C
+D0787,General Physician,T06,Private Clinic,20,R018,34,B
+D0788,Gastroenterologist,T06,Multispecialty,8,R016,11,C
+D0789,General Physician,T06,Government Hospital,4,R018,17,C
+D0790,Neurologist,T03,Multispecialty,18,R009,52,C
+D0791,General Physician,T07,Multispecialty,28,R021,34,B
+D0792,General Physician,T05,Private Hospital,7,R013,28,B
+D0793,Cardiologist,T01,Multispecialty,15,R003,84,A
+D0794,General Physician,T01,Private Hospital,7,R001,11,B
+D0795,Neurologist,T06,Private Clinic,9,R016,12,C
+D0796,Diabetologist,T02,Private Clinic,22,R006,15,C
+D0797,Diabetologist,T04,Private Clinic,11,R010,16,A
+D0798,General Physician,T08,Private Clinic,10,R024,5,C
+D0799,Cardiologist,T01,Private Clinic,34,R002,15,C
+D0800,Pulmonologist,T01,Government Hospital,7,R001,15,C
+D0801,Cardiologist,T08,Government Hospital,8,R022,33,A
+D0802,Neurologist,T05,Private Hospital,32,R015,22,B
+D0803,Neurologist,T01,Private Clinic,20,R003,13,C
+D0804,Gastroenterologist,T07,Government Hospital,3,R020,29,B
+D0805,Diabetologist,T07,Private Clinic,16,R021,32,A
+D0806,Cardiologist,T05,Private Clinic,20,R013,13,C
+D0807,Gastroenterologist,T05,Private Clinic,10,R014,13,C
+D0808,Pulmonologist,T02,Private Clinic,20,R004,5,C
+D0809,General Physician,T01,Private Clinic,23,R002,8,A
+D0810,Cardiologist,T05,Multispecialty,10,R013,14,C
+D0811,Cardiologist,T03,Government Hospital,28,R008,19,C
+D0812,Diabetologist,T06,Government Hospital,16,R017,10,C
+D0813,Neurologist,T07,Private Clinic,33,R020,13,C
+D0814,Pulmonologist,T01,Multispecialty,4,R002,8,C
+D0815,General Physician,T05,Government Hospital,12,R014,25,C
+D0816,Pulmonologist,T02,Private Clinic,25,R005,32,C
+D0817,Gastroenterologist,T07,Private Hospital,31,R019,30,B
+D0818,Gastroenterologist,T02,Private Hospital,9,R004,19,C
+D0819,Cardiologist,T05,Private Hospital,34,R014,7,C
+D0820,Gastroenterologist,T05,Private Clinic,8,R015,12,A
+D0821,Pulmonologist,T03,Private Hospital,15,R009,13,C
+D0822,Neurologist,T06,Private Clinic,12,R017,13,C
+D0823,Cardiologist,T06,Private Clinic,16,R018,20,C
+D0824,General Physician,T05,Private Clinic,31,R015,56,A
+D0825,General Physician,T06,Multispecialty,26,R017,27,C
+D0826,Cardiologist,T08,Private Clinic,28,R022,10,C
+D0827,Gastroenterologist,T03,Private Clinic,10,R008,38,B
+D0828,General Physician,T04,Private Clinic,33,R011,36,B
+D0829,Pulmonologist,T01,Multispecialty,16,R001,11,B
+D0830,General Physician,T07,Private Hospital,23,R021,30,C
+D0831,General Physician,T05,Multispecialty,25,R015,19,C
+D0832,General Physician,T03,Private Clinic,23,R007,5,C
+D0833,General Physician,T01,Private Clinic,21,R002,31,B
+D0834,Cardiologist,T07,Private Hospital,17,R019,23,C
+D0835,Neurologist,T03,Private Clinic,23,R007,21,C
+D0836,Gastroenterologist,T06,Multispecialty,31,R016,16,C
+D0837,Diabetologist,T01,Multispecialty,14,R002,13,C
+D0838,Pulmonologist,T08,Private Hospital,18,R022,30,B
+D0839,General Physician,T02,Multispecialty,7,R004,19,C
+D0840,Cardiologist,T02,Private Hospital,13,R005,19,C
+D0841,Neurologist,T07,Private Clinic,27,R020,28,B
+D0842,General Physician,T08,Private Hospital,23,R022,10,C
+D0843,Pulmonologist,T02,Private Clinic,8,R005,13,C
+D0844,Neurologist,T04,Multispecialty,20,R010,5,C
+D0845,General Physician,T06,Private Clinic,28,R018,28,B
+D0846,Neurologist,T07,Private Clinic,6,R020,8,C
+D0847,Cardiologist,T03,Private Hospital,4,R009,18,C
+D0848,Cardiologist,T04,Private Clinic,14,R010,31,B
+D0849,General Physician,T06,Private Clinic,23,R018,28,B
+D0850,Diabetologist,T06,Government Hospital,12,R017,10,C
+D0851,Gastroenterologist,T07,Private Clinic,29,R019,20,C
+D0852,Cardiologist,T05,Private Hospital,29,R015,67,B
+D0853,Neurologist,T01,Private Clinic,19,R001,64,A
+D0854,General Physician,T08,Private Clinic,14,R022,43,B
+D0855,Gastroenterologist,T07,Private Clinic,3,R021,25,B
+D0856,General Physician,T07,Government Hospital,29,R019,9,C
+D0857,Diabetologist,T01,Multispecialty,31,R002,36,B
+D0858,Gastroenterologist,T02,Private Clinic,16,R004,18,C
+D0859,General Physician,T06,Multispecialty,19,R016,27,B
+D0860,Neurologist,T01,Private Hospital,26,R001,14,C
+D0861,Diabetologist,T08,Private Hospital,24,R022,18,C
+D0862,General Physician,T03,Government Hospital,6,R008,24,C
+D0863,Pulmonologist,T06,Government Hospital,24,R017,23,C
+D0864,Gastroenterologist,T07,Multispecialty,32,R019,24,B
+D0865,General Physician,T03,Private Hospital,26,R008,16,C
+D0866,Diabetologist,T03,Private Hospital,17,R007,9,C
+D0867,Pulmonologist,T05,Private Clinic,19,R014,69,A
+D0868,Cardiologist,T05,Private Clinic,10,R015,109,A
+D0869,Pulmonologist,T03,Government Hospital,23,R009,26,B
+D0870,Diabetologist,T05,Private Clinic,9,R015,9,C
+D0871,General Physician,T08,Private Clinic,13,R022,11,C
+D0872,Diabetologist,T04,Private Clinic,10,R010,27,B
+D0873,General Physician,T02,Private Clinic,13,R006,63,A
+D0874,Diabetologist,T03,Private Hospital,14,R007,9,C
+D0875,Pulmonologist,T03,Private Hospital,4,R009,22,C
+D0876,Pulmonologist,T01,Private Hospital,25,R002,19,B
+D0877,General Physician,T02,Private Clinic,16,R004,39,B
+D0878,Neurologist,T06,Private Hospital,33,R018,20,C
+D0879,Pulmonologist,T03,Private Clinic,7,R008,7,C
+D0880,General Physician,T08,Government Hospital,24,R024,30,B
+D0881,Gastroenterologist,T02,Private Hospital,7,R005,38,A
+D0882,Diabetologist,T01,Private Hospital,20,R001,21,C
+D0883,General Physician,T06,Private Hospital,18,R018,24,B
+D0884,Pulmonologist,T07,Multispecialty,16,R019,14,C
+D0885,Cardiologist,T02,Government Hospital,23,R005,9,C
+D0886,Neurologist,T02,Private Hospital,29,R005,49,B
+D0887,Cardiologist,T02,Private Hospital,12,R006,30,B
+D0888,Diabetologist,T05,Private Clinic,30,R015,28,B
+D0889,General Physician,T04,Multispecialty,8,R011,50,A
+D0890,Cardiologist,T02,Private Clinic,11,R006,11,C
+D0891,General Physician,T01,Private Clinic,12,R001,13,B
+D0892,General Physician,T04,Multispecialty,33,R010,19,C
+D0893,Gastroenterologist,T08,Government Hospital,5,R024,11,C
+D0894,General Physician,T05,Private Clinic,15,R014,32,B
+D0895,General Physician,T04,Private Clinic,16,R011,15,C
+D0896,General Physician,T01,Private Clinic,28,R001,9,C
+D0897,Pulmonologist,T02,Private Hospital,18,R004,23,B
+D0898,Diabetologist,T03,Private Clinic,33,R009,22,C
+D0899,Gastroenterologist,T06,Multispecialty,26,R018,40,B
+D0900,Gastroenterologist,T07,Multispecialty,25,R021,24,B
+D0901,Diabetologist,T08,Private Hospital,26,R023,28,B
+D0902,Gastroenterologist,T08,Private Hospital,7,R023,31,B
+D0903,Cardiologist,T08,Private Clinic,16,R022,17,C
+D0904,General Physician,T08,Private Clinic,21,R022,13,C
+D0905,Diabetologist,T01,Government Hospital,8,R002,20,C
+D0906,Cardiologist,T01,Private Clinic,5,R002,19,C
+D0907,Cardiologist,T03,Private Clinic,6,R007,62,A
+D0908,Diabetologist,T05,Private Clinic,28,R014,58,A
+D0909,Diabetologist,T01,Private Clinic,23,R002,31,B
+D0910,Cardiologist,T07,Private Hospital,11,R021,28,B
+D0911,Diabetologist,T05,Government Hospital,26,R015,20,C
+D0912,Diabetologist,T05,Multispecialty,24,R014,8,A
+D0913,Pulmonologist,T02,Private Hospital,28,R005,20,C
+D0914,Pulmonologist,T02,Multispecialty,32,R006,20,C
+D0915,Pulmonologist,T02,Private Hospital,31,R006,26,C
+D0916,Pulmonologist,T07,Multispecialty,7,R019,27,B
+D0917,Cardiologist,T05,Private Hospital,27,R015,40,B
+D0918,Cardiologist,T06,Private Clinic,14,R016,12,C
+D0919,Diabetologist,T03,Multispecialty,15,R008,13,C
+D0920,General Physician,T03,Private Clinic,23,R007,48,A
+D0921,General Physician,T03,Private Clinic,21,R009,35,C
+D0922,General Physician,T06,Private Clinic,15,R016,15,C
+D0923,Gastroenterologist,T06,Private Clinic,34,R018,17,C
+D0924,Gastroenterologist,T02,Private Clinic,7,R004,19,C
+D0925,Pulmonologist,T08,Private Hospital,5,R022,21,C
+D0926,General Physician,T01,Multispecialty,2,R002,26,A
+D0927,General Physician,T07,Private Clinic,28,R021,117,A
+D0928,General Physician,T01,Private Hospital,15,R001,20,B
+D0929,General Physician,T02,Private Clinic,16,R004,41,B
+D0930,Neurologist,T07,Multispecialty,23,R019,7,C
+D0931,General Physician,T02,Private Clinic,16,R005,15,C
+D0932,General Physician,T03,Private Clinic,20,R007,54,A
+D0933,Pulmonologist,T04,Private Hospital,3,R012,20,B
+D0934,General Physician,T02,Government Hospital,7,R004,5,C
+D0935,Cardiologist,T06,Government Hospital,32,R018,31,B
+D0936,General Physician,T07,Private Hospital,16,R021,64,A
+D0937,General Physician,T07,Government Hospital,7,R021,5,C
+D0938,Cardiologist,T03,Private Clinic,14,R009,60,A
+D0939,General Physician,T05,Private Clinic,13,R015,5,C
+D0940,Cardiologist,T02,Private Clinic,11,R004,33,B
+D0941,General Physician,T02,Private Clinic,11,R005,21,C
+D0942,General Physician,T02,Private Clinic,26,R006,5,C
+D0943,Gastroenterologist,T08,Private Hospital,5,R023,29,A
+D0944,General Physician,T07,Private Clinic,12,R021,42,C
+D0945,Cardiologist,T06,Private Hospital,17,R018,30,B
+D0946,Diabetologist,T04,Private Hospital,19,R012,30,B
+D0947,Neurologist,T04,Government Hospital,31,R010,18,C
+D0948,Cardiologist,T05,Government Hospital,32,R014,5,C
+D0949,Neurologist,T05,Private Clinic,11,R013,36,B
+D0950,Diabetologist,T03,Private Clinic,19,R007,68,A
+D0951,Pulmonologist,T01,Private Hospital,2,R001,43,A
+D0952,Neurologist,T01,Private Hospital,22,R002,5,C
+D0953,General Physician,T08,Private Clinic,7,R023,7,C
+D0954,Diabetologist,T04,Private Clinic,4,R012,8,B
+D0955,General Physician,T08,Government Hospital,24,R024,5,C
+D0956,Neurologist,T02,Private Hospital,7,R006,24,C
+D0957,Pulmonologist,T05,Private Clinic,17,R013,30,B
+D0958,Gastroenterologist,T02,Private Hospital,5,R005,9,C
+D0959,Neurologist,T02,Multispecialty,26,R006,35,C
+D0960,Diabetologist,T01,Private Clinic,27,R001,26,C
+D0961,Gastroenterologist,T01,Multispecialty,20,R002,13,C
+D0962,Diabetologist,T08,Private Clinic,29,R024,18,C
+D0963,Pulmonologist,T03,Private Hospital,16,R009,5,C
+D0964,Gastroenterologist,T05,Private Hospital,8,R015,19,C
+D0965,Neurologist,T04,Private Clinic,6,R011,26,C
+D0966,General Physician,T03,Multispecialty,9,R008,24,C
+D0967,Diabetologist,T05,Private Hospital,8,R014,26,B
+D0968,General Physician,T02,Multispecialty,12,R006,20,C
+D0969,General Physician,T08,Private Clinic,9,R023,20,C
+D0970,General Physician,T07,Multispecialty,21,R020,25,C
+D0971,General Physician,T06,Multispecialty,6,R016,39,B
+D0972,Diabetologist,T04,Private Hospital,22,R011,20,C
+D0973,Gastroenterologist,T01,Private Clinic,13,R001,23,B
+D0974,Diabetologist,T08,Government Hospital,24,R023,18,C
+D0975,General Physician,T03,Private Hospital,18,R009,11,C
+D0976,Gastroenterologist,T01,Multispecialty,31,R003,33,C
+D0977,Diabetologist,T03,Private Hospital,16,R008,13,C
+D0978,General Physician,T07,Private Clinic,11,R021,30,C
+D0979,Cardiologist,T05,Private Clinic,21,R015,20,C
+D0980,Gastroenterologist,T06,Government Hospital,23,R017,16,C
+D0981,General Physician,T07,Multispecialty,16,R021,14,C
+D0982,Cardiologist,T02,Private Clinic,20,R005,15,C
+D0983,Gastroenterologist,T08,Government Hospital,17,R024,6,C
+D0984,General Physician,T03,Multispecialty,12,R008,25,C
+D0985,Cardiologist,T05,Private Clinic,12,R013,24,C
+D0986,Gastroenterologist,T01,Private Clinic,31,R001,37,C
+D0987,Diabetologist,T08,Government Hospital,24,R024,11,C
+D0988,General Physician,T03,Private Hospital,5,R007,74,A
+D0989,Cardiologist,T01,Private Clinic,33,R003,17,C
+D0990,General Physician,T04,Multispecialty,25,R010,10,C
+D0991,General Physician,T01,Private Hospital,3,R002,10,C
+D0992,Diabetologist,T01,Multispecialty,26,R002,6,C
+D0993,Pulmonologist,T05,Multispecialty,21,R014,58,A
+D0994,Gastroenterologist,T03,Multispecialty,32,R007,46,A
+D0995,General Physician,T08,Private Hospital,18,R022,30,B
+D0996,Neurologist,T03,Private Clinic,19,R008,12,B
+D0997,Diabetologist,T06,Private Hospital,12,R017,62,A
+D0998,Cardiologist,T04,Private Clinic,12,R012,15,C
+D0999,General Physician,T05,Government Hospital,22,R014,14,C
+D1000,Neurologist,T05,Private Clinic,29,R013,61,C
+D1001,General Physician,T04,Private Hospital,31,R010,32,B
+D1002,Neurologist,T08,Private Clinic,27,R023,84,A
+D1003,General Physician,T03,Private Clinic,22,R008,24,C
+D1004,Cardiologist,T02,Private Clinic,18,R006,13,C
+D1005,Cardiologist,T06,Private Hospital,13,R017,11,C
+D1006,General Physician,T07,Government Hospital,27,R020,5,C
+D1007,General Physician,T01,Private Clinic,12,R001,14,C
+D1008,Pulmonologist,T04,Multispecialty,10,R010,52,A
+D1009,Pulmonologist,T07,Multispecialty,30,R021,28,B
+D1010,Neurologist,T06,Private Clinic,21,R017,22,C
+D1011,Neurologist,T08,Government Hospital,13,R023,9,C
+D1012,Diabetologist,T05,Private Hospital,30,R014,26,C
+D1013,General Physician,T05,Private Clinic,33,R013,36,B
+D1014,Diabetologist,T03,Private Hospital,12,R008,27,C
+D1015,General Physician,T08,Private Clinic,19,R023,23,C
+D1016,Cardiologist,T03,Multispecialty,17,R007,15,C
+D1017,Cardiologist,T06,Multispecialty,25,R017,40,B
+D1018,General Physician,T03,Multispecialty,33,R008,5,A
+D1019,Pulmonologist,T05,Private Hospital,20,R013,28,B
+D1020,General Physician,T06,Private Hospital,28,R017,153,A
+D1021,Cardiologist,T04,Multispecialty,21,R012,6,C
+D1022,General Physician,T08,Private Clinic,31,R022,15,C
+D1023,General Physician,T03,Private Clinic,15,R009,19,C
+D1024,General Physician,T05,Private Hospital,14,R014,14,C
+D1025,Cardiologist,T03,Private Clinic,15,R009,40,B
+D1026,Pulmonologist,T03,Private Clinic,34,R007,24,B
+D1027,Pulmonologist,T04,Private Clinic,22,R012,26,A
+D1028,Gastroenterologist,T01,Private Hospital,7,R002,29,B
+D1029,Pulmonologist,T01,Private Clinic,3,R003,20,C
+D1030,Cardiologist,T06,Private Clinic,19,R018,209,A
+D1031,Pulmonologist,T05,Private Clinic,28,R013,22,B
+D1032,Diabetologist,T06,Private Clinic,17,R016,20,C
+D1033,Pulmonologist,T01,Multispecialty,20,R001,5,C
+D1034,Diabetologist,T03,Private Clinic,28,R008,13,B
+D1035,Diabetologist,T02,Government Hospital,19,R006,41,A
+D1036,General Physician,T06,Government Hospital,31,R017,8,C
+D1037,Pulmonologist,T07,Private Clinic,23,R019,5,C
+D1038,Pulmonologist,T02,Multispecialty,26,R004,23,C
+D1039,Gastroenterologist,T06,Government Hospital,27,R017,53,A
+D1040,General Physician,T01,Private Hospital,22,R003,21,C
+D1041,Pulmonologist,T02,Private Clinic,3,R004,19,C
+D1042,Gastroenterologist,T01,Private Clinic,16,R002,5,C
+D1043,General Physician,T03,Multispecialty,6,R008,25,C
+D1044,Gastroenterologist,T06,Government Hospital,18,R016,30,B
+D1045,General Physician,T08,Multispecialty,6,R024,6,C
+D1046,General Physician,T02,Multispecialty,18,R006,44,A
+D1047,Cardiologist,T05,Private Clinic,13,R014,31,B
+D1048,Neurologist,T06,Government Hospital,2,R018,34,A
+D1049,General Physician,T08,Private Hospital,6,R024,28,A
+D1050,General Physician,T05,Government Hospital,18,R015,33,B
+D1051,Neurologist,T02,Private Clinic,4,R004,29,C
+D1052,Cardiologist,T05,Private Clinic,30,R013,42,B
+D1053,Gastroenterologist,T03,Government Hospital,27,R008,7,C
+D1054,Cardiologist,T08,Government Hospital,25,R022,8,C
+D1055,General Physician,T03,Private Hospital,7,R007,14,C
+D1056,Gastroenterologist,T06,Private Clinic,28,R017,20,C
+D1057,General Physician,T01,Private Clinic,22,R002,32,B
+D1058,General Physician,T03,Multispecialty,14,R007,31,B
+D1059,General Physician,T07,Private Hospital,2,R019,49,C
+D1060,Gastroenterologist,T05,Private Hospital,19,R013,49,A
+D1061,General Physician,T04,Private Hospital,28,R011,11,A
+D1062,General Physician,T08,Private Hospital,3,R024,24,C
+D1063,General Physician,T07,Private Hospital,3,R020,11,A
+D1064,Cardiologist,T03,Private Hospital,14,R007,19,C
+D1065,Gastroenterologist,T05,Multispecialty,18,R014,23,B
+D1066,Diabetologist,T04,Multispecialty,17,R010,5,C
+D1067,General Physician,T05,Multispecialty,16,R013,78,A
+D1068,General Physician,T03,Private Hospital,10,R007,36,B
+D1069,Neurologist,T02,Private Hospital,3,R005,13,A
+D1070,Diabetologist,T08,Government Hospital,3,R023,82,A
+D1071,Pulmonologist,T08,Multispecialty,5,R023,19,C
+D1072,General Physician,T07,Private Hospital,24,R020,23,C
+D1073,Diabetologist,T08,Government Hospital,27,R023,17,C
+D1074,Cardiologist,T06,Government Hospital,16,R018,54,A
+D1075,General Physician,T06,Government Hospital,4,R018,24,C
+D1076,General Physician,T06,Government Hospital,15,R016,25,B
+D1077,Diabetologist,T04,Private Clinic,34,R012,48,C
+D1078,Pulmonologist,T04,Private Hospital,10,R010,35,C
+D1079,General Physician,T02,Private Hospital,18,R004,17,C
+D1080,General Physician,T05,Private Clinic,19,R014,42,A
+D1081,Gastroenterologist,T03,Multispecialty,12,R007,139,A
+D1082,Pulmonologist,T02,Private Hospital,16,R005,19,C
+D1083,Pulmonologist,T05,Private Clinic,17,R013,23,C
+D1084,Cardiologist,T03,Multispecialty,17,R008,24,C
+D1085,General Physician,T02,Government Hospital,25,R006,62,A
+D1086,Cardiologist,T07,Government Hospital,21,R021,11,B
+D1087,Cardiologist,T07,Private Clinic,3,R019,20,C
+D1088,General Physician,T02,Multispecialty,2,R005,6,B
+D1089,General Physician,T01,Private Hospital,15,R002,8,B
+D1090,General Physician,T03,Private Hospital,31,R008,12,C
+D1091,Neurologist,T07,Private Clinic,3,R020,17,C
+D1092,Neurologist,T07,Private Hospital,4,R021,73,A
+D1093,Neurologist,T01,Government Hospital,24,R002,25,B
+D1094,Pulmonologist,T06,Private Hospital,16,R016,12,C
+D1095,Gastroenterologist,T01,Private Hospital,9,R003,11,C
+D1096,Neurologist,T03,Multispecialty,8,R009,45,A
+D1097,Gastroenterologist,T08,Government Hospital,23,R022,41,A
+D1098,General Physician,T02,Private Clinic,19,R005,21,B
+D1099,General Physician,T01,Multispecialty,23,R003,14,C
+D1100,Cardiologist,T03,Government Hospital,11,R008,44,A
+D1101,Pulmonologist,T05,Multispecialty,19,R014,11,C
+D1102,Diabetologist,T08,Multispecialty,30,R024,30,B
+D1103,Pulmonologist,T08,Multispecialty,12,R024,95,A
+D1104,Pulmonologist,T01,Government Hospital,15,R002,20,C
+D1105,Diabetologist,T01,Private Hospital,7,R001,12,C
+D1106,General Physician,T07,Private Clinic,23,R020,28,B
+D1107,Neurologist,T02,Private Hospital,3,R006,12,C
+D1108,General Physician,T07,Government Hospital,10,R019,7,C
+D1109,Cardiologist,T06,Private Hospital,25,R017,30,B
+D1110,Cardiologist,T01,Multispecialty,2,R002,43,A
+D1111,Neurologist,T07,Private Clinic,34,R019,15,C
+D1112,Cardiologist,T02,Private Clinic,15,R005,17,C
+D1113,Diabetologist,T03,Private Hospital,15,R009,8,B
+D1114,General Physician,T05,Private Hospital,19,R013,15,C
+D1115,Diabetologist,T04,Private Clinic,23,R011,13,C
+D1116,Diabetologist,T06,Private Clinic,17,R018,10,C
+D1117,Gastroenterologist,T05,Multispecialty,31,R013,62,A
+D1118,Neurologist,T08,Private Hospital,33,R023,26,B
+D1119,Gastroenterologist,T08,Private Clinic,8,R022,29,B
+D1120,Pulmonologist,T04,Private Clinic,25,R011,36,B
+D1121,General Physician,T01,Private Hospital,11,R002,35,B
+D1122,Cardiologist,T06,Private Clinic,34,R016,14,C
+D1123,Neurologist,T08,Government Hospital,10,R022,29,C
+D1124,General Physician,T03,Government Hospital,11,R008,18,C
+D1125,General Physician,T04,Private Clinic,25,R012,25,B
+D1126,Pulmonologist,T03,Private Hospital,28,R007,26,B
+D1127,Gastroenterologist,T01,Private Clinic,6,R003,16,C
+D1128,Cardiologist,T06,Private Clinic,20,R016,9,C
+D1129,Diabetologist,T03,Multispecialty,13,R008,21,C
+D1130,Cardiologist,T07,Private Hospital,22,R020,19,C
+D1131,General Physician,T07,Multispecialty,20,R020,5,C
+D1132,Pulmonologist,T07,Private Clinic,34,R019,34,B
+D1133,General Physician,T03,Private Clinic,32,R009,46,B
+D1134,Cardiologist,T03,Private Hospital,23,R007,121,A
+D1135,General Physician,T06,Private Hospital,24,R018,15,C
+D1136,General Physician,T07,Multispecialty,31,R020,15,C
+D1137,Cardiologist,T04,Private Clinic,8,R011,9,C
+D1138,Cardiologist,T07,Multispecialty,25,R019,28,C
+D1139,Cardiologist,T01,Multispecialty,27,R002,23,C
+D1140,General Physician,T07,Private Hospital,6,R021,11,C
+D1141,Diabetologist,T01,Private Clinic,31,R003,17,C
+D1142,Gastroenterologist,T01,Private Hospital,25,R003,5,C
+D1143,Neurologist,T05,Private Clinic,13,R013,41,C
+D1144,General Physician,T01,Government Hospital,17,R002,11,C
+D1145,Neurologist,T01,Private Hospital,18,R002,22,C
+D1146,Gastroenterologist,T01,Multispecialty,32,R003,6,C
+D1147,General Physician,T03,Private Hospital,33,R009,14,C
+D1148,Diabetologist,T06,Private Hospital,28,R018,19,B
+D1149,General Physician,T01,Government Hospital,23,R001,15,C
+D1150,Cardiologist,T05,Private Hospital,5,R013,35,B
+D1151,Neurologist,T07,Multispecialty,32,R021,52,A
+D1152,General Physician,T02,Private Clinic,6,R006,34,B
+D1153,General Physician,T01,Multispecialty,7,R002,42,B
+D1154,General Physician,T07,Multispecialty,4,R019,60,A
+D1155,Diabetologist,T07,Multispecialty,33,R019,31,B
+D1156,Neurologist,T05,Private Hospital,18,R015,22,C
+D1157,Pulmonologist,T07,Multispecialty,9,R020,43,B
+D1158,Gastroenterologist,T01,Private Clinic,4,R002,52,A
+D1159,Neurologist,T03,Government Hospital,15,R009,34,B
+D1160,Pulmonologist,T06,Private Clinic,25,R016,9,A
+D1161,Pulmonologist,T02,Private Clinic,34,R006,12,C
+D1162,Diabetologist,T06,Private Hospital,20,R016,13,C
+D1163,Pulmonologist,T04,Private Clinic,22,R012,46,B
+D1164,Diabetologist,T06,Private Clinic,29,R018,18,C
+D1165,General Physician,T04,Multispecialty,31,R011,53,A
+D1166,Gastroenterologist,T03,Private Clinic,11,R007,51,A
+D1167,Cardiologist,T02,Government Hospital,34,R004,52,A
+D1168,General Physician,T02,Private Clinic,19,R004,43,C
+D1169,General Physician,T06,Government Hospital,32,R018,10,C
+D1170,Diabetologist,T01,Government Hospital,5,R001,27,B
+D1171,Diabetologist,T01,Private Hospital,5,R002,16,C
+D1172,Cardiologist,T02,Government Hospital,31,R005,7,C
+D1173,Cardiologist,T02,Multispecialty,24,R006,18,C
+D1174,General Physician,T07,Multispecialty,7,R021,38,C
+D1175,General Physician,T03,Private Clinic,31,R008,27,B
+D1176,Cardiologist,T08,Private Hospital,5,R024,87,A
+D1177,General Physician,T01,Government Hospital,24,R002,23,C
+D1178,Cardiologist,T05,Private Clinic,8,R014,124,A
+D1179,Gastroenterologist,T04,Multispecialty,4,R010,22,C
+D1180,General Physician,T03,Private Clinic,28,R007,21,B
+D1181,Pulmonologist,T07,Multispecialty,29,R020,9,C
+D1182,Cardiologist,T08,Private Clinic,5,R022,32,A
+D1183,Gastroenterologist,T07,Private Clinic,5,R019,15,A
+D1184,General Physician,T02,Multispecialty,22,R005,12,B
+D1185,Diabetologist,T02,Multispecialty,2,R005,44,A
+D1186,Diabetologist,T05,Multispecialty,26,R015,47,A
+D1187,Cardiologist,T03,Multispecialty,32,R009,51,A
+D1188,Gastroenterologist,T06,Private Hospital,26,R018,18,C
+D1189,Gastroenterologist,T05,Private Clinic,9,R013,19,C
+D1190,General Physician,T05,Private Clinic,8,R014,21,C
+D1191,General Physician,T07,Private Hospital,24,R021,38,B
+D1192,General Physician,T06,Private Clinic,4,R017,59,A
+D1193,General Physician,T01,Multispecialty,19,R002,24,B
+D1194,Diabetologist,T01,Private Clinic,16,R002,74,A
+D1195,Gastroenterologist,T05,Private Clinic,26,R014,41,B
+D1196,Pulmonologist,T04,Private Clinic,8,R011,17,C
+D1197,Pulmonologist,T02,Private Clinic,27,R004,31,B
+D1198,General Physician,T03,Private Clinic,25,R008,53,A
+D1199,General Physician,T06,Government Hospital,9,R016,89,A
+D1200,General Physician,T07,Private Clinic,13,R021,43,A

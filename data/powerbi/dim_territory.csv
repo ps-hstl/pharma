@@ -1,0 +1,9 @@
+territory_id,territory_name,region
+T01,Mumbai,West
+T02,Pune,West
+T03,Delhi,North
+T04,Jaipur,North
+T05,Bengaluru,South
+T06,Chennai,South
+T07,Kolkata,East
+T08,Ahmedabad,West
